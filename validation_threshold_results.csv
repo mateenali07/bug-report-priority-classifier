@@ -1,0 +1,4 @@
+threshold,validation_macro_f1,accepted_pseudo_labels,iterations,stop_reason,pseudo_code_0,pseudo_code_1,pseudo_code_2,pseudo_code_3,pseudo_code_4
+0.45,0.22414123077617934,542,5,max_iter,164,0,378,0,0
+0.55,0.26358028622185864,0,1,no_change,0,0,0,0,0
+0.65,0.26358028622185864,0,1,no_change,0,0,0,0,0

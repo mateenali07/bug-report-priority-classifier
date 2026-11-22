@@ -1,0 +1,1329 @@
+Issue_id,Title,Predicted_Priority,Model_Confidence,Recognized_Vocabulary,Needs_Review,Exact_Training_Text_Match
+6578,Finalize yield syntax to match ES4/JS2 proposal,1,0.2736058090408124,True,True,False
+8050,e10s HTTP: offline application cache,2,0.2608061486821247,True,True,False
+5281,[FIX]Add GetOwnerDocument on nsIContent or nsGenericElement,1,0.29616855460271657,True,True,False
+7871,Text editing broken in Firebug edit mode and other extensions,1,0.31002171012835317,True,True,False
+2411,shockwave movies redraw improperly on mac(nsbeta3 rtm),2,0.7338672237536098,True,False,False
+2120,Cancelling the file picker causes crash,2,0.30864315079547416,True,True,False
+217,[toolbox] [debugger] sidepanels dont show up after the toolbox is docked,2,0.30118631242866833,True,True,False
+8680,WebRTC crash [@ mozilla::NrIceCtx::GetGlobalAttributes],0,0.43065107353912374,True,True,False
+5027,Margin value isnt always saved as entered,2,0.33171653855500977,True,True,False
+3583,crashes [@ SECITEM_CompareItem],0,0.7853014813076339,True,False,False
+7977,No wheel scrolling anymore after playing embedded movie.,2,0.3264173635184176,True,True,False
+7146,Leaking nsThread and nsTimerImpl running full set of Mochitests,2,0.3194335643394438,True,True,False
+3221,realplayer launches seperately and embed player does not appear,2,0.32276373284426935,True,True,False
+5883,Malformed URIs are badly handled in xul error pages,1,0.2903351071005594,True,True,False
+4128,(nsIURI) nsStandardURL::SetFileName doesnt recalculate mPath,1,0.3270634365004153,True,True,False
+7691,Exploitable crash in [@txMozillaXSLTProcessor::TransformToDoc ],0,0.32470954309531136,True,True,False
+4874,nsIStringEnumerator,1,0.30205772481429116,True,True,False
+5414,[FIX]Crash on page with recursive frames,1,0.2531488757395168,True,True,False
+4841,print preview on huge page completely broken,2,0.3274522243032705,True,True,False
+2285,M17 crashes when loading the page with two load event listeners,0,0.35210684979177304,True,True,False
+1250,[BLOCKER] backspace in GFX text control crashes on event procesing in the PresShell,0,0.3749006034606383,True,True,False
+6216,eval(...) = ... gives invalid assignment lefthand side as a compile-time error instead of as a runtime error,3,0.27505152253512977,True,True,False
+4648,Active Accessibility: dont use name attribute for accessible name,1,0.3452384963392024,True,True,False
+2927,infinite loop: promise passed as base type confuses iterator,2,0.3388496651439426,True,True,False
+2752,post-install replace,1,0.25615417157041864,True,True,False
+4248,[FIX]`PRBool readError might be used uninitialized (bug 27609 leftovers),0,0.389577282747774,True,True,False
+2242,style overflow: scroll crashes,0,0.3387323074477401,True,True,False
+1735,Closing all open browser windows disables key commands,2,0.3002053540591685,True,True,False
+2482,crash when plugin has an inline parent,1,0.282301508842376,True,True,False
+1542,drag events bubble up even when handled,2,0.2685896534903262,True,True,False
+3388,CVS builds failing in nsCopySupport.cpp,0,0.451431932335926,True,True,False
+789,Crash in XIF code outputting text or HTML,0,0.28947340290453866,True,True,False
+5578,Mozilla not exposing MSAA info on release builds,0,0.2653324097892705,True,True,False
+3101,crash after clicking on link in an Image Map - Trunk [@ NS_MakeAbsoluteURI][@ gklayout!nsQueryReferent::operator=],2,0.3853752779567475,True,True,False
+6435,Spell checker marks word as partially wrong,1,0.2828219096269395,True,True,False
+189,Australis tabs Windows lightweight theme support,1,0.31220900213752717,True,True,False
+1801,cant set font across paragraphs and images,2,0.26350408308711337,True,True,False
+4134,Changing menu item label doesnt update item,2,0.2670893308446243,True,True,False
+7495,TM: Wrong value for (0 in [3]),0,0.43518570686206565,True,True,False
+7060,update MathML font documentation,0,0.27313153311091093,True,True,False
+5194,infinite network loop when auth realm changes,2,0.28091052705263797,True,True,False
+4651,No redirect warning as in Nav 4.79,2,0.2785846040155201,True,True,False
+262,Return NO_DEVICES_FOUND error when only video or only audio is requested with no suitable device available,2,0.27521995303724117,True,True,False
+1512,[DOGFOOD] JS attempt to call onblur handler crashes when window is coming down,0,0.5844303052927099,True,True,False
+3429,WRMB: Adjust the nsCSSParser quirks,1,0.35788665185730567,True,True,False
+8350,nsSVGFeatures::PassesConditionalProcessingTests doesnt need to get the intl.accept_languages pref on each call,1,0.24623225583741112,True,True,False
+834,blank bug,0,0.315021425389371,True,True,False
+1995,Crash when removing all cookies in cookie manager,0,0.8182887034833011,True,False,False
+3113,Name of CRL list does not appear,2,0.29692750436182486,True,True,False
+7386,TM: v8-richards.js benchmark opens a print dialog in browser with JIT enabled,1,0.3756859137270379,True,True,False
+3784,[FIX]pages print with just page number and not total,0,0.41431031214822733,True,True,False
+1467,[FEATURE] need an XP API to disable input methods for password fields,1,0.2813496666761636,True,True,False
+7301,Crash [@ nsNativeThemeCocoa::DrawPushButton] with huge word-spacing,0,0.38920434733273607,True,True,False
+748,[PP]m3s: Mac crashes going to webpages not on local disk,0,0.31336160829917625,True,True,False
+526,URL: (relative) Bogus Image crashes NGLayout,0,0.5199778580760324,True,True,False
+7822,Property cache assertion when 3 objects along a prototype chain have the same shape,0,0.4492091000059002,True,True,False
+4264,race condition in property cache,1,0.3465481842293331,True,True,False
+9007,Remove hack to select any active TransportFlow for DataChannels (followup to bug 837035),1,0.272357864769592,True,True,False
+7013,Make XPConnect use faster accessors for JS parent; proto; private; and class slots.,1,0.3209369069204129,True,True,False
+5695,nsPrintDialogUtil.cpp uses a localizable string for a preference,1,0.2880059268591823,True,True,False
+1957,feature: Need span for XUL grids,1,0.2889981983057492,True,True,False
+3440,fastload landing made nsStringKey leak,1,0.26264386783117855,True,True,False
+3200,document.write() of image tag throws script error,2,0.3121422191037739,True,True,False
+1997,Copy/Cut menu items initially disabled; focus/controller issue,2,0.5162186848182576,True,True,False
+641,Full-screen plug-in: throbber never stops,1,0.31612245147612156,True,True,False
+4978,[FIXr]fix up use of chrome prototype cache for stylesheets,1,0.3060392620858277,True,True,False
+8119,topcrash [@ nsDisplayText::Paint(nsDisplayListBuilder*; nsIRenderingContext*)],0,0.43788431868281824,True,True,False
+7731,TM: Assertion failure: thisObj == globalObj,0,0.677501041292327,True,False,False
+957,leaving a frameset page like the one above yields a crash,1,0.25827971383296194,True,True,False
+4934,[FIXr]nsCOMArray copy constructor triggers assertions,1,0.3504891515014235,True,True,False
+4676,XBL should report XML parse errors,1,0.3039330857370111,True,True,False
+1540,[DOGFOOD] addEventListener allows sniffing keystrokes (at least),2,0.27477631091698906,True,True,False
+1910,Autoscroll is broken (setcapture not working),1,0.262747954599685,True,True,False
+6325,Content injection spoofing with a space before colon in HTTP header,2,0.3310592056515961,True,True,False
+4551,Trunk M11A crash [@ nsImageListener::FrameChanged] [@ nsBox::Redraw] [@ 0x00000000],0,0.5438427619738819,True,True,False
+4835,adding a property after middle-delete of a function with duplicate formal args,0,0.3373812525601072,True,True,False
+7832,TM: Code run off an event handler is never traced,1,0.2609825936335788,True,True,False
+5452,[FIXr]nsAttributeTextNode should always be anonymous,1,0.30323181023535745,True,True,False
+4569,New M1RC3 crashes at [@ nsLocalFile::GetLeafName],0,0.8199760545851621,True,False,False
+8207,TM: Assertion failure: tracecx->bailExit; with e4x; delete,0,0.7503240533218898,True,False,False
+2222,nsIProfile needs to be split into public and private ifaces,1,0.2925996931469136,True,True,False
+7641,[linux] mozUserCancelled isnt implemented on gtk / pressing ESC while dragging a tab doesnt cancel the drag (bug 465608 isnt fixed),1,0.290941473000386,True,True,False
+4864,[FIXr]Wrong extension appended when cgi script returns unrecognized content type,1,0.3089216181041427,True,True,False
+1254,Crash occurs whenever prefs window tries to use unicode,2,0.35630986184836116,True,True,False
+94,broken links in mozilla firefox,3,0.2542226668261215,True,True,False
+8079,[HTML5][Patch] Trailing WS: docshell/test/navigation/test_bug386782.html fails,1,0.31077469882074055,True,True,False
+6430,Deal with nested native event loops spawned from native events,1,0.29165420143401954,True,True,False
+2778,[embed] XPIDLize editor,0,0.282924815760327,True,True,False
+1609,[DOGFOOD] dialog controls bust 2nd time dialog is displayed,2,0.28454604293951724,True,True,False
+7408,TM: Assertion failed: cond->isCond() with if(true <= true),0,0.6591278213950387,True,False,False
+765,Bug in autoreg or services loader,1,0.23051105858614737,True,True,False
+939,Open New Window opens a browser window that barely redraws,2,0.32644753457033093,True,True,False
+978,Preferences are not read on Mozilla Mac,2,0.32654215806598574,True,True,False
+2852,[CBX]clicking on page after opening combo box tries to load directory,1,0.3315706745552602,True,True,False
+1757,Hook up advanced editor dialog for All Tags editing mode,0,0.33383571446127996,True,True,False
+4268,[FIX]We should not decode when saving files with well-known extension,1,0.28068392898526784,True,True,False
+6217,ASSERTION: unexpected null pointer: aParticipant; file nsDOMClassInfo.cpp; line 4960,0,0.4760824785508725,True,True,False
+525,Crash in JS_GetPrivate(),0,0.44407493201848164,True,True,False
+1462,[dogfood] Textbox deleting entire contents when backspace is depressed,2,0.33167864608103736,True,True,False
+74,GCLI should use the term add-on consistently,1,0.3155620770633578,True,True,False
+2765,:active neither hierarchical nor picky about what can be activated (pseudoclass),2,0.6246730559423849,True,False,False
+5271,dist/Embed libraries not stripped,1,0.2908489472649557,True,True,False
+6594,Assertion failure: !fp->blockChain || OBJ_GET_PARENT(cx; obj) == fp->blockChain involving switch and let,0,0.6120830485009822,True,False,False
+341,[app manager] customize the toolbox with app icon and name,1,0.26435356711857283,True,True,False
+6952,XPCSafeJSObjectWrapper calls untrusted functions during construction,3,0.2971684365718293,True,True,False
+4963,Pasting bullet list items is incorrect,2,0.38545996246317105,True,True,False
+6150,generic native method dispatcher botches extra actual arguments,1,0.29537413285805697,True,True,False
+7787,TM: crash [@ js_ValueToNumber] or [@ JS_Enumerate]; corrupted array?,0,0.4688192635432951,True,True,False
+3883,Unknown content decoder should detect PDF files,1,0.2559662250926216,True,True,False
+17,[JFace] Cannot select root of hierarchy view (1GE92IL),2,0.3192710173425944,True,True,False
+1448,[Dogfood] Need titledbutton with fly-out menu,2,0.2761439040897055,True,True,False
+7632,Crash in [@ nsCOMPtr_base::assign_from_helper] (with nsGlobalWindow::ResumeTimeouts and nsGlobalWindow::IsInModalState,0,0.318666327617543,True,True,False
+4414,[PATCH]Printing text selection print every other page and displays error msg,2,0.3061509769712369,True,True,False
+671,Images get redrawn in the document when typing in a table,2,0.2665633047401589,True,True,False
+1535,[FEATURE] nsWindow user notification,1,0.26636769119165493,True,True,False
+7746,TM: Oracle bit vector allocation not thread-safe,2,0.2834873466148172,True,True,False
+8218,Z-Level issues with the windows taskbar and browser windows that display the firefox button (auto-hide),2,0.3328272266340879,True,True,False
+6398,Implement nsINetworkLinkService for Mac OSX,0,0.3572028357329738,True,True,False
+2662,Mozilla not start on Macs with CE (Central European) script!,2,0.2900941666239627,True,True,False
+2327,Keyboard Navigation we must have for all apps.,2,0.357776150429034,True,True,False
+7772,Crash [@ nsJSContext::cycleCollection::Traverse],0,0.48362447230317307,True,True,False
+5180,[FIX]CSS2 fixed div; multiple physical pages; Print Preview crashes Moz,1,0.31685590030097427,True,True,False
+7330,upvar staticDepth limit missing from BindNameToSlot,0,0.33114322149689596,True,True,False
+1258,[Feature][Dogfood] Focus and Command Dispatching,1,0.3065791752052151,True,True,False
+8250,The IE9 fish demo runs faster with Web JIT disabled.,3,0.27685003641731537,True,True,False
+6279,Empty XUL document crashes Firefox [@ nsXULDocument::ResumeWalk],0,0.3786631154287429,True,True,False
+8038,[HTML5] Make document remember fragment parser HTML5ness,1,0.2540474839954893,True,True,False
+5211,1.4b branch crashes on amazon wsdl example [@ nsQueryInterface::operator],0,0.35959097501480597,True,True,False
+2152,Scrollbars are frequently missing from trees.,2,0.28049176899716854,True,True,False
+6293,Hang involving E4X (cycle in an XML object?),0,0.34825510728514775,True,True,False
+8183,Assertion failure: JSVAL_IS_VOID(lval) involving sharps and with,0,0.625990756690546,True,False,False
+4508,mozilla can be compromised to read local files!!!,2,0.4937323099089628,True,True,False
+2850,menulist doesnt open after switching from HTML Source mode,1,0.2898152190670299,True,True,False
+5718,Implement disable/enable IME API,0,0.2674425691472454,True,True,False
+781,Selecting Print Preview crashes Apprunner,2,0.269020930566251,True,True,False
+6992,###!!! ASSERTION: nsSecureBrowserUIImpl not thread-safe,0,0.35068387298223086,True,True,False
+5965,Downloads fail with ..could not be saved; because the source file could not be read (error in JS Console: Error: uncaught exception:Permission denied to get property RegExp.constructor),0,0.27881704234653143,True,True,False
+1226,[DOGFOOD] {css3} need name for XUL virtual command key,2,0.29034757743942097,True,True,False
+3394,signposts.mcom.com crashes NS61,0,0.3909028952646338,True,True,False
+7138,js_AllocSlot : cannot convert parameter 3 from uintN * to uint32 *,0,0.5504685496929688,True,True,False
+378,Spellcheck gives up after too few misspelled words in HTML editor,1,0.30143671493097607,True,True,False
+4176,[FIX]Mozilla will not save image/pjpeg images using right click.,2,0.803062643933161,True,False,False
+4260,nsStandardUrl not thread-safe Assertion [@nsResProtocolHandler::ResolveURI],0,0.3041725490049103,True,True,False
+3743,mozilla should detect infinite redirection loops,1,0.30473871207250003,True,True,False
+6756,[FIX]Does not return to the scroll position in the page after reload,2,0.270416633277739,True,True,False
+6939,Not dropping references for one shot timers on Fire(),1,0.2817162408711606,True,True,False
+1760,event handlers not compiled via element.setAttribute(),1,0.3358204570378934,True,True,False
+6333,Additional problems with incomplete cache entries and cache flush assertions.,0,0.28716681349001494,True,True,False
+2212,transformiix has its own copy of expat,1,0.2627771273053892,True,True,False
+3370,Mozilla doesnt accept certificates which became valid at that exact minute,2,0.38151623959440584,True,True,False
+3063,Composer crash when opening document with CSS,0,0.3032241636413907,True,True,False
+5346,Proxy-Authentication credentials can be exposed to origin server,2,0.3800845338155054,True,True,False
+2087,Typing space in text field messes up display,2,0.3293533519056688,True,True,False
+2887,disk cache needs efficient storage (level 2),1,0.28679656427473715,True,True,False
+3814,Support RLE compression and bitfields for the BMP Decoder,1,0.29284652279189216,True,True,False
+1382,[BLOCKER] Cant select non-text nodes such as HR; IMG; and table elements,1,0.28480775370693495,True,True,False
+4286,[FIX]crashed when clicking on select box in [@BinarySearchForPosition][@nsRenderingContextPS::GetWidth],2,0.4194304902781777,True,True,False
+1547,Fix xptcall code,1,0.24198481188149723,True,True,False
+2615,Theme should have an uninstaller,1,0.288716812277915,True,True,False
+466,mismatched style tags in nested tables closes outer table prematurely,1,0.2988367499828929,True,True,False
+4852,Update mozilla.orgs RDF datasource examples,0,0.3253097657721932,True,True,False
+9147,Nuwa process can accumulate IPC messages,1,0.3173363093566547,True,True,False
+8219,Style flushes can auto-convert to layout flushes on same document,1,0.28286834495103286,True,True,False
+4323,red error code text displayed under status bar (key_irc),2,0.49534924041043854,True,True,False
+2182,Profile migration fails when the profile to migrate from has a Japanese name,2,0.3172001182155692,True,True,False
+4330,lock icon issue: no certificate or security info in pageinfo screen for https,2,0.8200678036706933,True,False,False
+3742,Javascript menus crash mozilla 0.9.5 & CVS [@ CopyChars1To2][@ FrameManager::ReResolveStyleContext] [@ nsAString::do_AssignFromReadable][@ nsAString::AssignFromReadable],2,0.4322569510068833,True,True,False
+9054,sdp_unittests has a shutdown race resulting in PROCESS-CRASH | sdp_unittests | application crashed [@ mozalloc_abort(char const*)],0,0.4037276928760389,True,True,False
+5512,[FIXr]XUL documents resulting from redirect get wrong base URI,2,0.32308656826407184,True,True,False
+8401,Use-after-free vulnerability in OBJECTs mChannel (ZDI-CAN-1032),0,0.28490538003454596,True,True,False
+3408,SSL/SMTP fails if not logged into cert db.,2,0.33910851042971374,True,True,False
+3473,Password Manager/Logout does not clear authenticated https sessions with http keep-alive,2,0.30749611926328735,True,True,False
+5268,Pages for quicktime movies hang browser,2,0.29628801003532323,True,True,False
+8110,[HTML5] Update html5lib test suite snapshot,1,0.3235568459109795,True,True,False
+1493,file:// directory listing doesnt reflect reality,2,0.37833038739446423,True,True,False
+2259,window.getSelection() broken,1,0.2350946701524694,True,True,False
+3257,make vertical margins not require state recovery,1,0.3068527525678083,True,True,False
+477,block-level elements dont strech out to the right,1,0.2951906184303112,True,True,False
+6543,closing a generator fails to report error if GeneratorExit ignored,1,0.3038377887871953,True,True,False
+6644,js_SweepScopeProperties can leave a JSScopeProperty with dangling parent pointer,0,0.32914807750560376,True,True,False
+5783,check SetLength+BeginWriting users for potential buffer overruns,1,0.35329521755505944,True,True,False
+427,turning on offline imap by default caused >600 Euro phone bill,2,0.3326278080448143,True,True,False
+4700,[TST]Printing a selection gives a black-on-black printout,1,0.2866527627160921,True,True,False
+3906,Text in form field rendered too low after Go Back,2,0.3037572599788607,True,True,False
+1852,Can lose window if minimize and then shut down,2,0.32878872213657395,True,True,False
+3715,form field text appears outside form field,2,0.3085079291186423,True,True,False
+6060,[FIX]drag and drop reordering of tabs broken,1,0.283051346610396,True,True,False
+1158,Crash-After typing Japanese chars; clicking on space bar causes crash,0,0.3054797008325961,True,True,False
+8466,Kill content processes that cause processing errors in the chrome process,1,0.28967664407082777,True,True,False
+805,Need to rename Homer button to say Home,1,0.22856865276349447,True,True,False
+6899,Cycle collection crashes with Leak Monitor extension installed,1,0.2965328609845739,True,True,False
+1565,[DOGFOOD]Single characters being dropped from pages,2,0.36008580441410903,True,True,False
+3056,mfcembed causes IPF in module WEBBRWSR.DLL,0,0.32552437719293353,True,True,False
+8373,background-clip fails if border is solid and opaque,1,0.30449176444616133,True,True,False
+8996,ifdef ENABLE_TESTS in backend.mk always false,1,0.32000066055836107,True,True,False
+3022,Focus no longer cycles when tabbing,2,0.3285019290406238,True,True,False
+4010,Opening IMAP mail hangs Mail program (and Mozilla),2,0.3102816720006327,True,True,False
+4956,insufficient invalidation after dynamic reflow,2,0.3834645395223046,True,True,False
+737,should support CSS2 system fonts,1,0.27288119544217737,True,True,False
+7955,Perf regression in font initialization on the Mac hurts startup time,1,0.2938943532840237,True,True,False
+8643,Make mouse events synthesized from touch events comply with spec (in gonk widget backend and cross-process code),1,0.2786843347272232,True,True,False
+2132,Loading page with lots of form elements is very slow,2,0.3413803591480598,True,True,False
+5042,Redundant #defines in nsObjectFrame.cpp,1,0.2754032389151727,True,True,False
+8196,TM: redirecting into js_Enumerate does not invoke the old enumeration hook,0,0.45840755337815636,True,True,False
+5928,variable pn2->pn_slot can be read while uninitialised,1,0.266972754319536,True,True,False
+16015,parser-related leak when loading DOM inspector in Firefox,2,0.2842512812762442,True,True,False
+15577,string bundles: use setcontenttype after ::open,2,0.2704302777375838,True,True,False
+10310,CSS clear doesnt quite clear (regression),2,0.31343109010556086,True,True,False
+15123,nsComputedDOMStyle and nsDOMCSSDeclaration should share CSS2Properties code,1,0.2804132085131195,True,True,False
+14441,table paint  problem,1,0.2976132334239002,True,True,False
+12263,<xul:iframe> not listed in window.frames[],1,0.3184045600702558,True,True,False
+16109,[FIX]nsPrincipal::GetOrigin should dig into nested URIs,1,0.31616704758345343,True,True,False
+10848,the meaning of line-height: 1,1,0.3936220356600328,True,True,False
+17517,TM: Crash [@ QuoteString],0,0.513378955423298,True,True,False
+9343,Turn on autoscroll on OS X,1,0.26410890132701326,True,True,False
+10546,All links are being underlined with main page text color,1,0.2886958777551114,True,True,False
+18530,WebRTC signaling code doesnt yet build on Android,1,0.30699442665586985,True,True,False
+13596,[FILE INPUT] can change the contents of a DISABLED <input type=file>  by using keyboard navigation,2,0.4447017618833014,True,True,False
+10699,[PP] Linux uses ascii instead of unicode,1,0.3112433427957244,True,True,False
+10420,pseudo-elements allowed at places other than the end of a selector,1,0.34631585298334205,True,True,False
+17717,top crash [@ nanojit::LIns::isTramp()],0,0.7344493132775437,True,False,False
+11536,[FEATURE] sched: D&D; Register callbacks with Gtk,0,0.32490505838423356,True,True,False
+12512,Initial NS6 page looks crappy; horrible first impression,2,0.3199454024819284,True,True,False
+17198,TM: Crash using the bookmark/history sidebar [@ TraceRecorder::record_SetPropHit ],0,0.3201026937134327,True,True,False
+13822,Add CS Styles for Ethiopian/Eritrean Languages,2,0.6777435504067542,True,False,False
+15456,more const-lovin in htmlparser,1,0.2643211148187302,True,True,False
+11748,getElementById() is really slow,2,0.24470805872941265,True,True,False
+14074,CantRenderReplacedElement causes access to deleted frames,0,0.3088849420883333,True,True,False
+12230,FIELDSET displays corrupted by clicking SELECT controls,2,0.8495858716952065,True,False,False
+9457,Star button not on default toolbars,1,0.26606595700681224,True,True,False
+15383,trunk topcrash [@ CSSStyleSheetImpl::SetEnabled],0,0.8572083225548454,True,False,False
+12139,margin on SPAN calculated incorrectly for last line of right-aligned content,1,0.304941195934248,True,True,False
+17504,TM: Dont de-optimize if we merely need the PC value in a builtin path; just pass that in instead,0,0.25133888448314107,True,True,False
+10989,DOM -- className property,2,0.27529635192723406,True,True,False
+16939,Firefox leak during Smoketest with Firefox 3 Beta 4 RC2,0,0.33273764781423487,True,True,False
+11675,Should copy files; not aliases; into new profile directories,2,0.27417914688565054,True,True,False
+9329,no windows: open blank window for Open Location & Web Search,2,0.2588184207733014,True,True,False
+9378,Remove keyboard and mouse shortcuts for other browsers from docs,1,0.2702841318976703,True,True,False
+16476,[FIX] typeof Prototype == object since 2007/05/10,1,0.3012145082264401,True,True,False
+9734,CSS !important doesnt work,1,0.33331240644760585,True,True,False
+12603,DNS failure triggers cache corruption condition,1,0.3476426885258117,True,True,False
+12942,document.<formname>.<inputname>.select() stops working after closing another browser window,2,0.4815252313526533,True,True,False
+16500,move offline cache APIs toward the whatwg spec,1,0.31139861322626117,True,True,False
+13468,Authorization header is invalid while using Basic authentication; for chinese characters.,2,0.3024316150809387,True,True,False
+13642,fix wording on entering and leaving SSL site alerts,1,0.2583694704644293,True,True,False
+11989,cant select table-data only,1,0.29980059204130766,True,True,False
+11532,sched: Add GFX scrollbars to Gecko,0,0.30042568162634103,True,True,False
+13508,shift-reload does not update current history entry,2,0.32837547349922636,True,True,False
+16269,Remove BUILD_MODULES support.,1,0.32346214034901805,True,True,False
+13594,Should be able to change location of another frame cross-origin,2,0.6245265335075146,True,False,False
+14526,Tooltips are shown in print preview,1,0.278112477295359,True,True,False
+16607,Unable to add exception for server certificates with empty subject names,2,0.2792457494790573,True,True,False
+15283,Drag and drop of text broken.,1,0.3589855104527118,True,True,False
+12438,Crash Browser with improper removeChild,2,0.5737592659963908,True,True,False
+11637,Assertion when loading Sidebar,0,0.3691729425202361,True,True,False
+15635,Cert viewer does not show readable subject alt names,1,0.2747846443259829,True,True,False
+11849,Recent change in startup sequence hobbles embedding apps,2,0.2868492560094197,True,True,False
+15605,-moz-opacity: 1.1 makes transparent GIF color appear black,0,0.3062913065661123,True,True,False
+16041,Call CheckLoadURI before issuing pings,1,0.312812900930153,True,True,False
+10432,auto vertical margins on block level elements should become zero,1,0.24043717989145355,True,True,False
+17627,Workers: Use new JSAPI to limit tracing code cache size,1,0.29754664676889514,True,True,False
+17847,negative indexes on built-in objects sometimes return special properties,1,0.3484926114820825,True,True,False
+13672,POST not sending Authentication header,2,0.8179683007099492,True,False,False
+17534,EV-Cert shows during page load and either disappears after page has loaded or after a hard-refresh,2,0.33425817650802225,True,True,False
+15170,Implement EVENT_SHOW and EVENT_HIDE,1,0.252439114728011,True,True,False
+13666,[Buttons] Support <button type=checkbox/> and radio too!,4,0.27452811461791826,True,True,False
+11927,Copying from a textarea; or plain text composer loses wrapping,2,0.3077428374291288,True,True,False
+16951,spike in google toolbar crashes during 3.0b4pre cycle from users disabling extension compatibility checks [@ libgoogletoolbar.dylib@0x4fbd] [@ googletoolbar.dll@0x4b2f][@ libgoogletoolbar.dylib@0x8420],0,0.41460104154872546,True,True,False
+13574,Download dialog of file of type: text/html; text/html from <URL>,2,0.8391069199523773,True,False,False
+10066,Mouse pointer often doesnt change shape,1,0.30578184443577844,True,True,False
+10440,cache doesnt do anything,2,0.3147352985259202,True,True,False
+11901,[BETA] font-family stylesheet is no effect on Japanese charactors,2,0.2948018725934898,True,True,False
+18358,Nuke AttributeSelectorEntry,1,0.2679859482714031,True,True,False
+16806,Update postMessage and MessageEvent to reflect domain/uri being replaced by origin; optional origin argument,1,0.3125526720673503,True,True,False
+16048,Move DOM inspector C++ components into gklayout,1,0.28259083607656915,True,True,False
+17216,Background image is distorted,1,0.34985687899139,True,True,False
+15780,[FIX]Black bars appear when scrolling down and then up again,0,0.3043256821150367,True,True,False
+16890,Add |setDelegate:nil| call in the |nsMenuBarX| destructor.,0,0.30078278361178684,True,True,False
+12026,assert and crash in search window (nsCachedChromeChannel::GetOwner),0,0.3858511068702642,True,True,False
+13117,Crash in the default plugin,2,0.2904948344343302,True,True,False
+15639,refactor code that calls ComputeStyleChangeFor,1,0.25416056263438863,True,True,False
+13745,<META> tag is allowed inside <body>,2,0.3035985580439287,True,True,False
+14580,outline* and counter-* properties not reflected in DOM,1,0.25566596352251814,True,True,False
+12435,Mac-Cant submit any secure form,2,0.3463003270945798,True,True,False
+14274,crash in font code,0,0.3449370748047741,True,True,False
+14431,[FIX]Fix GetWidget leaks,0,0.3150010465739447,True,True,False
+13208,add bidi support to makefile.win,2,0.2314258579818293,True,True,False
+12746,RFE:  pref for no tooltips,2,0.23295511175778338,True,True,False
+14738,Selected menuitems should paint the whole row selected,2,0.3288388772505688,True,True,False
+15287,Assertions about empty damageRect caused by nsTableFrame::Reflow,0,0.37858869361931546,True,True,False
+13243,Bidi code killed by checkin to bug 65557,1,0.2546389394618838,True,True,False
+12891,expand NS_XPCOM_SHUTDOWN_OBSERVER_ID to use NS_LITERAL_STRING,1,0.2453714375226433,True,True,False
+14590,xmlextras defaults to wrong encoding in processing responseText,2,0.2844021458491925,True,True,False
+10331,Selecting text across lines with varying character spacing styles doesnt track cursor,1,0.319870248776288,True,True,False
+17640,Race creating JAR files in JarMaker.py with highly-parallel builds,1,0.2874914823176881,True,True,False
+15848,[FIXr]A number of URL properties of HTML elements are not resolved (e.g. cite of ins),1,0.35274103474432045,True,True,False
+17673,shentry -> docviewer -> presshell -> mSelection link leads to need for multiple cycles of cycle collection,2,0.3470367350501412,True,True,False
+11833,Crash with scaled-down PNG with 8-bit alpha mask,1,0.27029708301292726,True,True,False
+13219,Missing symbols in libxpcom.so (IRIX/gcc),0,0.3435110914906939,True,True,False
+12588,Up/down arrow should switch between radiobuttons in <radiogroup>,1,0.25885619214821337,True,True,False
+11279,{css1} Floating images overlap when viewport is narrow,1,0.3201763779453283,True,True,False
+11139,Buttons display black marks on 8-bit displays,1,0.3208588838530302,True,True,False
+13350,loading above secure url then using stop hangs browser.,2,0.31184054268285394,True,True,False
+12488,editor does not regain focus after dialog is dismissed.,2,0.2780613333347215,True,True,False
+17998,Geolocation Crashes Fennec,1,0.2570402170602926,True,True,False
+13349,Edit Cipher button and SSL CipherSuite window not lockable,2,0.3209600659540295,True,True,False
+10524,table lays out wrong until reflow,1,0.29955501233175413,True,True,False
+14263,High ASCII data is being cut off at certain characters during form submission,2,0.25814858283965664,True,True,False
+16837,crash [@ UniscribeItem::SaveGlyphs(gfxTextRun*)],0,0.6134592609368182,True,False,False
+9537,Replace History|Clear history with Tools|Clear private data,1,0.308461236366847,True,True,False
+11521,sched: Finish splitter,0,0.3296767544140252,True,True,False
+17482,Crash [@ nsSVGFETileElement::Filter],0,0.5315061712988388,True,True,False
+12640,[IMGBTN]dragging from image button submits form (input type=image),2,0.34264466341105765,True,True,False
+13038,browsers cannot be stopped while reading huge site,2,0.6642748240780645,True,False,False
+10785,Form; image; text lay out outside of table,2,0.3288695138324781,True,True,False
+12457,M17 crash after sitting idle for 8 hours,2,0.29251089330182517,True,True,False
+15897,[FIX]nsImageMap is too eager to invalidate on attribute changes,2,0.290908299877097,True,True,False
+11767,[PP] Linux: Canceling Insert Table dialog hangs apprunner,1,0.28919887531940913,True,True,False
+9593,Crash and asserts when clicking on context-menu items places history [@ nsVoidArray::IndexOf],0,0.33022077295565483,True,True,False
+17543,[FIX]ASSERTION: Bad offset looking for glyphrun with ireflow; bidi,0,0.4355571523125982,True,True,False
+16106,threadsafety problems in fix for bug 334605,0,0.2868504571052408,True,True,False
+14155,Trunk M099 crashes [@ FrameManager::ReResolveStyleContext] [@ RuleProcessorData::RuleProcessorData][@ nsXULElement::GetID],0,0.8417754085747982,True,False,False
+10899,[PP]Table edge is not consistent.,3,0.28492077514492214,True,True,False
+10526,content in tables does not show up.,1,0.36130375397607156,True,True,False
+14429,[Mac 8.6] keystrokes are repeated twice in Flash movies; Java; and other plugins,2,0.4046581609346923,True,True,False
+17183,TM: Cant trace reading .prototype,0,0.24993014359620677,True,True,False
+14964,show progress on file upload,2,0.2793714357975221,True,True,False
+15955,Trouble extending E4X XML objects with __noSuchMethod__ (e4x/extensions/regress-312196.js),1,0.3078760411187304,True,True,False
+12377,Command firing in Table submenus is intermittent,2,0.31225301465127203,True,True,False
+14317,jar should fill in neckos buffer,1,0.2688651623218217,True,True,False
+13148,Segfault when trying to display a certificate,2,0.6410699519652573,True,False,False
+18684,WebRTC assertion failure: !mMasterSocket and crash [@mozilla::DataChannelConnection::~DataChannelConnection],0,0.4472017994061351,True,True,False
+12067,problems reading local file:/// directories,2,0.33544379745319297,True,True,False
+10790,TEXTAREA elements do not render before forms,1,0.3084772951400666,True,True,False
+18272,Object.freeze(proxy) does not call the proxy handlers fix() trap,1,0.33809572257091475,True,True,False
+13533,why are we missing the font cache?,1,0.26809742173782597,True,True,False
+13234,XML:UTF8 characters are not displayed correctly in Page source,1,0.29839869434807637,True,True,False
+16012,XPCOM Shutdown: xpcom-shutdown-threads notification,2,0.3014679774102474,True,True,False
+13781,need scriptable string stream implementation (must support nsIInputStream),0,0.30771945522802313,True,True,False
+15101,opening the above web i find the map image pushed way over to the right.,1,0.36873669237500933,True,True,False
+10711,Empty <P> elements not ignored as required by HTML4 spec,2,0.29547399303136246,True,True,False
+15063,Might be possible to target events at anonymous content,2,0.27247696035276436,True,True,False
+18096,intermittent failure in layout/style/test/test_transitions_events.html | unexpected event on SPAN element with id six (and five) elapsedTime=0.5 propertyName=color,0,0.38203263823843103,True,True,False
+13254,`Browse... filepicker default isnt based on current selection,2,0.3205267575674854,True,True,False
+13502,Mozilla wrongly converts space to CR+LF in innerHTML.,2,0.703292018620539,True,False,False
+18625,crash in DataChannel Connect runnable,0,0.37125468702328446,True,True,False
+13442,Transparent GIFs with transparency on all four sides render non-transparent portions against the left and top sides,1,0.30104646211308944,True,True,False
+18263,Assertion failure: 0;,0,0.6522759694266046,True,False,False
+11446,need new API in converter lib for 64K bit array,1,0.26040658079802753,True,True,False
+17638,Crash on close [@ libflashplayer.so@0x4110d ],0,0.4813015964107687,True,True,False
+15149,Shockwave registration has regressed,0,0.3237317574147506,True,True,False
+12459,[FIX]disabled OPTION element in SELECT control selectable with keyboard,1,0.28691892380103634,True,True,False
+15093,class selectors on non-subject sequence of simple selectors always match XML content,1,0.28041335007514356,True,True,False
+18747,There have some errors in refCount(In MmsService.js),2,0.2746643378545853,True,True,False
+11651,[8.3] profileservices.dll name too long on win9x,0,0.28926482885021965,True,True,False
+9981,Cant submit a form,2,0.3071253172920372,True,True,False
+12405,FMM (Free Memory Mismatch) in nsHTMLContentSinkStream,1,0.31606400701736626,True,True,False
+14689,[FIX]Parity: handle bare <meta> tags with no <html><head>,2,0.31084278782815716,True,True,False
+18174,finding text doesnt scroll it into view properly,1,0.31961307604288736,True,True,False
+9858,resetting a form destroys a textarea prematurely,0,0.3091405010632676,True,True,False
+12494,some control key sequences dont generate the correct event,2,0.288921311318361,True,True,False
+18139,Hiding a float does not update the layout correctly,1,0.2931197508481772,True,True,False
+17187,TM: investigate Chronoscope,0,0.34033833163092597,True,True,False
+10468,Vertical layout problems,0,0.26193875053694704,True,True,False
+18235,Harmony proxies: Object.getOwnPropertyDescriptor(proxy;name) cannot return undefined,2,0.4055373167279499,True,True,False
+18637,plugins disabled by Aurora 21.x,1,0.2631058862943329,True,True,False
+12496,cannot import p12 certificate files,1,0.28737393100596054,True,True,False
+12709,view-source should show original page source (use cached source),1,0.2972878376836693,True,True,False
+17398,TM: much slower than interpreter with short loop with |let|,0,0.39891806716916905,True,True,False
+18445,Implement mozApps app.replaceReceipt(),1,0.29730567640294275,True,True,False
+9473,Crash @ [nsEventQueueImpl::NotifyObservers] when deleting a bookmark folder via menu,0,0.598180352341308,True,True,False
+15880,Checking out and building DBM as part of NSS in mozilla builds,2,0.2730558752078588,True,True,False
+14613,Trunk M1RC2 Crash going to this Harvard link [@  nsFormFrame::AddFormControlFrame],0,0.7743349268667253,True,False,False
+9426,Fully support remote containers,1,0.2785031848372425,True,True,False
+11407,when going back in framesets; wrong frame displayed,2,0.36498854794710656,True,True,False
+9410,Add query options flag to show hidden entries,0,0.29644437993363143,True,True,False
+13171,Typing over existing list items throws assertions.,0,0.4883937263349931,True,True,False
+13348,calling extractContents from javascript crashes browser - M092 & N610 [@ nsRange::CloneContents],0,0.32164940351531107,True,True,False
+11420,[PP]view | character set | mac roman displays twice,2,0.2572254605854445,True,True,False
+10747,www.hotwired.com pop-down menus not rendering,1,0.30779261253874635,True,True,False
+10032,takes way longer to layout than mozilla,1,0.32207405425717367,True,True,False
+12020,In IFRAME; referencing a unknown format in SRC will cause a freeze,2,0.3218680125606673,True,True,False
+17842,ogl error 0x500 observed for musicjesus.com,2,0.2946866042817028,True,True,False
+18587,data race on IncomingVideoStream::incoming_render_thread_,0,0.34569372542373245,True,True,False
+11396,UTF-7 page is not displayed correctly,1,0.2734326406383504,True,True,False
+15680,[FIXr]Less QIing in nsXBLWindowHandler::WalkHandlersInternal,1,0.28473421030156965,True,True,False
+9522,Places Organizer asserts after moving folder,1,0.297771560806859,True,True,False
+12822,XML bindings fail to load when the profile manager dialog is up,1,0.3286721431043685,True,True,False
+18615,CSP : support multiple policies,1,0.3021041259678609,True,True,False
+16775,Make general use of new NSPR rotate macros,1,0.3416704520078535,True,True,False
+12863,quirky horizontal alignment for RTL?,1,0.3057297236914886,True,True,False
+13784,Some double-byte characters are corrupted in Program Folder input box,2,0.27436278161074024,True,True,False
+12793,[DOCTYPE] Should activate standards layout for ISO doctypes,1,0.30449424754521137,True,True,False
+14378,button tag does not handle height correctly,1,0.26552396601121003,True,True,False
+14937,custom static constructors for uconv converters,2,0.25799851982412636,True,True,False
+18771,Defect - Return of double tab! (touchstart.preventDefault does not prevent clicks in Metro chrome),1,0.29517388220868224,True,True,False
+16605,GCC warns about uninitialized variable in js_EmitTree,0,0.3162872078248253,True,True,False
+13810,Disabling Image Loading -> Explicit Loading of Images Failed,1,0.33025728191500686,True,True,False
+12426,[D&D]when drag back into selected area; nothing should happen,1,0.36418034614551037,True,True,False
+14900,MOZ_PLUGIN_PATH should support colon-delimited PATH syntax,1,0.2872993708442478,True,True,False
+9204,Wrong http_referer sent when middle-clicking link from sidebar,1,0.3758751263868927,True,True,False
+15246,xptiInterfaceInfoManager is searching the components path 4 times,1,0.29269335782532235,True,True,False
+13802,Cannot create and display high ASCII user profile properly,1,0.304580822423311,True,True,False
+15448,Crash when changing an iframes visibility from within that iframe (javascript:parent.document.getElementById(theiframe).style.display=none [@ nsDocShell::ScrollIfAnchor ]),3,0.2582099258649013,True,True,False
+10238,Cell width problem,2,0.26261940468421224,True,True,False
+10485,Cached images dont fully load (stops at 8;192 bytes),2,0.362382813655257,True,True,False
+13592,Crash occurs on MacOS X when cutting or copying HR or Anchor,0,0.29587469307483244,True,True,False
+17327,Bookmarks Toolbar Highlights Wrong Element; Shows Wrong Folder after Tooltip shown,2,0.2563774020621307,True,True,False
+12696,tinderbox page will not refresh,3,0.28180988394958434,True,True,False
+9992,Proportional Width Table Columns not implemented yet,1,0.30141258541491855,True,True,False
+11962,Got ProfMgr w/-installer flag but exactly 1 5.x profile,2,0.31805214589638664,True,True,False
+14209,Multiple anonymous table-rows erroneously created when delayed,2,0.3511598659617069,True,True,False
+17589,Windows 3d-morph regression,0,0.37199658427695803,True,True,False
+18373,Remove calls to nsICacheSession::openCacheEntry on the main thread,0,0.2819574010239054,True,True,False
+11125,{css2} z-index and forms,2,0.304664473768533,True,True,False
+13977,Print preview cuts off right margin of page,2,0.38766491101321515,True,True,False
+15010,crash at print regression testcase Trunk N700 [@ SetPrintSettingsFromDevMode],1,0.2756091949371517,True,True,False
+14603,XML Loading on Mac fails on .childNodes of non-root nodes,1,0.29010017254159354,True,True,False
+16691,Firefox leaks with PDF Downloader Extension,1,0.28481974736028653,True,True,False
+15502,float absorbs clearing elements top margin,1,0.3587752939852043,True,True,False
+16606,nsXULElement::AfterSetAttr notifies when it shouldnt,1,0.32700150824041735,True,True,False
+9191,backup bookmark file,1,0.27319129381319823,True,True,False
+15288,Absolutely positioned span makes text in <input> disappear,1,0.36362318698956503,True,True,False
+18244,Check for foreign elements in scope after processing a foreign end tag without forwarding to the secondary insertion mode,1,0.28881151721755755,True,True,False
+18287,support GL on Intel X driver (GLX 1.2; with extensions equivalent to parts of 1.4 that we need),1,0.3050984550427141,True,True,False
+39403,document.write doesnt work in Strict mode,2,0.7148453100735983,True,False,False
+34036,Getting multiple lines when using \n,2,0.7959469686440077,True,False,False
+41420,crash at jslock.c; line 649 [@ KERNEL32.DLL - js_LockScope1] (N6 Beta2 Topcrash),0,0.8145806004198717,True,False,False
+20691,Scrollbar is left of browser,1,0.3427433412188181,True,True,False
+46696,nsHTMLAnchorElement::GetHrefCString(),1,0.25324089130191313,True,True,False
+21390,Netlib returns NS_FALSE on errors,1,0.23956092354005185,True,True,False
+32329,Images in links along with text get a double outline focus,2,0.31147769933635333,True,True,False
+30979,Add UI names  for IBM charset converters,1,0.2966109225141814,True,True,False
+49624,crash [@ js_SetClassPrototype] because proto isnt rooted in JS_InitClass across call to js_DefineFunction,0,0.5540623284942148,True,True,False
+32806,Problem loading this page with Javascript errors.,1,0.2878903728403513,True,True,False
+29479,Mozilla always shows 3 of the same graphic; Comminicator/IE show different graphics,1,0.29356735149334107,True,True,False
+30524,TEXTAREA not displaying input as typed....,2,0.3272311150396331,True,True,False
+30734,%-width HR in %-width cell too wide,2,0.3450588597013044,True,True,False
+42026,nsURILoader is not thread-safe,0,0.29203312216002414,True,True,False
+46663,The new charset in Composer can not get reflected when overriding original wrong charset,2,0.36110834243901624,True,True,False
+42715,nsMIMEInfoImpl::GetFileExtensions() leaks if ToNewCString() fails,1,0.34097835139226634,True,True,False
+30309,radio buttons besides the first selected dont check,1,0.2592272720007813,True,True,False
+43747,removal of debug spew in nsLocalFileUnix.cpp,0,0.29915466381392747,True,True,False
+28373,editor windows always open test page,2,0.2578967998743374,True,True,False
+36893,Backspace over characters in composer chops text; garbage UI,2,0.3658166085262081,True,True,False
+27246,Scrollbar flicker,1,0.2913297375978416,True,True,False
+18908,Help contents not shown (1GH3QLH),4,0.2542300188098685,True,True,False
+21661,CSS2 outline property,2,0.25896801381285106,True,True,False
+39371,D&D not working on win98,1,0.3039323064549285,True,True,False
+39645,Proportional Cols - Table created with Composer 4.x doesnt lay out right,1,0.2708892447380982,True,True,False
+25008,nsCString::Append(PRUnichar) ends up calling CopyChars2To2,2,0.2984846144843593,True,True,False
+48684,Flash Player Freeze [MacOS 9],2,0.3080475848867781,True,True,False
+44609,malloc used instead of nsMemory::Alloc,1,0.2723022019830296,True,True,False
+48526,import cert crashes Mozilla if cert file corrupt (or empty),2,0.2436108511663244,True,True,False
+23000,[PP] Getting selection as text does not work properly,1,0.31238071293683434,True,True,False
+44510,file: cant open files / (slash) in name (MacOS only),1,0.3053584484714718,True,True,False
+20787,document loads too slowly,1,0.28293411631691817,True,True,False
+43952,previous font color not restored with /font when involving UL inside a tables TD (cell),1,0.296079105462803,True,True,False
+37109,HTML file with no markup doesnt display,2,0.2712449770705717,True,True,False
+37686,Every time I click on a new link; another window opens,2,0.31062161922585146,True,True,False
+43535,cannot type new line after inputting HTML text,2,0.30029643238977327,True,True,False
+25943,URLs starting with a single slash turn into http:///,1,0.29035691125586033,True,True,False
+26154,make nsGenericContainerElement null child backpointer in dtor,1,0.30715471977823133,True,True,False
+45585,non-working Contrast menu item on Image Map Editor,2,0.3061143553764844,True,True,False
+34048,right hand frame does not refresh when I do a right mouse button/refresh command,2,0.8761239246095852,True,False,False
+19604,Autocomplete dropdown popup placed on top left of screen after clicking on elements in a site.,1,0.36690584868836207,True,True,False
+47139,Menu for Universal Charset Detector shows as chardet.Universal_charset_detector,0,0.310305778296406,True,True,False
+33491,Crash when minimizing window while loading page.,2,0.2950651217196405,True,True,False
+50466,Rename background-origin and background-clip properties and values to match css3-background,1,0.27201938933035147,True,True,False
+38345,clicking on the tabs of the Security advisor puts string get before the active tab,1,0.2991304038573031,True,True,False
+27023,Test 8 crashes,0,0.4132980477402027,True,True,False
+42018,After a cerain tag; Mozilla starts displaying all tags,2,0.2816597857568558,True,True,False
+20494,P ALIGN=JUSTIFY not working,1,0.2607141261415806,True,True,False
+44103,reloading a floated image in an anon table cell invalidates wrong rect,2,0.3886625449202357,True,True,False
+22030,nohref attribute not implemented on client-side image maps,2,0.5182782286949716,True,True,False
+35763,Cannot login to AOL 2000 Survey,2,0.32895453309419787,True,True,False
+28365,Unable to use Proxies for firewall,0,0.29362472305479426,True,True,False
+34616,Cannnot find the dropdown list in the location bar.,3,0.2569351931526151,True,True,False
+36227,hitting ENTER in Japanese IME (commit text) cause extra action,1,0.3177288811668708,True,True,False
+33556,Spinner initially paints too wide,2,0.28109209336004876,True,True,False
+35868,cookie confirmation dialog too small,2,0.8966843785088418,True,False,False
+35669,Insufficient whitespace in buttons,1,0.27160495610704455,True,True,False
+34709,Login to hotmail causes security warning; which causes freeze,1,0.31291858184424676,True,True,False
+20629,double apprunner exception on startup,0,0.31899791209898526,True,True,False
+44695,whitespace after closing noscript tag needed,1,0.3041239059754864,True,True,False
+49993,Filter invalidation problems,1,0.34358148448133685,True,True,False
+50144,Crash [@ no stack] with columns and large border-radius,0,0.37327392986184266,True,True,False
+48131,about:plugins takes a long time to complete,1,0.2760212428963443,True,True,False
+50345,Process fallbacks on out-of-domain redirects,1,0.3009554020173311,True,True,False
+46936,Britney and Justins shopping spree doesnt work in 11 June Trunk WINNT,2,0.29222538928832265,True,True,False
+21100,check for count > 0 before alloc?,0,0.45207106900849653,True,True,False
+28232,Text drawn on top of image when displayed at high resolution (e.g. 1280x1024),2,0.5712245032341643,True,True,False
+22324,Hamsterdance page (large no. of animated gifs) much slower in Mozilla than IE5,3,0.27702950220279254,True,True,False
+35615,Option to migrate existing profile missing on installation,2,0.6760257639072843,True,False,False
+22344,onchange handler doesnt go off when tree selection is lost,1,0.2860792148892816,True,True,False
+35835,Retire SetRelativePath,1,0.27536059867612206,True,True,False
+35457,Pressing the down arrow in a pop up field scrolls window and field,2,0.8212204546187405,True,False,False
+25653,Combobox hilites button instead of combobox on mouseover,1,0.293055135772615,True,True,False
+19536,Installer should not set Default Browser,2,0.3454529834397165,True,True,False
+21955,MLK:  nsGlobalWindow_RunTimeout() .. sidebar/aurora?,0,0.422976403867861,True,True,False
+25897,chrome protocol allows accessing arbitrary files on the local disk,1,0.3186251693307996,True,True,False
+39398,Severe HTML layout bugs under Linux,2,0.5237721022314731,True,True,False
+22081,Radio buttons vanish,2,0.33400592898706966,True,True,False
+22285,Rhino: variable in loop; interpreted mode,2,0.2741685452971433,True,True,False
+39865,Cant dismiss Personal Dictionary dialog,2,0.2578938418458009,True,True,False
+30123,Cant open New Window while ftp is open,2,0.34133312266017407,True,True,False
+23497,Potential interface confusion re: HTMLDialog windows,2,0.2799132227644249,True,True,False
+31871,Japanese filename title isnt display well via Composer,2,0.2724874367509514,True,True,False
+38463,Infinite loop dialog needs to be localisable.,1,0.2585488902908448,True,True,False
+40421,Newlines are stripped from hidden form fields,2,0.6424372256910722,True,False,False
+40892,Crash when you click on add an attachment to a bugzilla bug,0,0.409957187990698,True,True,False
+39258,[fix in hand]hidden borders should be treated as none,2,0.35491614481089007,True,True,False
+29146,Unable to bring up context menu for plaintext page,2,0.357428221366284,True,True,False
+19584,pressing delete with nothing selected breaks delete in Bookmark Manager,1,0.36034465963617224,True,True,False
+24028,[PP] When link opened in new window; home page drawn first,2,0.354688731142531,True,True,False
+33781,Mozilla crashes when Exit is selected in any Profile managing window.,0,0.28330046846516843,True,True,False
+41185,Strict warning for trailing comma in JS object initializer,0,0.27556532525262595,True,True,False
+46412,Copy text from a textarea drops starting spaces,1,0.31724386100644253,True,True,False
+41396,Proxy|Prefs (manual) - default port should be blank; ! 0,1,0.28155137927364055,True,True,False
+48736,<embed> objects do not have referrer,2,0.8170108035950744,True,False,False
+22051,[Necko] nsIWebShellServices::StopLoadingDocument is not reentr safe,2,0.2931737054713052,True,True,False
+32128,JS Weird handling of numbers,0,0.2944765707616348,True,True,False
+44721,[RFE] Ability to print just the odd or just the even pages,1,0.2824974011100896,True,True,False
+30083,fonts wrong on this page,1,0.2827553617473273,True,True,False
+35882,History window blank,2,0.29897768024090304,True,True,False
+18949,Queued button clicks (1FWJSVE),2,0.28061605365772635,True,True,False
+22251,Floating DIV not horizontally aligning properly,2,0.2945574871935355,True,True,False
+42451,PDF Support Problem: Undocumented Feature of NS API,2,0.3231247011217523,True,True,True
+32042,nsILocalFile::Exists() returns a FILE_NOT_FOUND error.,1,0.29021888986325023,True,True,False
+20714,Edit - Paste menu item not working,1,0.2702134729342865,True,True,False
+35106,Pulldown menu in bottom frame not visible: goes down instead of up,3,0.24901377002029232,True,True,False
+43209,crash; click the <a href=new.htm target=a>go to new target</a>,0,0.3656797127558832,True,True,False
+40431,Cant edit Tinderbox page,2,0.3453573404247922,True,True,False
+39171,SCRIPT in BODY doesnt work when strict dtd is used,2,0.3189061865777989,True,True,False
+19854,Thunderbird 3 builds still using version 1 url for application update checks,2,0.3029200035984977,True,True,False
+22753,PluginViewerImpl::StartLoad: content-type=audio/x-wav extremly slow,2,0.30725278955054464,True,True,False
+37245,disk cache not clearing from prefs,2,0.36485890959461603,True,True,False
+46581,CSSStyleRuleIMP::GetWeight/FindEndOfWeight called too much?,2,0.32140782974349213,True,True,False
+32452,File type of */* crashes Mozilla.,0,0.6991938616383063,True,False,False
+39104,<TEXTAREA> Back/Forward Arrow keys jump 2 chars instead of 1,1,0.2746901329631846,True,True,False
+19428,DCR - Callbacks to notice file changes,2,0.26043875819442225,True,True,False
+25412,[DOGFOOD]Wrong bookmarks if profile migrated by start button,1,0.3373691131969018,True,True,False
+42283,Crash involving JavaScript alert in one thread and incoming page in another,2,0.3046206537652455,True,True,False
+25795,Find backwards not working,2,0.31083166024240216,True,True,False
+45276,Table renders incorrectly with margins=0 on body tag,1,0.33947986469200836,True,True,False
+21916,Yahoo/AOL mail never logs in,2,0.3188179507146897,True,True,False
+35311,Right clicking and holding down right button doesnt select items,2,0.6994763741799692,True,False,False
+29278,cant sign in to netcenter from m12,2,0.2730391620135522,True,True,False
+21189,Wont display the PNG!,1,0.2671753361495904,True,True,False
+39678,Each word jumps to next line while typing,2,0.35791570292481156,True,True,False
+25592,Last of 4.x profiles migrates automatically,1,0.2921248576785059,True,True,False
+28626,bad HTML fools Gecko,1,0.3165439471479392,True,True,False
+29033,Incomplete rendering,1,0.29974259438450357,True,True,False
+48417,security state not reset after loading about:blank pages,2,0.31062135645286837,True,True,False
+48275,word wrap image align right nested lists broken,2,0.7913895172224923,True,False,False
+38599,<input type=text> doesnt fire onchange event,2,0.8647374403159743,True,False,False
+24216,XULSortServiceImpl dtor can release this,0,0.30077251905601265,True,True,False
+44334,Images not loading when accessing Security Focus,2,0.8754012703365593,True,False,False
+45644,Mozilla does not exit correctly while loading finger: url,2,0.2791568681926608,True,True,False
+26615,[dogfood] mousing over checkboxes in prefs reflows window,1,0.2992058556326589,True,True,False
+42688,Element.setAttributeNode() returns null instead of Attr obj reference,1,0.25478771037733366,True,True,False
+45341,Netscape 6 failed to open document when target is set,2,0.2494328883407652,True,True,False
+31723,jar file cache should open local files in place,1,0.24930242386282753,True,True,False
+37264,Textarea wont show using a strict DTD and ENABLE_STRICT=true,2,0.2933218198698017,True,True,False
+49781,Caret turd when setting designMode on about:blank page,2,0.3331505711038701,True,True,False
+34145,INPUT TYPE=FILE segfaults Mozilla when file selected,2,0.6735509604557534,True,False,False
+22096,Assertion failure: !I/O method is invalid; at priometh.c:86,0,0.3730889335311417,True,True,False
+38734,Clicking Form Submit button crashes browser,2,0.38435137589060003,True,True,False
+45714,[RFE] javascript quiet printing support,1,0.29973034550337185,True,True,False
+26315,no mozilla registry == crash at startup,0,0.4193740773758126,True,True,False
+24312,nsIDOMNotation.h is missing,0,0.304384054195472,True,True,False
+42642,Delete in the History window doesnt do anything,2,0.30126370324858937,True,True,False
+42724,Gray background on the page (partially disappears with scrolling),1,0.289640826686598,True,True,False
+21985,Need a way to make table bodies scrollable in a table with a constrained height,1,0.3333836320597418,True,True,False
+29511,Looping animated GIFs are reloaded once in every loop,0,0.28697064353059837,True,True,False
+25718,rules API change needed to include handled,1,0.3343896277220009,True,True,False
+23363,view source style issues,2,0.30603430324542674,True,True,False
+23693,[TASK] Update the XML documentation on mozilla.org,0,0.2834793064191438,True,True,False
+19314,[Navigator] Projects in navigator should have same icon as in new project dialog. (1GEAOIU),1,0.26536513213851487,True,True,False
+30741,page displays blank - http://www.wingspanbank.com,2,0.27251985449583516,True,True,False
+30371,Incorrect display of portfolio information,2,0.33860717257753853,True,True,False
+26292,refcounting bug in nsCodebasePrincipal,0,0.3301993201601452,True,True,False
+46851,XML unable to load chrome stylesheets without type=text/css attribute,2,0.3022609432204386,True,True,False
+47072,Advanced Edit: LI type has a dash marker that is selctable,1,0.27341218132625505,True,True,False
+23649,[4.xP] Font size doesnt match Navigator or IE,1,0.2899409926674846,True,True,False
+30759,Mozilla crashes at startup/when run for the first time,0,0.30684800696551157,True,True,False
+48668,accessing document.body.clientHeight while layout causes layoutproblems,2,0.27523116861323116,True,True,False
+37364,[CountryPicker] provide UI in the browser (View|Web Content) to langpacks download page,2,0.2949922416796138,True,True,False
+31037,need to pass language group to font engine in all cases,1,0.254226342751436,True,True,False
+49891,[FIX]Testcase from bug 348185 triggers ASSERTION: NS_BLOCK_HAS_FIRST_LETTER_STYLE state out of sync,0,0.35419690149404315,True,True,False
+30842,GETURL command that downloads an URL,1,0.32682921198080755,True,True,False
+47432,Bottom end of page is not displayed or disappears when scrolling,2,0.36435120155614614,True,True,False
+25884,page takes 60 seconds to load due to Unix font loading,2,0.42984635132209265,True,True,False
+30085,[4.xP] Text becomes links,2,0.3453796414825549,True,True,False
+36015,Crash while typing and pressing enter in location bar,0,0.878901234903698,True,False,False
+22236,cnn.coms View Results link reloads same page instead of poll results page.,2,0.3024724264559865,True,True,False
+32307,[outline]Add extra border to style system to replace lack of outline,2,0.28339954139193435,True,True,False
+27451,This page causes crash in nsTableCellFrame,0,0.3008723842105889,True,True,False
+38449,[INVALID]WIDTH and HEIGHT of DIV not inclusive of PADDING and BORDER,2,0.8481579351259557,True,False,False
+42326,The back button doesnt work for pages retrieved by javascript,2,0.2723620018378528,True,True,False
+45309,Top frame is extremely distorted making rest of web page useless,2,0.7604079778219349,True,False,False
+45819,Proxy autoconfiguration will not load pages,2,0.2999329439376876,True,True,False
+48169,Mozilla 0.9.9  resets Master Password,2,0.27892250466620366,True,True,False
+25550,Assertion failure in UnregisterDataSource,0,0.47883241061547277,True,True,False
+38821,Lists box content does not print on the Mac,1,0.3282050877932287,True,True,False
+19307,Editors not visible if there is not space (1GEALIZ),2,0.2982996396647788,True,True,False
+29820,Using <BS> (backspace)  key sometimes jums back some undefined number of characters,2,0.3689747779475937,True,True,False
+42862,Embedding API should not require Chrome,0,0.2897804010620631,True,True,False
+22665,Table caption text when at bottom makes table grow too large,2,0.3083583419507752,True,True,False
+23181,[blocker]Clipboard doesnt support HTML correctly,1,0.3289623888464628,True,True,False
+38202,`repost form data? dialog has poorly named buttons,2,0.31666321553494003,True,True,False
+37899,crash in HandleDOMEventForAnchors,0,0.41879704631180026,True,True,False
+24620,Big Win98 GDI/System Resources Leak,0,0.3175937404659894,True,True,False
+30951,[regression]Up/Down arrows not working in tree,1,0.27422108488945096,True,True,False
+42436,Cannot select from page,2,0.3483953778793399,True,True,False
+48706,Scrollbars do not appear on page load,2,0.7306091381611033,True,False,False
+34572,Serious display problem,2,0.3224256016555738,True,True,False
+25611,[CRASH] failed to get the HTTP Proxy server,0,0.4040879133051773,True,True,False
+40461,LiteralImpl has a nsAutoString member; should it?,1,0.3246103285630244,True,True,False
+31261,interface problems,2,0.25273612585831773,True,True,False
+20149,MLK: all borders in nsTableCellFrame leak,2,0.2658023195000288,True,True,False
+30778,<fieldset> does not enclose all elements,2,0.3302115085020428,True,True,False
+29986,Changing font/size pref causes garbled display,2,0.3190116554516998,True,True,False
+45694,meta: color handling,0,0.32731614371009743,True,True,False
+47164,No warning of certificates when site use different certificates.,2,0.30144259342124685,True,True,False
+37845,When using left arrow in text box; it jumps two characters back,2,0.2767455410455253,True,True,False
+47231,Memory leak when browsing menu hierarchy and bookmarks,2,0.41308450073000863,True,True,False
+43854,OS/2 - scrolling only works with mouse on scrollbar,1,0.3029552386214102,True,True,False
+35354,onmouseover and onmouseout wont work on dynamically added images,2,0.28560466387066924,True,True,False
+33835,plaintext editor toolbars look like shit,2,0.24741991140651962,True,True,False
+45540,[WFM]Mozilla crashes when searching in this site,2,0.26806751166336723,True,True,False
+35048,Personal Toolbar links dont register in the history list,2,0.8302661168746929,True,False,False
+45657,Nonterminated <p> can leave <pre> stuck on (quirk-mode?),1,0.3437296408931731,True,True,False
+46843,Add private data type flags for JSContext,1,0.2677595944051279,True,True,False
+24036,NS_OpenURI(&in; uri) returns NS_OK even the file/uri does not exist,1,0.33453502467333945,True,True,False
+36503,Switching headings does not change formating,2,0.36033491486607594,True,True,False
+30107,Go menu only lists 6 past viewed pages; no more,2,0.3169243719465085,True,True,False
+47166,Expose MD5 to javascript,1,0.27045193895593334,True,True,False
+32968,Javascript errors in pull-down menu scripts,3,0.2917738515951628,True,True,False
+23389,Incorrect URL string seems to be sent by mozilla M7 on Win95.,2,0.35602370419391005,True,True,False
+45799,document viewer allocates GC things during finalization,0,0.30909095089688904,True,True,False
+30065,we jump to the right when I click on the Attach File... button in bugzilla,2,0.28286962174851366,True,True,False
+40228,focus given to address-line on loading new document,2,0.7027280967013934,True,False,False
+22730,[DOGFOOD]Purify reports Array Bounds Read when viewing www.mirabilis.com,0,0.32469191299195366,True,True,False
+34924,CSS2 borders displaying on components with no height,2,0.3334382777205109,True,True,False
+47452,cannot enter https sites with Mozilla 0.9.4,2,0.26949818868822656,True,True,False
+46218,add pref to control image cache size,4,0.22035048984048614,True,True,False
+35207,GetWidth optimizations need to be implemented on Mac (text measurement performance),1,0.27437210991266237,True,True,False
+47705,Image/text placement wrong on initial page load,2,0.624875975675564,True,False,False
+47233,window.close() stops form submission,1,0.2758972436883743,True,True,False
+27458,Latin2 character E8 is not displayed in Input Value field,2,0.36806327879742295,True,True,False
+23871,Downloadable XUL allows window spoofing,2,0.3233095154652659,True,True,False
+27561,[ssl] ssl not supported in mozilla,1,0.27253933803277663,True,True,False
+33339,incorrect rendering of fieldsets border,1,0.31703501012400515,True,True,False
+26293,nsSpecialSystemDirectory ctor does bad call to nsFileSpec ctor,1,0.2942415528956534,True,True,False
+41417,Browser hangs when the security icon is clicked on.,1,0.35637658327691996,True,True,False
+35359,assertion mousing over a menu,0,0.3833055206133363,True,True,False
+26607,REFERER shows the local hard drive location of the page you came from,1,0.31030129114419797,True,True,False
+46301,Freeze while loading [png as body background],2,0.28256768557660955,True,True,False
+20972,cant click on links in http://www.onsale.com,2,0.29547389396502544,True,True,False
+43598,Text overlapping messes up layout,2,0.31611309993740877,True,True,False
+33088,[rfe]Font anti-aliasing on Linux?,1,0.31106795157390427,True,True,False
+29349,Wheel mouse is not working/Genius NetMouse,2,0.32216860477422216,True,True,False
+45845,opened window to which document is written lacks scrollbars,2,0.2767164460353515,True,True,False
+45291,Reading from ZIP archives with Java,2,0.31732475866719567,True,True,False
+46157,Implement default content in <children>,1,0.31110588607533163,True,True,False
+49652,[FIX]###!!! ASSERTION: out of bounds: PRInt32(aIndex) >= 0 && aIndex <= length; file nsChildIterator.h; line 133,2,0.34480987293103044,True,True,False
+33021,infinite recursion,2,0.3783300703343337,True,True,False
+25682,can make bookmarks window too small to get scrollbar,2,0.2921745352170227,True,True,False
+30138,[PRINTING TABLE]Printing a HTML4 table with redundant CSS fails to print parts of the table,2,0.3316647453664125,True,True,False
+30167,xpidl should emit doc comments into generated .h files,1,0.30425833317604417,True,True,False
+24153,FORM size/layout wrong when embedded in FONT element,1,0.28971604420815905,True,True,False
+27632,[BLOCK] Form for uploading files do center,2,0.3241767554047056,True,True,False
+22744,see through window,2,0.261005114463636,True,True,False
+28340,Cant click on blank lines caused by newlines in plain text editor,1,0.27358512292804105,True,True,False
+21616,image link works off local disk but not when running off remote server,2,0.32220994305157385,True,True,False
+25297,files in ftp directories not clickable,1,0.25679364282990763,True,True,False
+25035,[QUIRKS][INLINE-V][WHITESPACE]should be space between lines containing images,0,0.2809629305046488,True,True,False
+26795,DOM Crash,0,0.40064714964161513,True,True,False
+21598,[PP]nsFileSpec requires ResolveAlias() to be called on Mac,1,0.3126790660718648,True,True,False
+48465,Constrained select box inside table scrolls improperlly when long element is selected,1,0.29252044677714856,True,True,False
+37482,text property of HTMLScriptElement is empty,1,0.3202166925658749,True,True,False
+48841,[FIXr]nsIHTMLMappedAttributes should inherit from nsIStyleRule,1,0.2908920921765326,True,True,False
+19390,Cant re-associate files to the OLE editor (1GENPQ0),2,0.30634981318197224,True,True,False
+25359,Changing document background color doesnt repaint margin regions,1,0.30591280967677953,True,True,False
+32345,installing .xpi files no longer generates install.log,1,0.3241696256407947,True,True,False
+44652,crash on Paste to any text field when locale is uk_UA,0,0.3379910445886116,True,True,False
+19490,[JFace Text] Editor: cant undo revert (1GF63TS),2,0.24747188640400888,True,True,False
+47229,document.plugins === document.embeds in NN4 while document.plugins === navigator.plugins in Mozilla,1,0.24116812966807002,True,True,False
+30355,<iframe> target to _top loading in iFrame,1,0.3155030762752001,True,True,False
+49457,Password Manager fails to open after copying an old profile into the Application data area,1,0.39517800433840167,True,True,False
+43203,window.open(;;location=1) is not work,2,0.3271154043252618,True,True,False
+49168,JS menus dont work on www.allianz.com,2,0.28999547414179694,True,True,False
+34487,GIF-image does not show,1,0.2850065728450801,True,True,False
+23723,(feature) Cant traverse down disk,2,0.3021263778276196,True,True,False
+20087,selection error in nsTextFrame.cpp?,0,0.37426937036004665,True,True,False
+21559,intl/lwbrk/tools/anzx4501.html.html: please convert to localizable XUL file,2,0.297165283112972,True,True,False
+29064,bogus table layout when image is missing.,1,0.28565479543455313,True,True,False
+50400,[HTML5] Make HTML5 parser allocation deal with OOM properly,1,0.34024346346792045,True,True,False
+43507,Fails to prompt user for authentication when indirectly accessing protected resources.,2,0.7698334429449516,True,False,False
+28624,[HTML] DISABLED attribute for <STYLE> tag does not work,2,0.31543435934653175,True,True,False
+42977,replace indicies with string iterators in nsXULTemplateBuilder::ParseAttribute(),1,0.259563924735194,True,True,False
+38916,document.write() from <SCRIPT src=foo.js> tag overwrites page,2,0.2599486742842762,True,True,False
+49871,scaled images antialised around non-pixel-aligned edges,1,0.2891687044269497,True,True,False
+50391,Get an analysis to check for the right number of arguments to nsPrintfCString,1,0.3114550624454027,True,True,False
+46281,Cant see Javascript/DOM image resize in linux,2,0.3269669406876463,True,True,False
+46318,Back doesnt work in Frames after a while,0,0.26350873294821736,True,True,False
+39517,Reflows not batched properly?,2,0.3386547416191436,True,True,False
+36185,Shortcuts like Ctrl+N should be left aligned in menues,2,0.23739797028830273,True,True,False
+39264,CSS: list-item; list-style: decimal inside,1,0.3152903026638324,True,True,False
+37251,[FONT MAC] Mozilla does not dynamically update fonts.,2,0.7955016628304737,True,False,False
+38965,plugin in hidden div is not hidden,2,0.793359421482373,True,False,False
+38145,Base64 encoding of Authorization header is incorrect,2,0.4916361105544245,True,True,False
+34862,ftp download never ends,2,0.3520852063340436,True,True,False
+30418,Div positioning incorrect.,2,0.3180534992205535,True,True,False
+34138,Stopping GIF animation in editor stops it elsewhere too,1,0.24855452401989675,True,True,False
+32311,Incorrect button width,2,0.270273384001723,True,True,False
+19327,UI issues with Save As perspective (1GEAR95),1,0.2551827960865409,True,True,False
+50739,Allow now becomes allow and remember if looking again in the CTP doorhanger,2,0.30454815700075555,True,True,False
+25952,when clicking a disabled button; the on click handler is still called.,2,0.27707067702278837,True,True,False
+22147,App crashes on reload after trying to log in,0,0.738850270099666,True,False,False
+21384,[PP]Saved files on Mac have UNIX line breaks,1,0.26689331831412494,True,True,False
+22953,Ignoring font size tags,1,0.27028772666418716,True,True,False
+48388,[ABS POS] CSS: bottom property breaks nested element within a block,1,0.3016252042363411,True,True,False
+31339,alert on loading page: There is mixed content on this page,2,0.2878974973710865,True,True,False
+46145,text-decoration none is not working in css-definiton,2,0.8610762061452438,True,False,False
+26865,xpcom/proxy leaks!,1,0.29091399066467927,True,True,False
+50334,nsSVGLength2 DOM tearoffs can receive NaNs and infinity as inputs,1,0.31004786814276675,True,True,False
+35638,[EVENTTARG]link not active when covered by hidden layer,1,0.3013029908202238,True,True,False
+26831,espn.com does not load/display correctly,2,0.290020278745915,True,True,False
+37636,ender lite paints outside its bounds,2,0.3651074092695765,True,True,False
+47724,Attempt to reply to mail freezes entire Mozilla,2,0.284756075692897,True,True,False
+38918,Indent Text does not work properly,2,0.3734464314896427,True,True,False
+33573,WARNING: interface ... in typelib psmglue overrides prev. def.,0,0.38950311463213655,True,True,False
+40533,Unset CSS attributes do not return values,1,0.308828683284943,True,True,False
+33325,Print dialog (ctl-P) forgets settings immediately,2,0.28871609376155905,True,True,False
+30481,Doesnt recognise failed authorisation,2,0.321833831391863,True,True,False
+50484,ExprFilter: handle mul(x;c) for c = -1; 1; 2; and eqd(i2d(x);i2d(y)),1,0.3176059631835309,True,True,False
+31227,[Regression] Character set menu is broken,2,0.42535369990960004,True,True,False
+38841,Profile Manager should always show up if multiple 4.x profiles are present,1,0.2566076065298372,True,True,False
+25753,document.write output is badly parsed; when inside <body>,2,0.28355389266718856,True,True,False
+20094,Cant use keyboard to navigate in pages,2,0.3051190173546752,True,True,False
+28188,Java Servlet Unable to Parse POST Data,2,0.3469937745368341,True,True,False
+32571,Page layout all screwed up,2,0.3087899670929482,True,True,False
+31263,Enlarge + Bold = Crash!,0,0.28793539196192824,True,True,False
+22535,cant click on an image to select the image; in viewer or apprunner,2,0.3167108295847279,True,True,False
+26824,migration will fail if the users 4.x account was a migrated 3.x account,2,0.2915423911096903,True,True,False
+50700,about:plugins changing header page (enhancement),1,0.2919665970907989,True,True,False
+30642,Infinite loop caused by onBlur=xxx.yyy.focus(),2,0.3542572128908906,True,True,False
+46232,Add ASEncoder to daily builds,1,0.258978734967253,True,True,False
+34298,[L12y] Move files to chrome/[package]/locale/en-US,1,0.2829351812662523,True,True,False
+23047,raptorhtml.so creating instance on NSGetFactory() that always fails,1,0.3204331378082687,True,True,False
+33902,[FIXED]TD Shouldnt have to have a spacer gif for background color to show,2,0.32945171607536133,True,True,False
+37574,Clicking imagemap does not go to the right page,2,0.7614370419108016,True,False,False
+19040,[Navigator] DCR: Cannot add task to project; folder; or non-open file (1G8U50O),1,0.2560729387743588,True,True,False
+31665,charset cache for View|Character Coding menu not persistent,1,0.3206751824762907,True,True,False
+44548,Double click on link in Preview Panel window crashes browser,0,0.7567800116165686,True,False,False
+39215,Highlighting text causes hang,1,0.3037566995224927,True,True,False
+23171,NetContext[A]Sync ignores error codes from imagelib,2,0.3195440857928464,True,True,False
+44990,Circumventing Same Origin with LiveConnect,2,0.27927684890313187,True,True,False
+42609,Cannot read XML tree from JavaScript,1,0.3077864436950989,True,True,False
+36721,Crashes constantly,0,0.3292884580129396,True,True,False
+39638,sane plugin defines CID in .idl file,1,0.29355227669828293,True,True,False
+47812,relatively positioned inline elements may clip replaced elements,1,0.29100210750079425,True,True,False
+35794,Style properties set in a stylesheet are not accessable via .style property,2,0.5042898659407907,True,True,False
+26699,onclick does not update form...,1,0.3334652213062692,True,True,False
+28208,mozilla freezing on www.linuxFR.org,2,0.30096212097196945,True,True,False
+28504,[DOGFOOD] Cant launch mozilla due to failure in profile mgr,2,0.2783426726462466,True,True,False
+42433,string() function incorrectly appends non-text node values,1,0.33293577666395074,True,True,False
+20233,[PP]Form will not submit - console is prompting answers to questions,2,0.3084097386597728,True,True,False
+39808,ftp:(tree+HTML)  - Mozilla not in titlebar,2,0.29420727997541657,True,True,False
+37939,Changed popup functionality (two clicks now needed),2,0.34948489632454965,True,True,False
+44287,Pasting list items into list can orphan last list item,1,0.29940856950372374,True,True,False
+26678,removeNamedItem() and removeAttributeNode() should throw NOT_FOUND_ERR,2,0.37606226856582237,True,True,False
+28124,[DOGFOOD]Crashing in delete in nsBoxFrame,0,0.3773302472727164,True,True,False
+43782,Bulletproof common crash in [@ nsXULDocument::ResumeWalk],0,0.7893573506403633,True,False,False
+37608,Padlock icon showing mixed or unlocked for secure sites; no security warning message when entering site,1,0.3282545058977108,True,True,False
+26967,FMM: CWellFormedDTD::HandleErrorToken(),1,0.2898057179525797,True,True,False
+42696,Crash printing bugzilla query,0,0.37836891369090464,True,True,False
+25080,Entities in tbody are swallowed,1,0.30764897618205195,True,True,False
+22171,NECKO: DNS lookup does not timeout and will hang app,2,0.29634931728715214,True,True,False
+20599,Unable to load apprunner.exe,0,0.2828747322506009,True,True,False
+35223,Table cells shrink when clicked,2,0.2980221240495072,True,True,False
+36432,psm_text.properties should be under locale directory,0,0.2541420199005619,True,True,False
+38278,Mac-Cannot Import CA Certificate Chain,1,0.2925712822530653,True,True,False
+37617,No linewrap in table; when window is maximized,2,0.6967292386464633,True,False,False
+42292,css1 property background-position: for background images not supported,2,0.29181861880052956,True,True,False
+44405,submitting the form to check service availibility doesnt work,2,0.697883091413246,True,False,False
+47064,Back and forward button not working on pages with unload handlers that redirect to another page.,2,0.3902497625613133,True,True,False
+32211,Table empty if conatins a SELECT element,2,0.6679102608054858,True,False,False
+39772,Expand collapse of tree widget leaves remnants on screen,2,0.6862907258179789,True,False,False
+44338,XUL documents cant create DOM ranges,1,0.24209363456283517,True,True,False
+30629,Leaking DeleteRangeTxn objects,2,0.27308336967630503,True,True,False
+30846,(javascript) Calling open( three times causes crash,0,0.2738330481832036,True,True,False
+42995,regChrome pointing to .jar w/o manifest incorrectly returns 0.,1,0.292132595938463,True,True,False
+41269,Content of page Understanding Privacy,2,0.31151273925007605,True,True,True
+25020,[PP]Mac: keypad not accepting input,2,0.3164439646866802,True,True,False
+28300,[DOGFOOD] No Caret in Win32 Composer window,2,0.27804042499017734,True,True,False
+21741,[4.xP]object with name of frame doesnt exist,1,0.28856589980609304,True,True,False
+42317,TAB navigation not working on Hotmail page; kills text entry (Mac).,2,0.44446057227355434,True,True,False
+28581,[DOGFOOD] crash calling event state manager with null event,0,0.3612299736086859,True,True,False
+48236,the javascript onClick attribute fails if used many times in the <TD> tag,2,0.6768532174115307,True,False,False
+37858,[EVENTTARG]clicks do not pass through visibility:,1,0.3255689264422459,True,True,False
+33586,document.getSelection() needs to be implemented,2,0.27468120020523484,True,True,False
+33814,Cut and paste didnt work in View Source,2,0.3406835262891834,True,True,False
+39974,Typing text in a text field causes the field to shift left,1,0.2924359249745639,True,True,False
+28206,TR BGCOLOR ignored in empty cells?,2,0.2757274519207195,True,True,False
+41013,problems with paragraph rendering / EOL -> whitespace conversion,1,0.31678584352570677,True,True,False
+37016,META tag with Pragma no-cache not working,2,0.8235102765043306,True,False,False
+22461,Freezing on load of secondary page.,2,0.35328891732447487,True,True,False
+24207,[PP] Pages with form controls render slowly and take a lot of RAM,2,0.3161374832800979,True,True,False
+25750,my.yahoo.com redirection link to e-mail does not work.,1,0.3309970239538401,True,True,False
+24116,[IMG] Image sizes are not correctly adjusted when using onMouseOver with images,1,0.2675619798159108,True,True,False
+40476,List buttons fail for list inside an aligned <div>,2,0.3423962206863477,True,True,False
+33330,[4.xP] Unable to open www.foo.com:/some/dir (note colon),2,0.8108414504591436,True,False,False
+24755,Crash mousing over gfx {list;combo} boxes,0,0.5627879714126361,True,True,False
+30174,regression from 1/12: JavaScript events failing for drag and drop of image,2,0.31947814339783903,True,True,False
+38736,page is rendered incorrectly missing a table,2,0.6596752945899934,True,False,False
+22514,[PP]Profile Manager [exit] button takes to apprunner,2,0.2948497077594876,True,True,False
+38654,Mousewheel scrolling crashes browser,2,0.6212966095552972,True,False,False
+49820,} in new Function should cause syntax error instead of making the rest be ignored,1,0.28641998943159,True,True,False
+26788,no scroll bar some things get rendered twice,2,0.3073816886899497,True,True,False
+25532,Selection extension with DownArrow key doesnt always work.,2,0.33610007249860063,True,True,False
+38813,HTTP POST fails after http authentication,1,0.27970432127331435,True,True,False
+40326,mozilla wasn?t able to show this site (I tried it twice); IE5.0 was able to. the status bar showed the mozilla to load up to 94% of the page; after that he restarted with 80% and so one,2,0.7890093869611035,True,False,False
+47221,Context menu in an empty cell shouldnt show Cut and Copy menuitem,2,0.2949221858787991,True,True,False
+39348,plugin downloader plugin (libnullplugin.so) does not work,1,0.2723980744229555,True,True,False
+31959,Launch Mozilla button needs to change Japanese translation,2,0.2851365253123943,True,True,False
+39361,URL: embedded LF-TAB; mozilla cant load them,2,0.4678055358252244,True,True,False
+24808,Bugzilla: Password form shows a*b*c*d*,2,0.2713409763505862,True,True,False
+30228,[ssl] CRMF not functional,1,0.2974848932699267,True,True,False
+29366,[PP] Mozilla freezes while uploading large attachments,0,0.3087736042122496,True,True,False
+33743,Arrow keys stop working in Address Book and Mail Thread Pane after switching folders,0,0.3340101960259485,True,True,False
+30067,Print selection doesnt work,2,0.2957094995427017,True,True,False
+38391,nsTimer and nsTimerManager held past XPCOM shutdown in static nsCOMPtr,0,0.34269517425517154,True,True,False
+31605,res protocol snapshots substitutions so aggressively,1,0.2992827417630509,True,True,False
+23323,[feature] Toolbox needs to do drop feedback between toolbars,1,0.29437121262942717,True,True,False
+22412,Areas that block use of seamonkey for engineering DOGFOOD,1,0.3241971071055652,True,True,False
+23096,NECKO: Form data not properly submitted,2,0.29357925550674435,True,True,False
+44730,tables not displayed correctly after reload,2,0.7361723838308627,True,False,False
+28576,user agent string breaks bugzillas os/platform input feature,2,0.26501009504139883,True,True,False
+27497,[BLOCKER] Browser closes after creating a new profile,2,0.3310629915587305,True,True,False
+34584,[4.xP] No support for URL history drop-down list.,2,0.7906090597250692,True,False,False
+39310,browser forgets last page visited after window.location.href is modified,2,0.3844179893137854,True,True,False
+32836,size of data in hidden form control changes form size,1,0.2611026856697824,True,True,False
+46073,Printing of frames needs to be supported.,1,0.3129638668512564,True,True,False
+28393,parameterless window.open() doesnt; and prevents app quit,2,0.28385822473887745,True,True,False
+30193,Fram attributes not supported,2,0.3055608743572798,True,True,False
+44933,Password manager: Proxy auth linked to target site (!proxy server),1,0.3088629737968255,True,True,False
+24916,[DOGFOOD] [PP]nsIWindow::Scroll() - Scrolling on unix flashes too much,1,0.33124463429250317,True,True,False
+34183,[trk] (DOM2 HTML) HTMLSelectElement,0,0.32139353312410385,True,True,False
+44397,BR Tags dont show up in Show All Tags mode.,1,0.28422651537985394,True,True,False
+46902,nsCachePrefObserver::Install can return an uninitialized nsresult,1,0.29679845414425554,True,True,False
+27185,cycling width attribute on tables using percentage values produces incorrect results,2,0.4150327297525879,True,True,False
+26256,[PP] Linux - combo boxes: cant select an item anymore,2,0.31128628253578666,True,True,False
+22998,[FEATURE] Need to recognize profiles config.ini & setup DUN,2,0.2264468702475229,True,True,False
+24548,patching to a wrong file; temp result file is not removed aftwards,2,0.3129697628655363,True,True,False
+28720,indent changes text to blockquote and jumps it around a bit,2,0.31292385642464976,True,True,False
+28914,need to add offline attribute to nsIIOService,1,0.2545856183007217,True,True,False
+27333,[Tree]Repeatedly clicking on XUL Tree items crashes Apprunner.exe,0,0.42745935892351467,True,True,False
+23095,Click on toplevel menu in plaintext editor causes crash,0,0.49989865978329134,True,True,False
+39220,Cache Preference displays garbage rather than valid value,2,0.32025988005840084,True,True,False
+48187,Need a better way to bootstrap an XPathEvaluator,1,0.2795864354088809,True,True,False
+20187,GIF Position rendered incorrectly,2,0.3206048355887573,True,True,False
+46443,Named Anchor Properties: should be able to enter dash,1,0.2589364439181502,True,True,False
+36600,quick vote; closing window script crashes mozilla,2,0.6748667442280663,True,False,False
+32260,We need the proposed box-sizing property,1,0.267248257719133,True,True,False
+43767,Scrolling using arrow buttons is twice as slow in trees,1,0.28518326052009974,True,True,False
+29884,Directory and files gets create when starting Mozilla with a profile that point to a invalid directory,2,0.2983572640329159,True,True,False
+19518,context menu should include Select All,2,0.278550483226357,True,True,False
+25741,Crash brining up main window,0,0.36090721286793886,True,True,False
+38904,CSOpenWindow opens in the wrong size,2,0.32448752838555583,True,True,False
+19217,[WB State] Preferences: Should remember expanded state (1GHBOVE),1,0.29987278471309003,True,True,False
+30546,server push not working,2,0.3048144686914887,True,True,False
+39804,Returned values do not conform to HTML4.01 spec for align attribute[form sub],2,0.3240093307172676,True,True,False
+28099,very slow; cpu-hogging mouseover of javascript buttons,1,0.27286422482300177,True,True,False
+49766,SOAPParameters with element set cause SOAPCall::encode to throw,1,0.339509098523303,True,True,False
+48483,Html table with invalid tags gets truncated,2,0.6733851440875598,True,False,False
+37178,Link in imagemap doesnt work with nonlocal USEMAP=,1,0.2785159975130167,True,True,False
+48524,Browser doesnt show real prices on order form after placing order,2,0.34226353295506917,True,True,False
+40217,contentDocument property doesnt get populated remains undefined,1,0.2834505395658116,True,True,False
+45041,crash whenever plugins try to load,2,0.7752334509944596,True,False,False
+50377,More cleanup from bug 452498 and bug 487271 patches,1,0.2748200110586838,True,True,False
+29772,[PP] Linux: Location: control not case-insensitive,2,0.3580209802872144,True,True,False
+30379,after [Alt]+[F]; arrowing up/down doesnt really work in menu,2,0.36910646215101967,True,True,False
+37096,Fails to start Netscape or Messenger,2,0.33920035171975726,True,True,False
+24149,Plugin streams never get initialized (OnProgress is never called),0,0.2665190626140435,True,True,False
+40097,Purify on Solaris reports UMR and UMC in nsLocalFileUnix,0,0.3334084705252114,True,True,False
+21865,Browser Character Menu contains 4 ISO-8859-1 entries.,2,0.2889442420897421,True,True,False
+42378,[FIX]Changing item in select is too slow.,2,0.29633488907085714,True,True,False
+41265,Setting width=x not working for TD when table has width=100%,1,0.2888042115773855,True,True,False
+38958,valign directive in COL is ignored,1,0.29089426322153844,True,True,False
+50094,Avoid nsCOMPtrs and some code in nsDocument::FlushPendingNotifications() when possible.,1,0.25992403594920277,True,True,False
+35307,window problems,2,0.3127823615069152,True,True,False
+42093,Discontinue/Remove link doesnt work in context popups,2,0.27471798587087826,True,True,False
+50504,ASSERTION: Bad life cycle.: mStarted; file parser/html/nsHtml5TreeOpExecutor.cpp; line 118,0,0.3794120675405487,True,True,False
+38306,addDirectory: Certain case returns -226 (FILENAME_ALREADY_USED),2,0.30249428589889527,True,True,False
+25070,empty nodes not removed,1,0.3408333910324535,True,True,False
+22571,identify and assess risks on all known mem leaks and frees- fix all that we can,1,0.2984300481782571,True,True,False
+46645,cant change alignment after changing text to blockquote,2,0.3634138352354614,True,True,False
+37875,Modal dialogs shouldnt disable Mac menu bar entirely,2,0.3340287079024305,True,True,False
+22927,form not defined,2,0.30037868752316543,True,True,False
+27695,onMouseOver doesnt work properly,1,0.31634485870350765,True,True,False
+47410,Freeze nsIWebBrowserPersist,1,0.2796504060586003,True,True,False
+28851,StdURL parsing code doesnt lower case scheme name,2,0.31067178786624966,True,True,False
+27021,applying style to input type=button kills text centering,1,0.34104305977903493,True,True,False
+31112,3-D shading not operational for H Line dialog,2,0.29828549663495435,True,True,False
+48608,css font-formating ignored with input type=file,2,0.7592884859072778,True,False,False
+28661,SGI/IRIX compile error -- GCC bug heads-up,0,0.3095863693042694,True,True,False
+41366,JS Exceptions should have filename/linenumber properties,2,0.3146277932166681,True,True,False
+44560,Win-10/31;1:30 branch build crashes on startup if more than one profile exists,0,0.36205006822592894,True,True,False
+46483,white text field in gray background,2,0.3424785564848564,True,True,False
+26213,[PP] Border not wide enough on bottom,2,0.3435517036901687,True,True,False
+44538,clicking Install Netscape PSM for Linux causes hang and massive CPU usage,2,0.3959567612558521,True,True,False
+26490,wrong value passed,1,0.3129914433944071,True,True,False
+24451,[cosmetic] dont draw box around small unloaded images,1,0.3042546461206568,True,True,False
+48683,rows in nested table dont have equal width,2,0.5818373424912859,True,True,False
+27794,text align justification not working,1,0.31660151952873594,True,True,False
+40020,text highlight lost if you click on location bar; and back,2,0.3571493777491843,True,True,False
+30326,[BETA][PP] Charset menu does not change characters in the page,2,0.3451193780615372,True,True,False
+40994,value change not honored,1,0.3301425933301973,True,True,False
+43362,HTTP Pipelining doesnt load all images,2,0.3406290640623391,True,True,False
+28415,Crash when mousing over links,1,0.25301634137453666,True,True,False
+22230,Number.toString(base != 10) not working for negative numbers,0,0.34496881826747294,True,True,False
+48710,text of certain links may be superimposed at the right of the window,2,0.8577636793335841,True,False,False
+33307,odd select field behavior,2,0.7356177515523111,True,False,False
+41109,text in dialog box is centered,2,0.7324717973118685,True,False,False
+34359,Java applet crashes using Windows 95,0,0.30896437601426235,True,True,False
+21944,nsCSSRendering::PaintBackground is called too many times,2,0.26596673663760084,True,True,False
+42942,nsCategoryManager is not threadsafe,1,0.2959450894308057,True,True,False
+25115,significant whitespace stripped out of HTML elements,2,0.4386139952035838,True,True,False
+48885,The browser crashed (javascript enabled),3,0.29492325847881024,True,True,False
+44666,Unable to view full page,1,0.30161999965940556,True,True,False
+44202,Allow Cookies from this; should be Allow ... this Site,1,0.277248734360454,True,True,False
+24494,layout wrong around floating image,1,0.26704776154290544,True,True,False
+26581,form data not preserved on forward,2,0.3829080790686321,True,True,False
+40056,OnDataAvailable() is never called again if data is not read from the Stream,2,0.5531509572515393,True,True,False
+18985,Automatic perspective switch (1GENJNJ),1,0.2960148290947469,True,True,False
+47098,[review]font-size:0 ignored,1,0.2994081668929434,True,True,False
+31191,main.font_sizes has no properties,2,0.3192782548566703,True,True,False
+32073,Navigation with IFrames broken.,2,0.27973945602423245,True,True,False
+19717,0 days of history is still a lot,2,0.27622802994053147,True,True,False
+41028,Crash when shift-clicking in bookmark manager.,0,0.2910064507469878,True,True,False
+49964,Use Method-Check request header for non-GET access requests,1,0.2521442769445663,True,True,False
+37373,Page Properties text box for editing <HEAD> shows <BODY> content instead,2,0.29616795314705235,True,True,False
+38632,nsWindow::Create diff between Mac and Windows,1,0.32295747377075223,True,True,False
+38607,link hover bounding size determined by font size,2,0.8387485636363811,True,False,False
+40227,[RFE] Warn before accepting a cookie is nearly useless,2,0.3155423514086708,True,True,False
+32262,form elemets display buggy,2,0.34496902741012436,True,True,False
+48200,onLoad JavaScript on www.ihk-bonn.de causes Mozilla to hang for several secs with 100% CPU consumption,1,0.2813382856626497,True,True,False
+45666,Composer doesnt open,2,0.3319931546726821,True,True,False
+34719,Following links kills Back button,2,0.3896759161628242,True,True,False
+22046,contentManager4.xul: non-localizable XUL file,2,0.28915327805997315,True,True,False
+44866,When Submitting form with target of _blank POSTED variables are not passed to server,1,0.36319403371588893,True,True,False
+35801,asserts clicking on javascript hrefs,1,0.3336733578630798,True,True,False
+50603,transition-duration and animation-duration should reject negative values at parse time,1,0.2970055530809022,True,True,False
+34970,[trk] (DOM2 StyleSheets) StyleSheetList,0,0.3296767544140252,True,True,False
+22723,[PP]Cant run apprunner in Mac if directory has / in it,2,0.2610584053120178,True,True,False
+29607,scrolling a webshell when the window is partially obscured causes garbage,2,0.31329146419176246,True,True,False
+33107,Domain Guessing: localhost  links switches to www.localhost.com,2,0.2990700663015235,True,True,False
+31014,Input widgets in dialogs dont display background correctly if focus is set,2,0.28577521639832454,True,True,False
+30181,<TD> cells not inheriting ALIGN=CENTER attibute from <TR>,1,0.3069133954798739,True,True,False
+20927,assume 96dpi in GFX/GTK font module,1,0.251080130545383,True,True,False
+21802,font size is too big inside table cell,1,0.2972818715061741,True,True,False
+49021,crash if FreshDownload plugin started,1,0.3651716273976079,True,True,False
+50275,[Mac] 308917-1.svg triggers UMR [@ SurfacePatternDrawFunc],0,0.31862969328270113,True,True,False
+35907,Page fails to load completely.,2,0.8365976221472846,True,False,False
+21943,STRICT is already defined,0,0.2874953934093927,True,True,False
+38318,FORM SELECT width/size: truncating default item,2,0.8659258394457898,True,False,False
+46635,does not recognize http://user:pass@url when using a proxy server,2,0.5144330237247132,True,True,False
+27010,Message Upload Instability,2,0.29497027944863935,True,True,False
+25489,for loop parsing error,1,0.3166000922110718,True,True,False
+29934,Move XPI file cleanup from nsSoftwareUpdate to nsXPIManager,1,0.2704493439767162,True,True,False
+29660,Japanese Character Set in My Sidebar,0,0.3056527725921929,True,True,False
+42918,Command+number shortcuts in Tasks menu absent in Composer,2,0.3320096702076141,True,True,False
+22904,@import directive not work in linked css files,2,0.26645425302709325,True,True,False
+37261,[regression] Accept-Language not functional under multiple profiles/re-start problem,1,0.2679936792365356,True,True,False
+41701,black borders to the right of table cells,2,0.3319167296172449,True,True,False
+42652,bgcolor of body overrides bgcolor or tr in html output,1,0.2740310348072329,True,True,False
+47013,No warning on importing duplicate CRLs,2,0.2806719028271831,True,True,False
+41220,When removing selection after select all; onselect is called for each item.,1,0.2934984183062983,True,True,False
+45512,non-terminating pre element,2,0.507164536588838,True,True,False
+26368,Utterly mis-drawn page,2,0.286442641938915,True,True,False
+29603,framests are forcing scroll bars,1,0.30906557630418424,True,True,False
+27760,clicks in dead space need to be handled,2,0.3009238472118349,True,True,False
+42822,table jumps when chaning bgcolor via javascript,2,0.3158086152526498,True,True,False
+27601,taskExtensions needs to use xul overlays.,2,0.30919383488900437,True,True,False
+40626,Cant get properties of CSS-positioned element,2,0.2821905180133415,True,True,False
+42409,CSS1 color change of block tags inside an anchor fail,2,0.28215021978520116,True,True,False
+44628,Crash in psm.exe when trying to sign into my.aol.com,0,0.4181104294188888,True,True,False
+32611,Focus rectangle around link doesnt disapear,1,0.33721179642304466,True,True,False
+33435,TheOnion not laying out correctly - tables in wrong place; etc,1,0.23893777249141698,True,True,False
+24947,HTTP REDIRECT command misinterpreted for relative links,1,0.3356276075363214,True,True,False
+25181,[rfe] data: urls in chrome -- embedded images,1,0.294690386725857,True,True,False
+21442,(feature) Insert/Paste HTML needs to be implemented,2,0.24652119715753282,True,True,False
+35430,Using visibility: collapse to expand/collapse a portion of a dialog doesnt work,2,0.2939856853425407,True,True,False
+22765,document.write errors when used with off-page javascripts,1,0.3096185717033665,True,True,False
+28608,Window should close; but get assert.,2,0.26770985157489835,True,True,False
+30006,ACTIVE IME-Kana mode input after switch from korean IME to Japanese IME,2,0.34796706349189677,True,True,False
+48422,The text will disppear when the mouse go over the items at left side,2,0.5391040616793829,True,True,False
+44464,banner frame goes in endless loop,2,0.8078896647039021,True,False,False
+32202,changing any browser.* preference causes all documents to be reflowed,2,0.298049403834001,True,True,False
+20265,Multiple size events,2,0.2910563860095737,True,True,False
+38220,crash by clicking Task Menu while a Mail compose window is being created,1,0.2577390602640512,True,True,False
+35582,History should use nsIFile,0,0.2949831722345039,True,True,False
+34560,[regression] Crash on text input with KO IME,2,0.32595766755697836,True,True,False
+48708,defunct Real Player keeps sound card from use,2,0.3415413601687232,True,True,False
+34445,incorrect row spacing in tables,2,0.6399282956418634,True,False,False
+23214,Crash when tooltips appear and disappear quickly,1,0.2812138873799703,True,True,False
+34816,Open in new window doesnt check for permission,0,0.2854206885323239,True,True,False
+50325,otf fonts render with different metrics compared to ttf version,2,0.27260898522508675,True,True,False
+31357,Cant get IFRAME to work with javascript: URL,1,0.29340184622782456,True,True,False
+19113,Detach window usuability suggestions (1GD0HYI),2,0.2980746304403134,True,True,False
+46294,[static ctor]function scope static ctors in nsHTMLTokens.cpp,0,0.2539294047767055,True,True,False
+44268,Animated GIF in combobox causes scrollbar flickering in forms,2,0.26982834988821125,True,True,False
+48361,Inactive windows still recieve events,2,0.3260720494488633,True,True,False
+50680,CSSKeyframesRule should have a `appendRule` method; not `insertRule`,2,0.24689051057817318,True,True,False
+43797,Visiting logitech.com uses a lot of RAM,2,0.34606818905662107,True,True,False
+24295,Click and hold on up/down arrows in GFX scrollbar does not scroll,1,0.2987326220609258,True,True,False
+22885,crash in prefs at nsCSSStyleSheet.cpp 1657 CSSStyleSheetImpl::RulesMatching,0,0.9003076515693335,True,False,False
+28921,Incorrect Last modified dates showing up in ftp,2,0.32902556767660474,True,True,False
+36905,css1 padding-left adds padding to right even though padding-right is set to 0,2,0.4480131705785168,True,True,False
+28538,Unknown content-type dialog thrown when HTTP response doesnt contain a content-type,2,0.3391292914440247,True,True,False
+36359,incorrect type=text/css added to head element,1,0.3232470279665598,True,True,False
+25915,GetFolder: Installation fails with target folder Preferences,2,0.3954881375728268,True,True,False
+42487,On win2K; I dont see an I-Beam cursor at all during editing.,1,0.28125674211687335,True,True,False
+45510,Crash when entering IMAP password,0,0.28851232199006377,True,True,False
+23373,Images dont load; alt-text displayed inappropriately,1,0.3152138328690129,True,True,False
+46461,Add intrinsic sizing support for NPAPI,2,0.32913952918631023,True,True,False
+39137,UTF-8 not correctly handled in XHTML,2,0.3022900397687611,True,True,False
+24712,[Dogfood] display:none doesnt work on tree control items.,1,0.3099618251544723,True,True,False
+24404,[PP][CRASH] Windows: Changing Scheme crashes Apprunner,0,0.3248843407274741,True,True,False
+19555,no proxy for doesnt work if port information entered,2,0.3325314074166613,True,True,False
+36825,fix signed vs unsigned comparison in,0,0.42411241818351825,True,True,False
+42895,crash trying to bring up security manager,0,0.336898021918037,True,True,False
+36299,Printing and Crashing,0,0.347912293780002,True,True,False
+37088,document.clear and document.open(text/html;replace),2,0.33000465354647085,True,True,False
+21550,[PP] Cant type apostrophe in Win compose window (editor and mail),2,0.29941437875726346,True,True,False
+25003,[PP] Win32 - Menus in new Editor window are incorrect,2,0.36411915820487595,True,True,False
+40120,Long file name error is not posted to the log file,2,0.3228705481546868,True,True,False
+19711,Middle-clicking a Places toolbar folder does not open in tabs,1,0.3693690091674018,True,True,False
+31687,Closing a dialog window makes the browser stop being in front,2,0.2871232132906691,True,True,False
+28101,Table Cells not appearing when styles are applied to them,2,0.33224896175713386,True,True,False
+23730,Flex from inside an iframe tag is not working anymore.,1,0.31499819197616186,True,True,False
+33881,<select> does not scroll when css style applied,2,0.3379042254105515,True,True,False
+44270,Recieved formating error for Tech CU site,2,0.3003033938375815,True,True,False
+25889,clicking in dead space under a dropdown list opens the list,1,0.27499622013713826,True,True,False
+47713,If i write html with javascript and use meta http-equiv withe charset=Windows-1252; Mozilla do nothing !,2,0.7263887315484109,True,False,False
+28523,Menu layout/drawing problems (testing available screen space),1,0.30513538530252116,True,True,False
+22750,Unix compile of mozilla attempts to open Win* filenames,1,0.2876229337946694,True,True,False
+29203,Drop down boxes highlighting more than one field.,2,0.2895944868056159,True,True,False
+27019,apprunner crashes upon startup,2,0.30388013026600014,True,True,False
+23307,[PP]sched: Linux Clipboard Image & HTML  support,0,0.30235456988129505,True,True,False
+21877,DiskSpaceAvailable: Returned free disk space value differs from actual,2,0.29590070522554823,True,True,False
+48626,images and text vanish under right column,2,0.3144549305853877,True,True,False
+38947,continuous (streaming) pages do not update properly,1,0.2990381166878683,True,True,False
+46284,Cant remove blockquote on second line of blockquote,2,0.30042457682564155,True,True,False
+31164,cant compile/build file on Macintosh,2,0.2538253296371608,True,True,False
+35966,edit fields eat context clicks,2,0.342763121420565,True,True,False
+26870,Check in a workaround for **long** Character Set menu,2,0.30821172386230167,True,True,False
+41726,mozilla doesnt parse java properties files correctly,2,0.26267832607586195,True,True,False
+49577,Setting designMode doesnt work anymore in this particular case,0,0.2799491807078173,True,True,False
+49585,Incorrect documentation in nsISupportsUtils.h,1,0.28205778177113916,True,True,False
+23839,[DOGFOOD] unexpected selection behavior clicking in text,2,0.3375615909061006,True,True,False
+22501,[RFE] req: Change cancel on do you want to save this form no no and make yes get disbled when never save this form is checked,1,0.26810169238587067,True,True,False
+28400,Dynamic changes within tables not reflowed correctly,2,0.41498277781546644,True,True,False
+27655,[ENH][LIQUIDPLAYER] register default MIME type/plug-in handler data for LiquidPlayer plug-in,1,0.27967972812546604,True,True,False
+31668,AutoTranslate does not translate this page to English,2,0.4041495594046589,True,True,False
+24960,[PP]Not able to use [RENAME] button,2,0.3350011315023834,True,True,False
+19316,New java project wizard button names (1GEAPBK),2,0.27436972702396983,True,True,False
+27487,repackage resources into jar files,2,0.2887300949994836,True,True,False
+46177,Checking if form radio button is selected (via javascript) returns false info,2,0.7908478772143813,True,False,False
+32189,Crash when loading urls greater than 100 characters,0,0.3609116044275275,True,True,False
+27643,Crash,0,0.3229473632940598,True,True,False
+43011,Unknown tags (inside pre?) assumed to need closing tags,1,0.34119581983401126,True,True,False
+37055,FoxNews crashes,0,0.41905204155895176,True,True,False
+30684,Errors in table rendering when logged in to my.yahoo.com,2,0.2961041483640041,True,True,False
+19600,give user choice about launching after installation,2,0.36472395877416264,True,True,False
+20350,mozilla core dumps when I click on a binary file.,0,0.5756236782710209,True,True,False
+30737,Selection in trees doesnt work right,1,0.3002267196827228,True,True,False
+40291,[fix in hand]Need a -moz-all value for user-select,2,0.24030230315631396,True,True,False
+37784,Crash on ibm.com,0,0.7546133122117337,True,False,False
+23151,Page layout is way screwed up,2,0.37657219708555334,True,True,False
+24467,Copying <BR> doesnt add line break in Clipboard content,2,0.5609830162201558,True,True,False
+42783,Shell using XPCOM after it is shut down,1,0.2950895465596757,True,True,False
+41359,PAC: js uncaught exception when personal toolbar used & bad proxy settings,0,0.3049937346690392,True,True,False
+38218,undo/redo dont work right in urlbar,1,0.3083987639981153,True,True,False
+29194,File names with periods not correctly MIMEd,2,0.28138834864680984,True,True,False
+37092,Weird text gets URLified,1,0.3263031778881163,True,True,False
+19204,[Tasks] New task may be filtered out (1GE5PP6),1,0.24771380059218365,True,True,False
+24607,incorrect overconstraint handling for rtl; absolute,2,0.42536729001939655,True,True,False
+48665,Wildcard certs throw security warning for top of the domain,2,0.6058323602131397,True,False,False
+30945,Accept bytes is not supported,1,0.22741406889747046,True,True,False
+19618,Bookmark menu context menu accesskeys dont work,1,0.3305178896353204,True,True,False
+22385,[PP]Macintosh xpidl crashes while trying to build seamonkey,0,0.4819403435033902,True,True,False
+41585,extra / on the end of FTP URLs in history.,2,0.3790482999989429,True,True,False
+45052,crashes [@ nsOnStartRequestEvent::HandleEvent],0,0.32971497637913977,True,True,False
+23541,[PP]pasting into open Location dialog doesnt enable open button,2,0.313711528216447,True,True,False
+29554,Text align to the right in input type=button,2,0.272182898353113,True,True,False
+32967,[FIX]checked attribute on radio button is ignored,2,0.27481998879226166,True,True,False
+43563,Games on shockwave.com website do not work,2,0.38134046876557554,True,True,False
+24212,FileSystemDataSource::~FileSystemDataSource unregisteres what was not registered,1,0.30887191602905745,True,True,False
+20384,CNavDTD does not grok optional BODY start tags,1,0.34513200810470984,True,True,False
+41695,Move GetInsertionPoint into the frame manager.,2,0.27187200762848945,True,True,False
+30455,multiplication of text on hovering,1,0.3494747862844629,True,True,False
+40204,Cached page alway used on HTTP Location redirects,2,0.7832300948204716,True,False,False
+23772,nsRegistry::GetString reimplements strdup(),1,0.3221633742189562,True,True,False
+29067,[EVENTTARG] javascript: URL not working (inside absolutely positioned DIV??),2,0.45215394721766394,True,True,False
+28399,contents disappear when input hidden and redisplayed,2,0.35000247067026075,True,True,False
+45959,images that are links dont activate,2,0.2842491975775259,True,True,False
+29086,[PP] objects appear through menus,1,0.30243153788787613,True,True,False
+32951,context menu moves the layout while the menu is open,2,0.35754327254407253,True,True,False
+31494,Crash when exiting window,0,0.5303965995046297,True,True,False
+41646,crash: create div in tr and kill it with parent.removeChild,0,0.3822395903768127,True,True,False
+29679,navigator.cookieEnabled is true even is cookies are diabled,1,0.26985391534199166,True,True,False
+39035,Just root can register all Mozilla modules (Breaks mail/news and themes),2,0.26884305474594755,True,True,False
+30012,Setting bgcolor attribute for table cell doesnt paint content area.,1,0.30884469058089314,True,True,False
+44058,[RFE] In Image Manager / Image Sites should be able to manually add sites,2,0.26186642113206016,True,True,False
+42966,Unable to make a selection,2,0.2954667034198007,True,True,False
+36032,radio and check boxes process on mouseup regardless of where mousedown occurred,2,0.34890473150377443,True,True,False
+33543,IFRAME with invalid/not found src URI not rendered,1,0.2990203426848467,True,True,False
+25625,VK_ESCAPE key message not being received in xul dialog,1,0.30857243902245823,True,True,False
+34585,[4.xP] Flashing insert cursor disappears from end of text.,2,0.7390483547936355,True,False,False
+30196,up arrow in text entry forms does not work as expected,2,0.39012158494366767,True,True,False
+31187,Capabilities persistence uses preferences; which is insecure,1,0.3078565964617695,True,True,False
+34599,javascript pop up windows try to load in browswer window,2,0.8484209267790347,True,False,False
+43238,The color settings for composer are not saved.,2,0.36699866326000363,True,True,False
+27815,M11: cant build with MathML,1,0.2635806063642459,True,True,False
+24611,Build can find nsIUnixToolkitService.h from objdir,0,0.3383871309034294,True,True,False
+31895,listbox doesnt show selected item correctly when using previous form state,2,0.4208986276991609,True,True,False
+36237,IME: Ja string doesnt move with cusor when its length exceeds the size of text field,2,0.33538418847467105,True,True,False
+50097,Crash [@ nsSVGEnum::SetBaseValue] setting orientType on <svg:marker>,0,0.6409473299377259,True,False,False
+30542,[CRASH] playing with menu in window causes crash,0,0.41231576841796463,True,True,False
+19804,Clearing places search box still searches,1,0.3115310379557186,True,True,False
+47056,Window titles longer than 30 chars are being corrupted,2,0.3186946832660443,True,True,False
+32601,nsFileSpec should called nsIPlatformCharset by using do_GetService,0,0.25480669333315736,True,True,False
+36605,[CBX]Mozilla takes 10 minutes to render a (large) table with form elements.,2,0.3327805039142646,True,True,False
+38660,dropping a single word in the same window causes it to load as a url,2,0.32039602702881226,True,True,False
+28509,Weird rendering of dropdown box,1,0.3438674566025654,True,True,False
+50003,Canvas miterLimit ignored on axis-aligned corners,3,0.2758810516030918,True,True,False
+43061,BACK button makes img element lose image,2,0.838077378108311,True,False,False
+23055,{html4} AREA elements dont fire events,2,0.3282279124122777,True,True,False
+41892,filepicker doesnt trigger when hitting Browse button,2,0.281041769584791,True,True,False
+31531,key binding with without xulkey=true fails on mail window,2,0.2682369197587851,True,True,False
+37416,No feedback if wrong password when importing cert,2,0.776178401790595,True,False,False
+23508,[FEATURE]Get cookies working with Necko,0,0.27954416285264094,True,True,False
+33605,Selection isnt drawn,2,0.2675030248985826,True,True,False
+22923,Picture layouted in a wrong position.,2,0.2844838438038706,True,True,False
+39211,Reloading a form _response_ page crashes Mozilla,2,0.6299406842679187,True,False,False
+24372,key binding code should assume false for modifier keys,1,0.3351330176059976,True,True,False
+40047,popup layer location dependant on unrelated tag,1,0.30902351206293743,True,True,False
+50209,Crash [@imgRequest::NotifyProxyListener(imgRequestProxy*)] at tokyomango.com,0,0.39736028652911554,True,True,False
+36002,CSS ident token should allow the non-latin1 character,2,0.2606300659270877,True,True,False
+24307,losing scrollbars going back,2,0.34100990176259843,True,True,False
+34813,Text set to window.status does not get restored after OnMouseOver,2,0.8066535881840604,True,False,False
+48844,not possible to select dropdown item all the way across,2,0.29476702174760094,True,True,False
+31334,Need iterator [XP]COM interfaces that can be made compatible with C++ standard algorithms,1,0.3235896985292227,True,True,False
+23448,[PP]xlib gfx doesnt use shared images and pixmaps,1,0.2749684743220253,True,True,False
+34508,Pressing TAB button crashes browser,2,0.28782848043699955,True,True,False
+38863,Loading pages from Whats Related sidebar breaks back button,2,0.3273809495950044,True,True,False
+41188,Crashing on exit from Linux builds,0,0.3467274558772997,True,True,False
+22784,[PP] setValueString crashes when subkey is absent,0,0.3761881256047735,True,True,False
+44693,Downloading postscript files crashes mozilla,0,0.32448146049605775,True,True,False
+18871,Save in team stream merger confusing (1GI7HXG),2,0.2948266730663502,True,True,False
+39289,Initiating drag of image that is not also a link to desktop is very hard,2,0.3224952773714306,True,True,False
+37049,Anchor link background color fails to paint across width specified by CSS,2,0.8871912753716119,True,False,False
+48721,Shockwave 5,2,0.2918181570354922,True,True,False
+29235,Save Document As dialog has a /n in it,2,0.2863056790843009,True,True,False
+29224,Focus cant be set on a form field from the onLoad hander,2,0.4591230179724162,True,True,False
+43942,security warnings prefs cannot be changed,1,0.2816975693730764,True,True,False
+31873,[REGRESSION]select form control is not displayed if the SELECT tag has the MULTIPLE attribute.,2,0.3595466763923074,True,True,False
+44979,Bypass of my proxy.,2,0.7552688164146459,True,False,False
+30984,Repainting not done properly,1,0.28780678593051573,True,True,False
+33762,Asserts at startup in nsScriptSecurityManager.cpp,0,0.5129999094561932,True,True,False
+38528,xpti does not correctly handle .xpt file rename,1,0.3224748833404092,True,True,False
+36504,CElement::GetElement used before definition,0,0.3147657129537721,True,True,False
+42872,browser crashes on call of www.hackernews.com,2,0.752173156110409,True,False,False
+45281,text of location entry in navigation toolbar disappears,2,0.3731442830760668,True,True,False
+22494,crash on infinitely recursive frames site,0,0.4710713155946498,True,True,False
+31890,hitting tab three times at in location bar causes caret to dissapear,2,0.37214989795154574,True,True,False
+27664,all properties which require accessing the current window height,2,0.28198575427318523,True,True,False
+31559,hilite in selection box not changing when clicked,2,0.5904386372355741,True,True,False
+27397,Going to this url causes a crash,1,0.28261607135222805,True,True,False
+37629,4xp Javascript in location bar and bookmarks cannot access current page,2,0.7739510694155188,True,False,False
+31791,FMM: free memory mismatch in nsBufferedStream,1,0.2861768883250756,True,True,False
+25415,All text edit fields are text areas are blinking,2,0.30477021108665703,True,True,True
+47455,Make psm dialogs non modal,2,0.25571502338345314,True,True,False
+46643,Your Certs tab: fix Certificate Backup Password dialogs; add Obtain New & Change Master Password buttons.,2,0.45403557349122686,True,True,False
+49280,Should pseudo element (e.g. ::first-line) be innermost or outermost?,1,0.3679936449929822,True,True,False
+48677,onmouseout event not triggering,1,0.30083777572330145,True,True,False
+44301,Privileged code insertion with addPanel,2,0.2504904905059131,True,True,False
+30093,[Regression] Background on menus no longer white,1,0.3197822944744888,True,True,False
+24255,tracking bug: possible infinite loops,0,0.3342378675705835,True,True,False
+48735,WMP regression; bad NPP_StreamAsFile,2,0.6544408583161302,True,False,False
+50115,ASSERTION: running past end with -moz-column; direction:rtl,0,0.47556139297160266,True,True,False
+45371,missing check for null in nsInputStreamChannel,0,0.41060134403026516,True,True,False
+19403,DCR:URL on about should be hyperlink (1GESIZJ),4,0.24838006130663676,True,True,False
+20065,form values not persistent,2,0.29805794967451144,True,True,False
+46772,no content displayed after several crashes,2,0.5858029453756013,True,True,False
+47037,Cant expand chrome/*.jar files on ARM,1,0.2728734934225897,True,True,False
+39964,Authorization does not work properly,2,0.3498920801742669,True,True,False
+43156,Get Java links take you to a URL with PR2; JVM never downloads,2,0.357126926961245,True,True,False
+41476,deletion of bullet list content does not delete all bullet items,2,0.2766545055628567,True,True,False
+37685,[X11] browser windows are opened too small; then resized,2,0.338533333852995,True,True,False
+46214,Crash pressing OK in Advanced Account Settings,0,0.39069686526226544,True,True,False
+44467,[Javascript] window.onblur=self.close; does not close window at the onblur event,1,0.2978616109915726,True,True,False
+42491,Checked radiobutton in radiogroup incorrectly takes focus on :hover:active,2,0.3558453786127503,True,True,False
+20153,Text incorrectly layed out in 3-12-1999 build,2,0.28817367867249966,True,True,False
+26807,multicol tag not supported,1,0.2923432606958843,True,True,False
+24129,doesnt recognize language encoding in header,2,0.28335262136841255,True,True,False
+48299,Cannot cut and paste from Lotus Wordpro,2,0.6260830770682196,True,False,False
+23996,<html:...> in javascript in xul file crashes browser,0,0.4652291103862258,True,True,False
+50073,wrong html window area size leads to black areas in window view,1,0.3470101040141647,True,True,False
+18932,Incorrect page highlighted when Previous button clicked (1GET0EJ),2,0.3090575952876405,True,True,False
+42557,html4 button wont accept click when it has focus,2,0.2648322652875106,True,True,False
+31080,Javascript menu at cadillac repositions on mouseOver,2,0.3581543039479463,True,True,False
+23488,M8: Cant Scroll while page is loading,3,0.24955092519117172,True,True,False
+28279,Clicks close to scrollbar thumb causes scroll-to-beginning/end,2,0.3748027013630189,True,True,False
+32443,[feature] Disable attribute doesnt work on top-level Mac menus,1,0.26248106957639783,True,True,False
+37018,Entering new sites in location bar doesnt open page in top frame,2,0.30390271291393395,True,True,False
+21969,MLK: nsHTMLEditor leaks rules,0,0.3808631807753218,True,True,False
+50407,<select> items have mismatched hilightcolor / border on Windows CE,1,0.3235740563239825,True,True,False
+31094,[MLK] nsIAtom leak due to code typo?,2,0.2968781093705755,True,True,False
+42489,UMR in StretchDIBits,2,0.2848317148285763,True,True,False
+44532,last page visited cannot handle framed pages properly,2,0.3646905362539532,True,True,False
+45118,The page specified by the above URL takes forever to process,2,0.3271684227513182,True,True,False
+28499,running mozilla.exe; purify reports UMR in nsComboboxControlFrame::Reflow,0,0.408682744530004,True,True,False
+40016,NamedNodeMap.item throws incorrect Exception,2,0.5452983908920074,True,True,False
+37750,Loading JavaScript out of JAR files results in a crash,0,0.3411267561019892,True,True,False
+31961,www.linux.com causes excessive X server load,0,0.32791973290478227,True,True,False
+50114,nsPNGDecoder uses GetWidth twice instead of GetHeight,1,0.32349343875352576,True,True,False
+48380,image map coordinates not correctly recognized,1,0.26955349320290645,True,True,False
+27220,Cant load a file using nsIFileSpec instance,1,0.27307827594191847,True,True,False
+24062,Frame resizing causes repaint problems,2,0.2884844353276747,True,True,False
+33913,Displays js source in frames,2,0.2764727254814331,True,True,False
+47272,Sometimes text in input boxes and text on webpages get cut off or wrongly look italic.,2,0.30387812393031216,True,True,False
+39555,Chrome leaks at shutdown,2,0.2919409100991451,True,True,False
+51455,scroll bar warps when focus is lost and regained,2,0.8240211281912561,True,False,False
+51167,iQ(.appTabIcon; this.$appTabTray).each() calls in groupitems.js should return early if possible,1,0.32394309719284425,True,True,False
+52425,Part of page is misplaced,2,0.5109391379689245,True,True,False
+51363,DOM doesnt throw INVALID_CHARACTER_ERR for arguments with invalid characters,2,0.34726694327057733,True,True,False
+51912,Memory leak on failure in GET_UCS macro,1,0.29707890061652337,True,True,False
+51433,Context menus dont grab the mouse on linux,2,0.4038580872733193,True,True,False
+52636,Unicode keyboard layout selection not preserved when Mozilla not in foreground,1,0.29871473321695846,True,True,False
+52065,myObj instanceof HTMLDocument == false // always,2,0.2487886664321491,True,True,False
+51569,warning in nsMenuBar.cpp,0,0.3140306110769721,True,True,False
+52350,javascript function doesnt work in element beside an image if the page is scrolled down,2,0.7544399794978166,True,False,False
+52146,Most -moz- computed styles not available in DOM Inspector,1,0.3512729125713234,True,True,False
+52081,META HTTP-Equiv Content-Script-Type does not set default scripting language for inline scripting,2,0.8031396661782115,True,False,False
+51229,Rendering of tables with fixed width columns,2,0.29587730215634656,True,True,False
+51934,proxyObject.xpt is missing from packaging manifests,0,0.2693000248803665,True,True,False
+50874,Ctrl-w should close Element Properties window,3,0.28842938755038705,True,True,False
+51044,[FUEL] Factor out generic toolkit aspects of FUEL into a reusable form,1,0.31287832448493275,True,True,False
+51335,Win32 - When BIG tag present; highlighting wrong,2,0.3636828797015768,True,True,False
+52192,crash in mozilla after submitting information with bookmarklet,2,0.7610546471904136,True,False,False
+51986,selection jitters adjacent text,2,0.6312897175783171,True,False,False
+52951,Save Link As... displays broken file picker when file type is unknown on Windows CE,1,0.280188509761167,True,True,False
+51601,startup load of nsprefm.dll could be avoided,1,0.3073436287210721,True,True,False
+52815,Printing generates overlapping widgets,1,0.2835341606229941,True,True,False
+53078,ACE Stream plugin wont start in Firefox 28,1,0.27312949276208326,True,True,False
+52630,font in form controls is now Lucida Grande; very large,1,0.2635885136819295,True,True,False
+51443,Right clicking on scrollbar shows popup menu,2,0.5000546724442322,True,True,False
+52424,table cells height is inconsistent,2,0.4702641317516576,True,True,False
+52120,Additional languages to the Accept Language List,1,0.27908171361452905,True,True,False
+53055,Very poor perf on IETestDrive Pirates demo,0,0.2789006903584193,True,True,False
+52940,nsTypedSelection cycle collection should traverse to mSelectionListeners,0,0.2701408287224137,True,True,False
+51466,lousy error msg when try encrypting with signing-only cert,2,0.3497361213660412,True,True,False
+51246,Mozilla 5 supports XML; but it does not announce it in its HTTP request headers...,2,0.2870046131560075,True,True,False
+52035,dotted lines in outliner draw over twisty,1,0.27341674564241014,True,True,False
+52487,marquee stylistic attributes should be handled through attribute mapping,1,0.280249095251984,True,True,False
+52753,[@ PR_EnumerateHostEnt] flaky wifi connection or vpn or laptop sleeping,0,0.5847031994243664,True,True,False
+52871,[mac] Inconsistent choice of font for certain characters,2,0.2705133879931599,True,True,False
+52827,Crash [@ nsPropertyTable::PropertyList::Equals] on closing print preview with page-break-after: always; position: fixed,0,0.7486972433840121,True,False,False
+51062,Position of close confirmation dialog box is wrong when Firefox minimized and closed through right-click menu.,1,0.35769776230222217,True,True,False
+51119,[startup-notification] Two windows started when Firefox launched for the first times,3,0.26733111342923954,True,True,False
+52267,Manager: Scroll bar (Stored Cookies & Cookie Sites) is partially covered in Classic skin,2,0.43934882021433985,True,True,False
+51309,generated document URI should be different from generator,2,0.3056078792909824,True,True,False
+52890,CG glyph rendering always anti-aliases even when system preference is to disable for font size < x,2,0.23818967974058608,True,True,False
+52414,acrobat plugin enabled against wish,2,0.3264663340305876,True,True,False
+51874,Need to be able to scale 8 bit alpha images on Unix.,0,0.22441839377864908,True,True,False
+52665,Cookie Manager: add an expiration time column,2,0.2710826479603886,True,True,False
+52792,When drawing to a scaled canvas with drawWindow; native buttons are enormous,1,0.2901061993363243,True,True,False
+52272,draggesture event does not occur if the element is not in focus already,2,0.7560764025299669,True,False,False
+53047,Avoid unnecessary thread pool notifications when changing thread limits,1,0.32700523507278023,True,True,False
+52663,.nodeValue shouldnt throw NO_MODIFICATION_ALLOWED_ERR for documents and elements,0,0.31191043687899495,True,True,False
+51721,Mac-Japanese profile folder name is not created correctly on US system + Ja language kit,2,0.29571797282386614,True,True,False
+51277,Radio buttons dont use bgcolor,1,0.3274942128279101,True,True,False
+53733,clean up XSLTProcessor.cpp,1,0.25273401481896146,True,True,False
+54222,Rein in the state space for a JSParseNode,1,0.282068448672976,True,True,False
+53729,gopher: preference to shut off sorting,1,0.29530858683966005,True,True,False
+53996,layout of page changes and mouse selection from listbox does not work,1,0.34594265887652015,True,True,False
+54274,Allocate heap nsFrameLists from the pres shell arena,1,0.3429702528968299,True,True,False
+53230,Directory selection dialog does not show full path (1GD0F47),2,0.2517224377499296,True,True,False
+53418,Master password should block access to cookies/active logins when not entered,2,0.3204777813665469,True,True,False
+53448,{feature} we dont handle relatively positioned objects quite right,1,0.2754854177081978,True,True,False
+54102,out of disk space assertion does not bubble properly 0[344708]: ###!!! ASSERTION: morkBool_kFalse: 0; file r:/mozilla/db/mork/src/morkConfig.cpp; line 56,0,0.4753743175496169,True,True,False
+53595,Disabled menu items seem to trigger on access key,2,0.34126885364128534,True,True,False
+54243,The program crashes,0,0.3675983812210656,True,True,True
+53795,nsCookieHTTPNotify.cpp needs work,0,0.40700585273563644,True,True,False
+53454,{perf} image loader performance bugs,1,0.3149243016088898,True,True,False
+53395,system  crashed,3,0.251670294605071,True,True,False
+54012,Mozilla does not refresh wsdl file changes once the file is loaded,2,0.29607715531023376,True,True,False
+53259,[Linux] ALT-digit tab-selection shortcuts conflict with accesskey assignments,2,0.28925240855492956,True,True,False
+53724,Support blur() method on area elements.,1,0.28842047481668615,True,True,False
+53871,mozilla freeze X window with icewm [nsBlockFrame::PullFrameFrom()],2,0.5766260126224485,True,True,False
+53714,Status bar should update when loading plugin,1,0.25756056205276234,True,True,False
+53415,its not opening,3,0.2732213972206993,True,True,False
+53715,nsCOMPtr operator== bustage on gcc 2.8.1,0,0.4149591249303481,True,True,False
+53764,test,0,0.3074532389705622,True,True,False
+53287,pushing mutliple mouse buttons selects mutliple days in calendar widget,1,0.2655856847218598,True,True,False
+53803,computed value of background-position should be in pixels,1,0.2570287454616121,True,True,False
+53201,Cant remove undefined env vars (1GI7HRX),2,0.27922572959704406,True,True,False
+53150,[Progress] SMOKE: Wrong long operation when version from workspace (1GESYUP),1,0.24887897039072712,True,True,False
+53381,http://baruthwebpagecom.ipage.com/art-gallery/,3,0.2592994593008711,True,True,False
+53874,H.line gets cut off,1,0.3131886071581858,True,True,False
+54239,The program crashes,0,0.3675983812210656,True,True,True
+53393,Not able to open the specific websites,3,0.24872101228554755,True,True,False
+53771,Separate the useragent used by http from the actual one seen by plug-ins,2,0.30082162160547343,True,True,False
+53329,fails to open a local file from explorer; if mozilla is already started,1,0.31141092265935266,True,True,False
+54191,Misindented else-clause code in generator expression decompiler code,1,0.2997341635293991,True,True,False
+53390,192.168.1.1,3,0.2767934124659595,True,True,False
+53865,[RFE]Need pref UI for plugins,1,0.2700492876449763,True,True,False
+53776,illegal language ID can be added into Preferences | langauge,2,0.2980974232994099,True,True,False
+53466,Global mailcap; mime-type files should use $MOZILLA_FIVE_HOME,1,0.2919968890662196,True,True,False
+53480,ImageTest needs update. doesnt run.,0,0.44874865084622956,True,True,False
+53208,[CVS UI] Major vs. minor version names (1GJJA1E),2,0.2432811628772353,True,True,False
+53552,[RFE] saving web page appends URL as comment in file.,2,0.6321914575259526,True,False,False
+53728,:first-line not following spec restrictions,0,0.2631233197537471,True,True,False

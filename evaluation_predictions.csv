@@ -1,0 +1,2401 @@
+Issue_id,Title,Priority,baseline_prediction,self_training_prediction
+16310,Try setting JSOPTION_ANONFUNFIX for 1.9a4,1,0,1
+33684,Tables being diplayed wrong,2,2,2
+25320,nsWebShell::Init() opening registry to add a key for stream converters,2,2,1
+10916,page bizarrely long,1,2,2
+5494,[FIXr]Content-location possible regression in 1.7b: may fail on many servers,0,0,1
+43727,Cant load above URL; error 80004005,2,2,1
+42300,Crash on simple JavaScript,2,2,0
+12869,{ib} replaced out-of-flow inline element with view crashes browser,1,2,1
+8887,mozbrowser frames inside gaia browser app are popping up with NO_APP_ID,0,2,1
+52475,[GC]content: in :before isnt rendered for tables.,3,2,2
+24973,RFE: Include URL of image in text output,2,2,1
+29915,Active Bug List: Jan 10; 2000,2,2,1
+52705,crash when drag&dropping a selected text URL to content view [@ OLE32.DLL - nsNativeDragTarget::ProcessDrag],3,2,2
+642,Crash with <XMP> tag,0,1,0
+40107,make imgcache size configurable,2,0,0
+50471,[10.6] 1 pixel rendering difference is being mis-reported to Flash Player causing mouse response issue (Flash storage dialog wont go away),2,2,1
+1297,gfx text fields are not accepting input,0,1,1
+26955,xpidl const decls are not case converted for C++.,2,0,1
+7983,Assertion failure: traceOp == JSOP_TRACE || traceOp == JSOP_NOP; at ../jsops.cpp with yield,0,0,0
+19229,[Standard Components] Multi-select in navigator temporarily undoes selection (1GEG093),2,2,2
+31523,document.write to IFRAME doesnt show up before document.close(),2,2,2
+49634,throw {toString: window.alert.call} causes crash [@ js_GetProperty],2,3,1
+41944,File.rename isnt posting error description in logfile,2,2,2
+22469,text decorations dont show for selected text.,2,1,1
+16574,Text 1px too low in this case,1,1,1
+25612,Activation Service window coming up blank,2,2,2
+372,copy sent mail into sent-mail folder failed [imap; offline folder disabled],0,2,2
+50231,Painting issue with Google reader,2,1,1
+53408,First name field should be mandatory,4,2,2
+29254,Awful rendering of rfc-editors rfc page,2,2,2
+15453,Double click near beginning of word selects two words,1,2,2
+17160,TM: LirBufWriter does not NULL check,1,1,1
+23276,Need javascript-entity support in the content sink..,2,2,1
+8844,We should keep a small space on storage during download/install,0,0,1
+34292,cant type in text controls,2,2,2
+27529,Implement taskbar for Composer as in Browser and mail windows,2,0,0
+49468,Digest authentication sometimes uses the wrong HTTP method to compute A2 for POST,2,2,1
+48319,while using a pull down menu; you cannot scroll with mouse,2,2,2
+37056,ender-lite doesnt let return/enter submit forms,2,2,2
+15214,Overriding Function.prototype.toSource overrides Function.prototype.toString,1,2,1
+54251,nsLayoutStyleSheetcache has odd destructor,4,1,1
+36646,XPPopup layout doesnt respect view flags,2,2,1
+2484,Double click on a bookmark folder does not open it,0,2,2
+2025,Back/Forward buttons show up as dots,0,2,2
+50752,Ignored directory showing up as incoming change (1GF7LWS),3,2,2
+22697,IME Event handlers need to have status codes updated,2,2,2
+47720,Image alignment problems,2,2,2
+20041,Assigning a value to marginwidth automatically sets marginheight to zero.,2,2,2
+1922,Clicking on links or buttons sometimes does nothing,0,2,2
+54031,DNS: pre-resolving hostnames found on a page,4,2,1
+28292,[BLEND MAC]Test 10 does not display; blend code not implemented on macOS,2,2,2
+45841,Link color becomes unvisited after switching theme,2,2,0
+25873,{css-moz} -moz-rounded-corners and uneven border-styles,2,2,1
+40276,hyperlinks are not clickable and menus not reachable on dual monitor,2,2,2
+40121,browser crash viewing some png images,2,2,0
+38461,Loading with clean profile sets screenX and screenY for main window,2,2,2
+11464,Triggering jar files crashes intermittantly,1,0,0
+53651,textfields with disabled=true shows incorrect cursor when hovering cursor in start or end of textfield,4,2,1
+21312,placement of forms widgets messes up when window scrolled,2,2,2
+7338,watchdog thread as an alternative to operation count,0,1,1
+8212,Crash in  [@ js_UnboxDouble(long) ],0,0,0
+29881,no display from URL -- http://www.legendmicro.com/,2,2,1
+22479,[4.xP] Right-aligned HR centered,2,2,1
+15483,[FIX]Annoying assertion in SetInitialChildList,1,1,1
+22978,frames act really strange in m7,2,2,0
+27831,Complete ambitious (abbreviated) URLs,2,2,0
+47774,Stack overflow when unloading a page with a huge HTML table [@ PresShell::FreeFrame],2,2,2
+7737,Earth Day Recycling for Fun Kids - Assertion failure: RecycleFuncNameKids; at ../jsparse.cpp:444,0,0,0
+9737,Mixed style lists arent counted properly,1,1,1
+14322,Switching profile in turbo mode didnt update certificate,1,2,2
+7796,Always poison deallocated objects in the frame arena,0,0,0
+12035,Quotes nesting doesnt work [GC],1,2,1
+51278,[PP]Linux only: Radio and Check buttons not functioning correctly,3,2,2
+37271,mousewheel up in option box falls through top back to bottom,2,2,2
+51681,Right-clicking image inside an anchor should focus anchor,3,2,2
+29944,[TASK] document what bad HTML residual style fixes so QA can recruit folks to build test cases,2,2,1
+37075,Sounds will fail when resources are packaged into jars,2,2,1
+46845,[CertViewer] some areas should be selectable,2,1,1
+46610,Setting expire 0 days disables session history,2,2,2
+47733,Can not see country list,2,2,1
+35584,nsResProtocolHandler should use nsDirectoryService,2,2,1
+681,firstChild of HTMLHeadElement refers back to HTMLHeadElement,0,2,1
+21379,cant set cookie,2,2,1
+53245,address bar autocomplete does not fill in protocol to url,4,1,1
+26454,Tables off?,2,1,1
+16913,Fix for bug 413268 keeps a DOM window alive until shutdown,1,1,1
+44477,In html source; scrolling with wheel mouse does nothing.,2,2,2
+1011,Spellchecker needs interface to specify language.,0,2,1
+26298,[DOGFOOD] Injecting JS code using setAttribute and getElementsByTagName,2,2,2
+31484,Viewer always uses gfx scrollbars,2,2,2
+53148,Sync on ignored has mislead message (1GEPK67),4,2,4
+42384,Warning in nsCachedChromeChannel::GetNotificationCallbacks,2,2,2
+15633,UMR caused by nsHTMLFragmentContentSink::IsEnabled,1,2,1
+10793,viewer core dumps immediately,1,2,0
+1007,[PP]Smoke Test Stopper - Mac build - crashes on start up,0,2,0
+1700,font size 9px rounded down to 8px {font} {ll},0,2,3
+2723,Entity replacement text containing % symbol followed by whitespace causes a crash,0,0,0
+18361,element.setAttribute trim leading and trailing whitespaces when the attribute is of type long or unsigned long and the value an valid integer,1,2,0
+36024,<?xml-stylesheet?> PI not recognized,2,2,2
+35231,Intl URLs have connection problems with their sites.,2,2,2
+40576,incorrect server requests for cached gzip encoded document,2,2,2
+32656,ROWSPAN = 0 tretaed differently than NS 4.x,2,2,2
+24993,[perf] ProgIDToCLSID hash key too small,2,2,1
+32118,Context menu items that have submenus have smaller vertical size then other menu items.,2,2,2
+27200,Scrolling down with Down-arrow crashes,2,2,0
+21053,floating text overlaps image,2,2,2
+14359,Assertion because of index out of range,1,2,0
+49805,[FIX]ASSERTION: SetMayHaveFrame failed? involving XBL,2,0,0
+51988,stop excluding the 4.x plugin directory,3,0,1
+42938,nsRegistryFactory is not threadsafe,2,2,1
+21319,Problems with Graphical Links,2,2,2
+11405,Rename mozregistry.dat to profile.dat,1,2,2
+26936,[RFE] Add option for only one entry on the taskbar,2,2,2
+29242,first-letter selector in table cells doesnt work,2,2,1
+13561,SSL timeout without reconnect and reauthenticate,1,2,2
+39704,cannot twice ask for PickleSecurityStatus,2,2,1
+14469,HTML list; <dl>; loses formatting when cut and pasted to text or File / Save Page As... text.,1,2,2
+16331,nsHTMLLinkElement fires events at unsafe times,1,2,1
+32349,side by side code view in bonsai is not right,2,2,1
+38078,Remove view manager 1 from the build,2,2,2
+41893,Cursor disappears in text areas,2,2,1
+49626,Add support for #pragma once to headers,2,2,1
+42308,RFE: Make dump() output to Javascript console as well as mozilla console,2,2,1
+49604,Unknown extension function shouldnt stop processing unless called,2,1,1
+5340,XML Parsing Error: undefined entity on files with Mime-Type: application/xhtml+xml; including about:; or text/xml,0,1,1
+41909,Combo box list not fully deleted when the combo is closed,2,2,1
+24250,No FinalizeInstall() call still completes installation of install script,2,2,2
+46976,Error message not displayed in Color Picker dialog.,2,2,2
+28668,[DOGFOOD]regression msg content is doubled when viewing a message sent with Seamonkey,2,2,2
+17203,IsSolidBorderEdge in nsCSSRendering.cpp ignores foreground borders,1,2,0
+42775,XPConnect need to clean up its TLS before it is unloaded from memory,2,2,0
+31779,Illegal Cast Up char* in nsString- RDF file system,2,2,0
+46108,Browser hangs after timeout on download,2,2,2
+38630,improperly parented modal dialog in nsWalletService,2,2,2
+15470,Attempting to open page in Composer results in crash (@nsComboboxControlFrame::Reflow),1,0,0
+25829,Page doesnt lay out; except the bottom half,2,2,2
+23295,crash from Day Planner button,2,2,0
+9828,Chunked decoding can get stuck in STRIP_CRLF state,1,1,1
+18004,Stop firing load and loadend events and dont use NETWORK_LOADING state,1,1,1
+40190,excite.com tables have blank cells,2,2,1
+18576,Creating a Peer Connection object and checking the ice gathering state - should be new; but instead is undefined,1,1,1
+648,Unix: FONT FACE is not working for non-Latin-1 pages,0,0,2
+556,crash on form submission,0,2,2
+42624,[access]focus should not go to hidden elements in a deck,2,2,2
+4606,clear misses floats that dont overlap the box (margins),0,2,1
+4846,Support global reference to a form via its name attribute [1.0 BRANCH ONLY],0,2,0
+26644,unable to load jpeg in apprunner,2,2,2
+48575,Image not shown,2,3,2
+20024,[PP]1/26: Bigger font displayed for links in top banner and page footer,2,2,2
+25613,Leading spaces not deleted from Location: control,2,2,2
+52457,Form elements may cause transparent PNG to disappear,3,2,2
+6507,Add unit test for nsIAuthPrompt,0,0,0
+2007,document.write meta charset in frame cause Mozilla to,0,2,2
+27714,Ender widgets in the background still have blinking carets,2,2,2
+40065,View menu cleanup,2,2,2
+34356,Click on link doesnt do anything,2,2,2
+841,Displays page in complicated frameset (systembureau.com) completely wrong,0,2,2
+33670,[feature] chrome registration,2,0,0
+30872,arrow keys -> and <- do not work in viewer,2,1,1
+37539,Order of toolbars can be rearranged in an unintended way,2,2,2
+5290,Events should go to capturing views even when clip rect is empty [Patch included],0,0,1
+41207,Command q doesnt quit the browser,2,2,2
+50532,Page keeps reloading when nagivating back / forward,2,2,2
+51591,selecting H4 element and choosing Normal from pulldown causes *next* H4 element to change to normal,3,2,2
+36466,Browser crash when trying to edit manual proxy preference,2,2,0
+32309,Page never finishes loading,2,2,2
+24257,eliminate NS_COMFALSE,2,0,0
+40819,View menu in composer broken,2,2,2
+51776,[static ctor]Static constructors in nsEmptyEnumerator.cpp,3,1,3
+34497,No support of table-layout:fixed,2,2,1
+24912,Scrolling does not work on some pages,2,2,2
+45035,Mozilla cannot access this secure site.,2,2,2
+5640,[FIXr]Mutation events not fired for the first node inserted into an XML document,0,2,1
+33779,[FIX]Absolutely positioned FORM element crashes app,2,0,0
+48863,Certificate viewer may hang on folding validity,2,2,2
+18999,Desktop should call IEditorActionBarContributor.editorChanged(null) (1GAUI2M),2,1,1
+14326,Implement getComputedStyle() for overflow property,1,0,0
+46425,Prevent submitting twice; opening two PSM windows; etc by double clicking.,2,2,2
+12006,first-letter into inline frame lost on restyle (e.g.; from :hover),1,2,2
+12397,JS stack overflow in JS_ReportOutOfmemory,1,1,1
+7498,TM: subtraction is broken,0,0,0
+7245,Crash [@ nsSVGPathSeg::SetCurrentList] with pathSegList; appendItem and replaceItem,0,0,0
+49297,[BC] border-collapse problems at cellmap holes,2,1,1
+38624,addition of tree element in RDF not reflected in UI,2,2,2
+27511,Page of mozilla-bashing article not rendered correctly,2,2,2
+32230,Cache doesnt work for CSS and JS files,2,2,2
+16998,Content can exploit FireBug through console.log,1,1,1
+53809,RFE:Create a meaningful navigator.plugins.version,4,2,1
+19646,RSS not accessible,2,1,1
+47665,white space appearing between images in unpadded table,2,2,0
+40652,Performance on history window when dragging is poor,2,2,1
+25015,Mozilla will not build with GCC 2.95.1,2,2,2
+5284,Undo + Redo of Table crashes [@ nsHTMLEditor::CheckSelectionStateForAnonymousButtons],0,1,0
+7070,docshell navigation tests intermittently failing with NS_ERROR_XPC_BAD_OP_ON_WN_PROTO,0,2,2
+6469,Crash [@ nsTextInputListener::EditAction] when spell checking a word in a text control that got removed,0,0,0
+50889,folders should be referencable by a path string,3,0,0
+6634,Firefox stores corrupted version of cached JavaScript file (merges two files together),0,1,1
+3516,[CSS+Table] Crash entering www.zmspgda.republika.pl,0,0,0
+39501,basedocshell_s.lib is linked into two places,2,2,1
+44189,Security Manager is broken: dialog fails to render,2,2,2
+37924,Paragraph optional end tag is not optional in strict and transitional DTDs,2,2,1
+37889,If directory already exists; File.dirCreate returns -230,2,2,2
+5739,[FIX]Add debug-only mCompiled members to XBL classes that care,0,0,0
+14088,formpost temp files not cleaned up when browser exits,1,2,1
+25998,Setting a form.button.value doesnt change the buttons value on-screen,2,2,1
+22955,Frame menu links in new window open in old window,2,2,2
+54058,nsSOAPPropertyBagMutator is fairly useless,4,2,1
+39448,Tab-index not honored,2,2,1
+12830,nsLocalFileMac::MyLaunchAppWithDoc is broken,1,1,1
+48431,Add way to preview printing of selection,2,2,2
+14339,Formatted document lacks linefeeds,1,2,1
+50567,CSSKeyframeRule created by CSSKeyframesRule.insertRule has invalid value for parentRule/parentStyleSheet and doesnt allow changes to its CSSStyleDeclaration attrib,2,2,2
+20280,warnings on toolbar button clicks & bookmarks menu,2,2,1
+6384,Find why old XXXMLM assert in JS_InitClass fails,0,0,0
+20272,Charset Handling-Need a pref for a default character set,2,0,1
+46783,gif buster fails,2,2,1
+26968,M10 does not work with proxies that require authentication,2,2,1
+50945,create a new node type for bookmarks,3,2,1
+16024,Dont link to libdl on BeOS,1,1,1
+49732,[FIXr]Closing head context in HTML sink should FlushText(),2,1,1
+4245,[FIXr]Adding XBL binding with method to HTML BODY element breaks DOM,0,2,2
+33973,problem displaying image,2,2,1
+14146,Saving always adds garbage extension to end of filename,1,2,2
+25944,OnDataAvailable should pass a non-blocking input stream,2,1,1
+47211,Mac: Full-page plugins dont get adjustCursorEvent events,2,2,2
+29063,[4.xP] SPAN element inside A element,2,2,1
+39138,External JS-files executed last,2,2,1
+3624,Active Accessibility: support for XUL buttons,0,1,0
+7410,window blur event is not fired when opening a new tab,0,1,1
+45708,TestProtocol needs i18n workaround,2,1,1
+48351,crash when publish or save this page [@ nsHTMLReflowState::DetermineFrameType],2,3,2
+45754,[meta] DNS bugs,2,0,0
+48152,Opening sidebar causes a layout problem on existing page,2,2,2
+8014,nsIWidget::MakeFullScreen() fails when called before Show(),0,2,1
+22880,Talkback crash stack dump,2,0,0
+42054,bottom margin dropped on floating IMG elements in tables [FLOAT],2,2,1
+2736,image overrides table boundaries,0,2,1
+41924,HTML tag in XUL does not wrap if initially set to display:none,2,2,2
+43288,Clicking link with anchor doesnt scroll to it,2,2,2
+37170,Crash in nsXULElement::GetContainingNameSpace (infinite recursion blows up stack),2,2,0
+51493,double click selection doesnt work under heavy load,3,2,2
+25598,Popup menus dont work in dialogs.,2,2,1
+32517,[HAVE FIX]The form control buttons for e-mail are running together,2,2,1
+25134,apprunner scrollbars disappear after loading XUL document,2,2,2
+44911,Composer fails to append .html suffix to HTML file when saving,2,2,2
+50369,trace-refcnt should use 64-bit counters: root cause follow-up to bug 482236,2,0,1
+12424,Cut collapses whitespace,1,2,1
+14796,Images at top of page on infosync are misaligned,1,2,2
+1717,{font} Mozilla handles relative FONT sizes differently from Navigator,0,2,3
+12491,Image map doesnt work if image is enclosed with <a href=>,1,2,2
+49949,[FIX]Not updating UI after selection attribute removed from option inside SELECT element,2,2,1
+52432,child windows and do not inherit zoom from parents on the same site,3,2,2
+6420,nsCryptoRunnable::Run() may operate on dead JSContext,0,2,1
+46498,fall back on nsILoadGroup when nsIChannel has no nsIPrompt,2,2,1
+3371,nsLineLayout should use nsAutoVoidArray instead of nsVoidArray,0,1,1
+3787,M098 N621 Trunk crash [@ PlaceFrameView]  [@ .__ptr_glue - nsBlockFrame::PostPlaceLine],0,0,0
+666,Crash: Column frames not placed in cell map on incremental reflow,0,2,2
+34607,FLASH PLAYER - BETA 2,2,2,2
+53246,bookmarks sidebar creates empty contextmenu when no items are selected,4,3,3
+35482,closing the only browser window results in crash w/new profile,2,2,0
+35946,No text links work; only images,2,2,2
+31367,mozilla -installer not behaving as expected,2,2,2
+20359,frame targets not working right,2,2,1
+44355,XLIB: Popup menus appear above the mouse pointer.,2,2,2
+12703,Modifier Key + Arrow key {left|right} = {back|forward},1,0,0
+45551,IFRAME link doesnt create new window; opens within the IFRAME,2,2,2
+45436,Executing javascript: script as an href freezes the app,2,2,1
+40737,Background image cut off by scrollbar,2,2,2
+12898,History sidebar/window is extremely slow,1,2,2
+4432,data: protocol doesnt unescape its uri string,0,2,2
+19383,[Tasks] The Tasks View does not add new tasks properly (1GENB0K),2,2,2
+50205,scrolling complex/big documents is slow and resource hungry,2,2,2
+32857,typelib loading improvements for time and space performance,2,2,2
+12033,use cache manager for downloaded jar files,1,2,1
+49779,[FIX]Assertion after EnableGlobalHistory,2,3,3
+49816,Implement MathML <mtable> with display:inline-table (mtable has incorrect baseline),2,2,1
+48007,on TestGtkEmbed text is misssing from the buttons in the HTTPauth dialog,2,2,1
+48872,Unblocking images is immediate for background images; but not for <img> images,2,3,1
+2013,(win32) menulist in a <window align=vertical> has 0 height.,0,3,2
+20730,background attribute of table element not supported; but NOVA does,2,1,1
+921,Turn on support of external entitity replacement,0,2,1
+2366,Crash frequently when setting focus on windows....,0,0,0
+19144,New project location behavior strange (1GDH3GQ),2,2,2
+44249,bad ftp urls fail silently,2,2,1
+10666,Table layout errors,1,2,1
+30404,double clicking on menu item temporarily halts click processing,2,2,2
+49389,remove null checks from GetStyleData callers,2,4,1
+17017,Trying to access window.closed (after using window.open) throws Illegal operation on WrappedNative prototype object,1,3,1
+54152,Permission denied to get property XULElement.ownerDocument,4,2,1
+40551,Pick App isnt implemented,2,2,1
+13936,Need a way to determine third-party sites.,1,2,1
+8735,new bug,0,0,0
+51998,cvs remove nsIEditor.h,3,0,0
+1878,Need to solve problem of JS roots for event handler funcs [@ js_LockScope1] [@ js_GetSlotWhileLocked],0,2,0
+21811,Color of background not correct when scrolling,2,2,2
+32653,2nd visit to mixed site shows locked lock,2,2,1
+14744,Leaking mChildren in nsVoidArray,1,2,1
+30230,[ssl] Password prefs not set to default,2,2,2
+53519,Newlines and spaces in html src get passed through to output,4,2,1
+50459,Assembler allocates two code chunks for each assembly pass even if the code has no side exits,2,2,1
+44660,no margin around floated images and spans (and probably other inlines),2,2,2
+38690,[FIX]HTMLElement dtor should null out parent pointer in children,2,2,0
+35251,AutoTranslate:  Need Error message for hard drive translations,2,2,2
+19819,Incorrect handling of S/MIME keys with multiple identities (need UI for per-identity cert settings),2,2,2
+44902,Line wrapping carries leaves leading spaces in text boxes,2,2,2
+45581,Missing buttons for Image properties dialog box,2,2,2
+1438,[BLOCKER] [TESTCASE] setting the value of a hidden [or any input] in a form from a function [which is stored in js library] is not working,0,2,2
+11091,Apprunner/layout: vertical spacing improvements,1,2,1
+18649,TSan: Thread data race in set_mbuf_mb_args() vs. set_mbuf_mb_args(),1,0,1
+42350,select popup width inheritance problems,2,2,2
+46524,Arguments object has incorrect [[Prototype]] property,2,0,1
+24887,[PP] cant edit new blank window,2,2,2
+45802,Scrollbars are completely missing,2,2,2
+5088,[FIXr]Not reflowing when inside position:fixed element,0,1,1
+24740,UMR from CSSParserImpl::ParseDeclarationBlock(),2,2,0
+37401,Fails test cases in Robins HTML 4.0 Conformance Test,2,2,2
+44827,Cant scroll by Wheel/PageUp/PageDown in HTML source window,2,2,0
+3872,[FIX] move image icon gifs to /res dir so embeddors can pick them up; and update install packager files,0,2,2
+53458,Rendering a strong tag adds vertical space to that line of text.,4,2,2
+41427,fixed positioning and top:auto [FIX POS],2,2,1
+30969,Checkbox and popup dont redraw solid when losing focus,2,2,2
+25674,Too many password entrys cause problems,2,2,1
+5047,[FIX]Mozilla no longer can play mp3 streams from shoutcast.com (missing *.pls extension),0,1,2
+11412,Related Links needs to be exposed (again) in UI,1,2,1
+25515,referrer should be correctly set in HTTP request headers,2,1,1
+44843,Layout completely messed up for form inside nested tables,2,2,2
+25106,pressing [TAB] in password dialog --> infinite assertions,2,2,2
+42225,Crash changing default homepage,2,2,0
+4671,scrollbars should be reflow roots,0,2,1
+52355,Page totaly messed up when scrolling (IFRAME?),3,2,2
+26327,Cleanup build warnings,2,2,1
+51208,We need contact icons from gmail to integrate on thunderbird,3,3,1
+7098,Applets crash the browser [@ ClaimTitle][@ JS_SetPrototype],0,2,0
+25713,editors use of GetChildNodes needs auditing,2,3,3
+26371,Forms are not enabled for Double byte characters,2,2,2
+11402,[BLOCKER] Windows editor interpres the . key as a forward delete,1,2,2
+13167,Dont export intermediate libraries,1,1,1
+44498,when contents change in frames; scrollbars do not update appropriately: some scrollbars are missing,2,2,2
+3439,windowless plugins dont draw in the correct place when scrolled,0,2,2
+16234,[reflow branch] Frame(wbr)(0) frame didnt implement GetPrefWidth/GetMinWidth,1,2,0
+38717,[WPAPI] Implement Navigator 4.x windowless plug-in API,2,2,2
+118,Yahoo! Mail is slow,0,3,3
+17356,Crash [@ nsTypedSelection::CopyRangeToAnchorFocus] with triple-clicking changing display style on body,1,0,0
+25097,Review GetGlobalObject calls,2,2,2
+21232,Keyboard entries: Alt -0128; -0134; -0153; -0159 not displayed,2,2,2
+6013,E4X: Problems with entities,0,0,0
+9753,Editor mode and JS console need to move out of debug-only code,1,2,1
+23273,bugzilla query fails,2,2,0
+21305,Segfault (not sure why),2,0,1
+41557,[RFE] xpi needs uninstall feature,2,2,2
+26035,Caret doesnt always shift right on <space>,2,2,2
+26803,Printing Lock-out (with duplex printing),2,2,1
+45299,lazy activation of objects is too lazy,2,2,2
+47838,window.status overwrites URL of link you are hovering over,2,2,2
+49532,Select form element gets doubled while scrolling,2,2,2
+18955,Usability: Script outline has inconsistent selection (1GF5YSQ),2,2,2
+46947,INUSE_ATTRIBUTE_ERR expected when using setNamedItem(),2,3,2
+44014,Unable to access some secured sites.,2,2,0
+24877,Table rendering : cell height seems to have no effect for emty cells,2,2,1
+32235,MLK while consuming newline tokens,2,2,0
+4271,Reloading login page let user into Siebel app without logging i,0,2,1
+12563,Typo in JS component crashes Mozilla,1,0,0
+3430,TechCU online bank login layout problems and potential crash,0,2,0
+14021,QNX 6.0 Build busted in embedding trying to make some print call,1,2,0
+42687,invalid HTML (a misplaced closing </UL>) causes the style of a link to overflow.,2,2,2
+28443,names anchors do not work correctly,2,2,2
+27989,CGI form would not work,2,2,2
+51458,Embedding helper applications within Mozilla window,3,2,2
+43551,frameset causes wrong last page visited to be loaded in new browser,2,2,2
+27111,[Find][Enhancement] Add find and replace to HTML editor,2,2,1
+40608,Cookie not sent(?) when first loading home page,2,2,2
+52708,document pseudo-element code a little better,3,2,1
+43200,CSS1 resets size definitions when mouse passes beyond them,2,2,1
+26845,[CRASHER] pressing [ESC] in editor crashes all open windows,2,2,2
+51045,Firefox Bookmark toolbar items overwritten by IE6 items on migration,3,2,2
+35851,Attempts to copy text result in drag behavior,2,2,2
+8419,mozilla-central (4.2a1pre) topcrash [@ nsTextFragment::CharAt(int)] with crash address 0x0 or at [@ PropertyProvider::GetHyphenationBreaks ],0,2,0
+34227,unable to drag urls from one window to another,2,2,1
+24126,[history] page titles not saved to global history,2,2,2
+12900,Eavesdropping on mail messages using innerHTML (wiretap),1,2,2
+1227,sched: XPIDL-ify nsITransferable; nsIDragService; nsIDragSession,0,0,0
+19258,Drag and Drop files does not check read-only (1GE8MAV),2,2,2
+15643,nsLocalFile::MoveTo is very slow to move directories [Cause of disk trashing (on NT) when clearing cache?],1,0,2
+14231,crash in nsString::SetLength; looks like infinite recursion,1,2,0
+6012,Object.toString() fails silently on XML objects (E4X),0,0,0
+46685,Pages show twice like starting new (double reload of pages),2,2,2
+39201,dll unloading is disabled,2,2,1
+23158,SelectAll followed by a keypress doesnt delete selection,2,2,2
+47504,Lockup/delay loading page the first time,2,2,2
+44159,Border of HTML element not being limited to height of element.,2,2,2
+288,it is very slow when I surf the internet,0,2,2
+14234,cannot use consecutive space characters in applet parameters,1,2,1
+41845,[RFE]Used stylesheet should be stored in history[AltSS],2,2,1
+26897,Webcam32 JavaScript Image Pull does not work,2,2,2
+47875,javascript strict warnings certpicker.js,2,2,0
+6000,cross-site scripting by frames[0].location.eval(code; frames[0]),0,1,1
+27187,[Dogfood] [PP]Combobox in modal dialog cannot select anything,2,2,0
+22935,Popup menus in sidebar do not anchor properly,2,2,2
+25908,Clicked Back button; crashed in FrameManager,2,2,0
+51444,Kbd Focus should shift to main window after CR/NL,3,2,2
+21643,Execute: Calling this method crashes,2,2,0
+46968,pasting plaintext into text area loses significant whitespace,2,2,2
+45310,Mac PPBrowser display blank forms select,2,2,2
+35527,Clicking on link with unknown protocol causes crash,2,2,2
+40274,Embedded numbered lists run out of numbers,2,2,1
+29301,Wild reflow in first <synopsis> when window resized,2,2,2
+1498,[PDT] [DEMO] Incorrect behavior for onclick GIF,0,2,2
+30491,M13 - Win32: Does not reminder that Mozilla was maximized,2,2,2
+14354,[FIX]Background set on body element does not work in XML if html background not set,1,2,1
+26432,[HELP WANTED] XPMenus and Popups dont work with background images,2,1,1
+3513,[LNX]Form controls should not use sans-serif fonts,0,1,1
+11256,[PP]GFX changes required to assume 96 dpi default scaling,1,1,1
+26727,[pp] Character Set menu doesnt work,2,2,1
+16362,Table caption stretches to full window width when margin:auto,1,1,2
+40166,http://localhost/xxx gets translated to http://www.localhost.com/,2,2,2
+12787,Avoid browser crash when helper app crashes,1,0,0
+26818,The &nbsp (no-break )entity is being rendered as cross symbol,2,2,2
+26445,Installer doesnt detect files already downloaded on disk,2,0,0
+38547,This page scrolls slowly,2,2,1
+10552,Body colour not inherited in table,1,2,1
+41983,<td>;<th> and <col> do not honour mm widths,2,1,1
+2149,Crash when font X_HEIGHT property is garbage (mozilla-fonts font package),0,2,0
+21810,assert in HTMLStyleSheetImpl::EnsureSingleAttributes,2,2,1
+1576,[FEATURE] Skinnable Sidebar,0,2,1
+16793,Google Maps regression when running Operator 0.9b add-on,1,2,0
+40919,<meta http-equiv=refresh content=.5; url=foo.html> resolves to 5; not foo.html,2,2,1
+32719,URL bar doesnt scroll when URL text click-dragged first time,2,2,2
+46587,IMG onload handler doesnt fire when new image is swapped in,2,2,0
+34481,xpcom/io/nsLocalFileUnix.cpp does not build under Tru64 Unix,2,1,1
+25040,Insert an image into compose window = debug assertion,2,2,0
+28860,History window displaying chrome links,2,2,1
+41545,clicking on HTML source tab freezes,2,2,2
+51015,Using new back/forward navigation; the title of current location fails to change,3,1,1
+11720,url gfx text wiget looses mouse up events,1,2,1
+33744,form element textarea type == Text rather than text,2,2,2
+15151,{ib}Dynamically changing the display style attribute on a div when it contains other div or p elements doesnt work.,1,2,2
+13513,{ib} Most links on this site crash Mozilla,1,0,0
+52838,WARNING: Expected surface of type Quartz; got something else,3,1,0
+6221,Setting this.name in the prototype of an inherited object no longer works.,0,1,1
+3512,nsIFile::Remove() will fail to delete an open file on win32,0,2,2
+128,Refactor how the inspector menus (breadcrumbs and infobar) work (dont clone),0,2,1
+22903,<font> element handling,2,2,2
+30192,Bizarre scrolling of frames in XML document,2,2,2
+16108,Attributes to var arguments = window.arguments[0]; give void an evaluation [Cant create new sub folder],1,2,2
+44825,<th> doesnt center a table in Quirks mode,2,2,1
+42529,Characters placed in field before onkeypress called,2,2,2
+4335,[FIX]crash quitting print dialog with cancel,0,3,2
+14619,SMTP over SSL fails when certificate based authentication is required,1,2,2
+51824,add ``trap to XPCOM_DEBUG_BREAK flags,3,2,1
+21953,MLK: Lots of JS stuff from prefs,2,2,0
+27855,The browser freezes when I try to view this page.,2,2,2
+53326,Ability to have certain Bookmarks to be exported,4,0,1
+34097,RFE: file:// and ftp:// - save tree expansion state after viewing file,2,2,2
+7042,ASSERTION: aDocument must be current doc of aParent with XBL; <xul:listboxbody>,0,0,0
+42115,Which one is the parent of GtkMozArea in gtk+ class hierachy? GtkWidget or GtkWindow?,2,2,2
+53058,deCOM nsIFrame::GetOffsetFromView,3,2,2
+27790,[dogfood]Memory leaks leading to crash with dsMemFullErr.,2,2,1
+608,String catenation in JavaScript has non-linear memory/time usage,0,2,1
+40522,type text/html unrecognized by Mozilla if you load frameset HTML doc with missing children,2,2,2
+26633,Scrollbars in widgets inconsistently inherit from host UI,2,2,2
+28747,Dropdown selection box scrolls screen and leaves remnants,2,2,2
+21432,typing optimization needs to be implemented,2,2,2
+30549,Unneccessary Frame Scrollbars,2,2,1
+44901,Creating INPUT Fields dynamically are not seen/visible when posted to the server,2,2,1
+3272,Plugins stop working after first clicking on reload once,0,2,2
+6449,Large spellchecked text fields are slower than a nauseous sloth,0,2,1
+26488,relative URL resolved without considering redirect,2,2,1
+352,Unable to forward messages,0,2,1
+21765,Rendering bug in build 1999050423,2,2,2
+24657,attribute selector parsing regression,2,2,2
+52640,Scrollbar in multiple select / dropdown box when not needed,3,3,3
+14809,Mozilla doesnt submit the form on clicking the ENTER key when <input type=image> is used,1,1,1
+52784,Jump to here preference isnt followed by non-native scrollbars,3,0,1
+15583,[FIX]Server sent encoding headers ignored since Mozilla 1.5,1,1,1
+17243,downloading fonts periodically fails under Mac OS X,1,1,0
+25556,[TESTCASE] nsCSSFrameConstructor::ProcessRestyledFrames crasher,2,0,0
+52745,Implement an apply that can be composed with new,3,2,1
+5670,[FIX]Possible to close user-opened windows by setting window.name,0,2,2
+14308,SSL POP Mail retrieval appears to have stopped working in 0.9.8,1,2,0
+29323,popup menus incorrectly positioned in frameset documents...,2,2,1
+40527,Symbols -- hide whole HTML page except some lists.,2,2,2
+12427,framesets inside of a iframe will not print.,1,2,2
+18928,Javascript failure on Linux (1GENJAF),2,2,2
+15371,Mozilla fails to read from sockets to this site,1,2,2
+10572,Unnecessary redraws,1,2,1
+2487,browser hangs when loading reuters.com,0,2,2
+6605,More ways to hit the assertion in js_PeekTokenSameLine from CheckGetterOrSetter,0,0,0
+11756,HTMLBodyElement.dir returns nothing,1,2,2
+16140,WARNING: NS_ENSURE_TRUE(mSuspendCount > 0) failed with <img src=javascript:5>,1,0,0
+9209,shift-tab is broken inside search-bar,1,3,1
+42749,The color of the text doesnt change in the composer.,2,2,2
+49064,cant choose the certificate I want to use for a certain page (client side),2,2,2
+6105,Setting a type on instance data makes rebuild() throw exception,0,4,3
+20636,[BLOCK] localstore.rdf that gets generated is bad,2,0,0
+13394,Cant join selected cells in same column in table,1,3,2
+1966,{dogfood}SSL on Mac is busted,0,2,1
+8283,canvas demos opened in tab in background dont get resized,0,3,1
+50614,XPC shell test failures due to bug 755724,2,0,1
+9600,feed content preview not linkified with Atom feeds,1,3,3
+38763,Links do not work,2,2,1
+2770,relatively positioned elements respond incorrectly to overflowing children,0,1,1
+51131,Remove Drag.isResizing,3,2,1
+36956,Mozilla dumps core when Reply link selected,2,2,2
+48457,[RFE]whitelist for image blocking exceptions,2,2,1
+21429,[Dogfood] basic table editing needs to be implemented (insert rows/columns),2,2,2
+10829,Drop-down lists crash the browser (Mac),1,2,2
+8502,Race condition when deleting cache directory,0,2,0
+41542,mozilla just crawls to bottom of screen instead of shaking,2,2,2
+9194,New window uses small icons even though original window has large icons,1,2,2
+26679,Native class use at startup fails,2,0,0
+6530,[FIX]crash when restarting for update [@ nsCSSStyleSheet::SetComplete],0,0,0
+10286,Thin borderline case fails; top border is 2x-3x,1,2,2
+25652,[CRASH]Attempting to open the test page bft_image_trans.html causes a crash,2,2,2
+45784,focus problems with gtk based plugins,2,2,2
+16786,make single-pixel optimization release surface memory,1,0,1
+26417,comment parsing bug,2,2,2
+26663,repeating content for large pages,2,2,2
+2249,Crashes at [@nsCacheManager::NoteDormant()],0,0,0
+50409,[HTML5] Self-closing tags show as error in view-source (even with new parser),2,0,2
+15121,[CRASH] CSSRule.parentRule crashes on a style rule inserted in a media rule,1,2,0
+26205,Clean-up build warnings,2,2,2
+28597,the gtkmozilla doesnt work well,2,2,2
+23699,[DOGFOOD] Using the Tab key kills the caret and selection,2,2,2
+52558,add buildid.txt with current build id to zip distribution,3,2,2
+23878,sched - necko needs timer refresh/timer transport,2,2,1
+46305,{inc}Clear not working on first reflow,2,2,1
+2419,Crash in js_NewContext() when loading the above URL,0,2,0
+33091,Cursor changes ignore context menus when right mouse button held,2,2,2
+35440,Bookmarks sliders disappear,2,2,2
+12645,Data corruption uploading binary data (such as GIFs),1,2,1
+42534,Browser is failing to open/launch the PSM window on Intel_Solaris platform,2,2,2
+3152,Reproducable crash when deleting text from textarea,0,2,2
+50550,Expose IA2 margin- object attributes,2,3,1
+1725,Crash when opening web location in a new window,0,2,0
+23407,[malloc] memory allocation problems - postscript,2,2,0
+11671,Tree does not handle dynamically added treeitems (rows) when scrollbar turned on,1,2,1
+11605,If not typed the last /; the page is not loaded (redirects not being followed),1,2,2
+43487,using CSS display: xxx on IFRAMES causes data loss,2,2,2
+44088,Scrollbar position hosed by insertion/removal above the visible area,2,2,1
+28113,Rounding Error?,2,2,2
+52776,[X11] DrawTile and canvas drawWindow dont get along,3,2,2
+40354,Floating elements; floating p in a fixed with div box: wrong width; overlapping div,2,2,1
+35391,XUL Textfield does not display value attribute after setAttribute(value;fuba),2,2,2
+22971,[BLOCK] submenus arent generated at all,2,2,2
+1777,window.open crashing.,0,2,2
+5270,Infinite loop hang loading ESPN.com [@nsWritingIterator<char>::write(char const*; unsigned)],0,2,2
+52981,Draw window and browser chrome simultaneously.,3,3,1
+3218,M091 crash at line breaker [@ nsJISx4501LineBreaker::Next],0,0,0
+52751,[FIX]Text inputs cause reentry into frame construction (WARNING: recurring into frame construction: mPresContext->mLayoutPhaseCount[eLayoutPhase_FrameC] == 0),3,1,2
+41006,[MLK] nsNetDiskCache::SetSizeEntry(void) leaks 8 bytes,2,2,1
+28219,Caret leaves itself in text fields when scrolling to the right,2,2,2
+42875,FORM menu can not be displayed on correct position after Sidebar is opened/closed,2,2,2
+26805,crash closing app via XPMenu using keystrokes,2,2,0
+48464,The HTML code is shown instead of rendered,2,2,2
+15784,e4x: XML 1.0 Well-formedness constraint: Unique Att Spec not implemented,1,2,2
+16297,Checking objects type using constructor is much slower than Firefox 2,1,0,2
+11291,GetFolder: Crash when using NetHelp as target folder,1,2,2
+43412,javascript generated table doesnt render correct,2,2,2
+29751,Support IPv6,2,0,1
+40386,unable to select in the URL location field,2,2,2
+25038,profile manager content must be enclosed in <html:div>,2,2,2
+41048,Socks proxy causes weird connection refused messages,2,2,2
+24966,Template recursion does not work with <box> tag,2,2,1
+28964,[dogfood]Composer: Format|Apply Style Sheet and it freezes,2,2,2
+39493,Mozilla using absolue-URI GET requests,2,2,2
+15212,Mis-sized file icon,1,2,2
+52256,setting element.style.MozOpacity in <body onload doesnt work,3,2,1
+36328,oflabel not localizable in file wizardManager.properties,2,1,1
+18387,calling navigator.apps.install with relative url sets app origin to undefined://,1,2,1
+24132,(ll) Left edge of word is clipped when wrapped to new line,2,1,1
+14935,Crash loading realgm site [@ nsBlockFrame::PullFrameFrom] [@ IsPercentageAwareChild],1,0,0
+2649,Crash while loading www.tomshardware.com - ASSERTION: didnt find view in nsHTMLContainerFrame.cpp,0,0,0
+47242,Trying to download expired/or not yet valid CRLs produces no message,2,2,1
+17016,Crash when installing a font when the browser is running,1,2,2
+15317,CSS list item images are loaded even if image loading is blocked or disabled,1,1,1
+29521,Crash clicking Cancel in Unknown File Type window,2,2,2
+44531,When trying to load this page; it flat out crashes,2,2,0
+17145,ASSERTION: stride mismatch,1,0,0
+8184,Extend asm_spill (on ARM) to accept arbitrary offsets.,0,2,1
+52363,Investigate splitting up nsContentList into multiple classes,3,2,1
+42244,alert() opens several windows,2,2,2
+8341,Assertion failure: LIR type error (start of writer pipeline): arg 1 of eqd is immi which has type int (expected double): 0 (../nanojit/LIR.cpp:3207),0,1,0
+20237,max-element-size needs more work,2,2,1
+37909,class nsDocLoaderImpl leaks when browsing about:blank and closing window,2,2,2
+31868,Focusing text widget (except on click) should select widget contents [also form <input> field],2,2,2
+26354,box html content doesnt display if not wrapped in html:div,2,2,1
+8614,Implement cookie jars for apps,0,0,1
+3879,GPF with access violation at the return of NeedFontPackage of nsIFontPackageHandler,0,2,2
+14914,Cookie/Image Manager dialog not being updated,1,2,1
+23951,[CRASH] app crashes when selecting view source on external file,2,2,2
+5007,Crash entering international smoketest top site (Flash corrupts stack),0,2,1
+18689,Enable Mochitests for gUM on B2G,1,1,1
+550,ss:Crash occurs in loading up the file with background info.,0,1,0
+11899,failure to migrate / app spins when ~/.netscape lives on a NFS partition,1,2,2
+50693,WebRTC DataChannel: Non-standard connectDataConnection call should be removed,2,0,3
+13607,Missing intermediate CA certs limit PSM UI capabilities.,1,2,1
+34389,Page does not load,2,2,1
+9766,parser bug; <center> tags in table not handled correctly,1,1,1
+52210,main content missing from http://www.e-boks.dk/,3,2,1
+43839,RFE: Pref to make link traversal select target,2,2,2
+12498,Layout of long text is slow on bugzilla bug lists,1,2,1
+31997,[INLINE][LIST]bullet lists cram together when no contents in an <li>,2,2,1
+43106,XBL needs simple defense against D.O.S./infinite recursion,2,2,1
+46424,The ability of embedding applications to disable the REFRESH meta tag; which can redirect the document to another page.,2,2,1
+3425,Key Escrow does not work in PSM 2,0,1,1
+3242,add bindings to help buttons for PSM,0,0,0
+33214,Textbox flickers when you click other things,2,2,2
+30981,Image Rollover Bug,2,2,2
+14611,hitting return in list item causes list problems; workaround is to refresh,1,2,2
+13544,Default plugin is bypassed when code attribute missing in applet tag,1,2,2
+22706,Hang in nsInlineFrameReflow when attempting to view long page in secs edgar database,2,2,0
+17427,Crash for Wav when seeking and onunload() pauses [@ nsHTMLMediaElement::Pause],1,0,0
+39938,Cant assign objects to variables,2,2,1
+3678,Trunk crash [@ nsTextFrame::TextStyle::TextStyle],0,0,0
+19758,Sort by No Grouping doesnt work,2,3,1
+47586,mork dll loaded on startup from nsGlobalHistory::AddPage,2,2,0
+7704,Crash and missing google-maps background at padmapper.com [@ js_Invoke][@ JS_CallTracer],0,1,0
+26498,text wrapping wrong,2,2,1
+31670,Crash on attempt to create new profile in non-default folder,2,2,0
+39423,Page is not displayed when includes a bad tag. Ex: <tag_>,2,2,2
+52773,[FIX][reflow branch] Options in selects can have padding and margin now; which can result in exponential growth,3,2,1
+29371,Drop down menus dysfunctional in Slashdot discussions,2,2,2
+39528,DIVs and SPANs cant be addressed by ID.,2,2,2
+20601,[PP]Draggable frame separator impossible to drag,2,2,2
+13040,Fizzilla cant connect via https,1,2,1
+6930,EV certs not recognized as EV with some cross-certification scenarios,0,2,2
+42432,Assert in Translate StringFunctionCall::Evaluate,2,0,0
+35512,CSS1: word-spacing: % values are ignored,2,2,2
+30738,Download manager (multiple downloads per window),2,2,2
+38123,[LIST]ordered list items after 32 are all 0,2,1,1
+25467,[BLOCKER] Cant connect context menu to browser content window,2,2,2
+43146,toolbar functions inactive (menu options for same also missing),2,2,0
+7627,canvas arc function produces different results when strokeText function is called afterward,0,1,1
+8029,middle delete removal patch causes one failing mochitest-browser-chrome test on Windows and intermittent leak test asserts,0,2,1
+45979,innerHTML misrepresents style attributes,2,2,1
+28166,when parsing html; eHTMLTag_entity GetText includes ; but not &,2,2,1
+39798,Scrolling is very slow,2,2,1
+32024,This bug form - hard to reproduce,2,2,2
+12288,leaks and slowdown when reloading about:blank,1,2,1
+44879,right mouse button popup menu does not track menu items if the RMB is held down,2,2,2
+12635,History page is displaying a blank window,1,2,1
+46880,Problems with session history on site with redirects and frameset,2,2,2
+24227,double-click selection includes extra space,2,2,1
+26558,File op: Crash when attempting to fileRename a nonexistant file,2,2,0
+40138,DOM StyleSheets collection inaccurate if retrieved during page load [AltSS],2,2,2
+46858,Add close button to CRL view,2,2,2
+35898,gopher urls in html content cause mozilla to crash in necko.dll,2,0,0
+6029,String = Array changes strings to have Arrays prototype,0,0,1
+18294,Nested setTimeout should clamp to 4ms instead of 10ms (HTML5 spec),1,1,1
+2134,XBL JSClasses must be ref-counted,0,2,0
+28563,span ending a element,2,2,2
+37873,Security Warning appears when submiting a form in a frame,2,2,2
+4819,Unable to performe choice from a selection table,0,1,1
+14731,Images with float: get duplicated on click,1,2,2
+35747,navquirks: need to ignore empty P in table cells,2,2,2
+26772,Caption of the Browser window is displaying chars that are non Latin-1 (win-1252) as dots,2,2,2
+10052,incremental change to visibility causes padding to appear,1,2,2
+14872,remove dead stringstream stuff,1,0,1
+34391,OnEndDocumentLoad handler does not fire for <editor> in a prefs panel the first time,2,2,1
+10159,When you log in it crashs every time!,1,2,2
+35567,empty CSS background-image:url() on BODY hides page completely,2,2,2
+955,Bringing up InsertLink dialog without clicking in the edit window crashes appcore.,0,2,0
+47184,namespace-uri() function returns namespace prefix instead of namespace URI,2,2,2
+24920,{sink} Ads at top sometimes appear twice,2,2,2
+32983,Win98 crashes soon after launching a profile,2,2,0
+14340,Mozilla should have a Full-screen mode (all platforms - Mac; Unix/Linux etc.),1,0,0
+28103,Basic Authentication fails for site (see test URL),2,2,2
+1599,need to be able to get command dispatcher from text control frame,0,2,1
+41833,New Embedding API crashes on Destroy,2,2,2
+49735,#NAME?,2,2,1
+31286,layout falls of edge of page; no horizontal scroll bar,2,2,2
+36292,Inheritance of focus/blur Handlers doesnt work,2,2,1
+3363,2 missing files from embed-win32.zip,0,2,1
+4656,[RR]{ib}crash in FrameManager::ReResolveStyleContext involving body { display: inline },0,2,0
+30461,version of html specified causes css to be positioned incorrectly,2,2,2
+46110,<PRE> does not close correctly if <P> is nested without closing </P>,2,2,2
+11743,DOM cant see <OL> type when it is set to decimal,1,2,1
+54016,Revisit fix for asynchronous window.close(),4,1,1
+44535,Dataloss when updating TEXTAREA value when display:none is set,2,2,2
+18920,Minor problems with sniff test (1GCSQTP),2,2,2
+26800,Compilation error in GtkMozillaContainer.cpp,2,2,0
+18889,[CVS Sync View] Synchronize view Ignore Whitespace should be persistent (1GKDHED),2,4,1
+53316,esc key does not cancel the bookmark this page action (starring popup),4,2,2
+39150,dropdown box frames remain after choice is made,2,2,1
+41989,[ps] Overline/Strikethrough prints too low,2,2,2
+44523,Image Links not selected properly.,2,2,1
+38027,Incorrect table layout at zdnet.com,2,2,2
+45315,Icons are aligned vertically instead of horizontally,2,2,0
+14540,[viewpoint] windowless plugin receives incorrect SetWindow calls,1,2,2
+48622,Pressing ENTER after adding styles to text does not move caret to next line,2,2,2
+49943,wrong offset in caret-moved event when text is inserted via javascript,2,2,2
+11013,[4.xP] indexing into form element to get children,1,2,2
+22961,DETECTCH.EXE (zhtwpsm) detects this page incorrectly,2,2,3
+719,crash deleting across text nodes,0,2,0
+19285,Too many pages in new project wizard (1GEAE6L),2,2,2
+22437,[converter]need VIQR converters,2,2,1
+33494,Proxy authentication keeps asking for username/password,2,2,1
+11863,[DOGFOOD][IME] CJK input disabled in location field,1,2,1
+15286,Image isnt fully displayed,1,1,1
+20905,Page not rendered at all,2,2,2
+13116,Plugin streams are not aware of byte range support,1,2,1
+2475,must fix plug-in finder code on Mac so it always looks in plug-ins directory,0,2,2
+27253,[dom]HTMLHtmlElement.version returns nothing,2,2,2
+44134,Tables obscured by their own margins after style change,2,2,1
+34524,lists are misaligned.,2,1,1
+13144,Composer New Page Settings panel does not fit in panel.,1,2,1
+10179,Pasting copied text adds tags to text,1,2,2
+26882,releasing of QId proxy object causes crash,2,0,0
+34441,Brumleve attack locks up Moz,2,2,2
+41827,Auto-focus to text field broken,2,2,2
+8095,[HTML5][Patch] dom/tests/mochitest/dom-level2-html/test_HTMLIsIndexElement01.html etc. fail,0,2,1
+38015,nsHTTPFinalListener::OnDataAvailable should check for the channel being cancelled and do nothing is such case,2,0,1
+40721,CSS and FRAMESET,2,2,2
+44353,OS/2 - Numpad doesnt work in entryfields,2,2,1
+47121,After clicking on an image; it thinks I have tried to highlight the page.,2,2,2
+3194,Crash going to windowsupdate.microsoft.com,0,0,0
+32330,Select styled text by keyboard shortcut --> munged selection,2,2,2
+16894,Artifacts in some APNG frames,1,1,1
+2570,When using https the http_referrer is not used correclty,0,2,2
+7314,TM: assertion failure in content/base/test/test_bug339494.xul,0,0,0
+46349,boxes move up/down after radio button is checked,2,2,2
+20343,Many rendering errors (plus other things),2,2,2
+48020,Cookie Manager: status column does not stay visible,2,2,1
+40095,Preview In Navigator is Preview In Navigator(B),2,2,2
+1812,Box layout does not provide consistent sizes,0,2,2
+50536,Add diagnostic for nested at-rules so we give an error when @-moz-keyframes is inside @media,2,2,2
+32457,Trying to load any page results in the HTML being downloaded however not rendered,2,2,2
+16186,Assertion failure: left->pn_type == TOK_RC [@ CheckDestructuring],1,0,0
+14081,unrecognized certificate authority dialog has huge buttons,1,2,1
+17605,[FIX]Internal frame with generated src by javascript  is not working properly in FF 3.0.7; used to work in FF 3.0.6,1,1,1
+8747,System messages are received by applications that should not be allowed to,0,1,1
+20858,GTK nsWidget gets new look and feel objects in constructor,2,0,2
+9595,Crash when deleting history,1,1,1
+16564,Crash [@ nsFrame::Destroy] with -moz-column; float,1,0,0
+29513,[RFE] Make Charset in use by OS very visible on View Menu,2,2,2
+29727,Plain text display incorrectly for non ASCII,2,2,2
+50372,TM: make new String() trace,2,2,1
+21332,bullets on left edge of screen not repainted away after style sheet toggle,2,2,1
+3923,Cache-Control: no-cache should not affect back/forward buttons,0,0,1
+2712,Content-Style-Type doesnt handle parameters,0,2,1
+40718,Cant switch between save dialogs in task menu,2,2,2
+23230,Table is laying out with a small gap,2,2,0
+5545,[FIX]Anchor traversals in an HTML document in a jar dont add history entries,0,2,1
+14443,crash clicking back button right before popup loads,1,2,2
+44953,TAB key doesnt work in AOLs Write Mail dialog,2,2,2
+26514,reflow broken when setting font in editor,2,2,1
+2821,urlbar and other dialog text fields cant be selected/clicked in,0,2,2
+43009,RFE: autoscroll while typing in a textarea,2,2,2
+28734,[CRASH][PP] A crash occurs when a P element and INPUT elements are include in FORM,2,2,2
+1775,Leak of a style context?,0,2,1
+37259,Browser crashes when you click OK in print dialog box,2,2,0
+2009,New XUL widgets (XBL) leak like a sieve!,0,2,2
+9874,BR tags must have zero height,1,2,1
+27713,(suggestion) offline mode,2,2,2
+11368,pref-select.html: please convert to localizable XUL file,1,2,2
+43521,<textarea> ctrl(-shift)-home/end dont work,2,2,1
+12364,Odd download behavior; progress window never shown,1,2,2
+26980,xml files dont display,2,2,2
+8619,Post-validation updates of cache entries--DoomEntry(); MarkValid(); UpdateExpirationTime(); AddCacheEntryHeaders(); etc.--are done on the main thread; ; causing the main thread to wait on the cache service lock; which may be blocked on disk I/O,0,2,1
+4843,Mozilla becomes choppy after scrolling an IFrame within a frameset,0,3,1
+11994,text & bkgn color changes only occurs in skin (mostly); not content,1,2,2
+34112,Shift+Ctrl+Right in URL bar goes Left,2,2,2
+26560,File op: fileRename of read-only file results in crash,2,2,2
+42558,SecureAssure was problems with moz,2,2,2
+32728,Drag-selecting text not correct in URL bar,2,2,2
+46270,Cant open a window when every browser window is closed and a file is being downloaded,2,2,2
+16999,Content can exploit calls to addEventListener from FireBug,1,2,1
+18067,TopCrash [@nsPresContext::MediaFeatureValuesChanged(int) ],1,0,0
+48722,Printing woes [@ nsFrameList::GetPrevSiblingFor] Trunk M11A,2,2,0
+2498,Crash printing some pages,0,2,0
+42892,Crash on www.schwab.com,2,2,0
+1915,Spell checker does not work for win32 (Exception error from Spell Checker),0,2,2
+10521,[PP] The timerTest test app doesnt exist on mac,1,0,1
+8376,Make the DOM timeout clamp a preference,0,0,1
+20562,Can not access the name of any plugin in plugins array,2,2,2
+28128,[MLK] Leaking <AtomImpl> objects,2,2,1
+12050,javascript: URL links with TARGET not processed correctly.,1,2,1
+5630,MSAA: Expose nodes for h1-h6; q; blockquote,0,2,2
+48140,Anomaly in return value of AppendElement method in nsSupportsArray.h,2,2,1
+44171,Input field within table acting funny,2,2,2
+6785,Add support for enabling and disabling individual plugins,0,0,1
+42092,The parser should not generate synthetic doctype parser nodes,2,2,2
+17751,Crash [@ nsHTMLReflowState::GetHypotheticalBoxContainer] with position: fixed; float right,1,0,0
+24375,Sidebar animated GIF flickers even if sidebar closed,2,2,1
+2177,[backend][FILE]support uploading multiple files,0,2,2
+26984,FTP protocol needs to use nsCOMPtrs,2,2,1
+26623,Incorrect rendering,2,2,2
+18492,URL bar scrolling out of view while a fling is in progress causes window to flicker,1,2,2
+44245,<h2> element renders incorrectly when used with <a name> or <a href>,2,2,2
+15511,Segregate non-frozen XPCOM utility classes into separate library,1,0,1
+21814,no topmargin when the content is only a floated element,2,2,1
+25488,{sink} JS script output dropped,2,2,2
+25433,Folders in Related Links info dont have the proper folder icon,2,2,1
+846,Page crashing all platforms when utilizing word search.,0,2,2
+32561,Crash at closing Composer window in JA locale,2,2,0
+41630,Contents of pulldown menus appears at top of page,2,2,2
+33994,Mozilla doesnt color visited links right.,2,2,2
+19811,Warning: function TBV_DO_onDragStart does not always return a value,2,3,0
+20963,DOM: HTMLElement.className implementation doesnt match DOM Spec,2,2,2
+53342,XML/XSL rendering after using Panorama fails,4,2,2
+3805,Free Memory Read / Free Memory Write in nsBlockReflowState::~nsBlockReflowState,0,0,0
+54276,gfxTextRun constructor has unused parameter aText,4,2,1
+53179,VCM UI - useless space (1GGNJZO),4,2,1
+51334,When XPMenus active; cursor movement not always detected,3,2,2
+46753,drag & drop within Composer loses selection; caret in wrong location,2,1,1
+45107,this.form.submit() fails in 11-13-2000 nightly build,2,2,2
+2898,ALL YOUR BASE ARE BELONG TO US!!,0,2,1
+32485,Typing in location bar increases font size,2,2,2
+43498,blinking line at the bottom of pages-> 100% CPU use,2,2,2
+16811,Crash on exit [@ XFreeCursor],1,0,0
+14293,<hr /> positioning regression,1,1,1
+46119,Remove unused code in the view module,2,2,2
+6759,[FIX]XSLTProcessor appears to perform validation in alpha 4,0,1,1
+24376,[FEATURE] sched: clipboard interface for seeing if anything is on clipboard,2,1,1
+17320,Honor TEXT_DISABLE_OPTIONAL_LIGATURES in gfx{Pango;FT2}FontGroup,1,0,0
+36513,Cannot undo the Big element,2,2,2
+12292,cannot set coordinates with Imagemap editor,1,2,2
+53462,loading complex (cnn.com) pages much slower on Mac,4,2,1
+37567,view source doesnt show malformed comment open delimiter,2,2,2
+35169,Pressing the Back button should load the last page at the same veritical position,2,2,2
+21700,cant use DragSendProc for D&D,2,3,1
+4758,cache block file patch horked support for partial cache entries [large image requests never load once interrupted],0,0,0
+24021,Move localizable strings from UI JavaScript files into string bundle: Editor.properties,2,2,0
+42555,getString() fails in downloadProgress.js,2,2,0
+15132,unknown tags dropped in HTML,1,2,2
+8722,[MozActivity] fails for OOP applications,0,0,0
+49579,Horizontal lines on page (using text-indent and display: block),2,3,1
+21098,idlc-generated XPConnect glue leaks,2,2,1
+15080,renders space above table with floating divs; when the images in the divs arent cached.,1,1,1
+37917,backspace or delete is deleting too much,2,2,1
+12306,[P-MARGIN] Quirk Bug: Empty P between two blocks has no vertical space,1,2,1
+21440,(feature) Color properties/picker needs to be implemented,2,2,2
+30222,Lock never closes,2,2,2
+52979,Remove nsICSSNamespaceRule,3,2,2
+23799,Deleting a table cell in row deletes too many cells,2,2,2
+5543,[FIXr]Consider ways to speed up documentNeedsSecurityCheck,0,2,1
+17240,Build NSS with debug symbols - like the rest of Firefox,1,2,0
+20542,vertical scroll bar problems,2,2,1
+37074,Need recovery mechanism for install of evil/broken skins,2,2,1
+8717,Crash loading testcase [@ std::_Tree_unchecked_const_iterator<std::_Tree_val<std::_Tset_traits<int; std::less<int>; std::allocator<int>; int> >; std::_Iterator_base0>::operator++() ],0,0,0
+19771,Fix GROUP_BY_FOLDER in query system,2,1,1
+33341,strange growing of borders on clicking link,2,2,1
+12667,delete-line sets caret to beginning of document,1,2,1
+48171,[debug build only]Links move on mouse over,2,2,2
+45766,While loading images still unloaded parts are in garbage.,2,2,1
+46100,Incorrect CSS test 7 printing (absent cats)[bg][print],2,2,2
+19765,Other icons Places toolbar do not honour icons only mode and always have text,2,1,1
+40670,TEXT input box filled with too much data causes crash,2,0,0
+3510,CObserverService::RegisterObservers() called 400 times on startup,0,2,0
+25244,GetDocumentLength should not do a SelectAll,2,2,1
+19037,[Wizard] - Wizard errors are too obtrusive (1GCTEMX),2,2,2
+37358,[zzzzzzzzzz] Emulate Windows 2000/ME Personalized Menus,2,2,2
+50910,Make Places an option for Homepage,3,2,2
+47896,outliner cell text dimensions wrong,2,1,1
+36410,Keyup/Keydown not working,2,2,2
+48164,outliner content view should support icons from src attribute,2,0,1
+8683,MMI Codes: Support PIN/PIN2/PUK handling via MMI codes,0,0,1
+46994,Advanced Edit: Body element; background attribute,2,2,1
+30029,[PRINT FAIL]Crashes when printing this url,2,0,0
+30084,Incorrect rendering on startup.,2,2,2
+26874,Non-ASCII Plain Text page is not display correctly in Browser,2,2,2
+13485,position:fixed form crash [@ gklayout::NS_NewPresShell],1,0,0
+8897,Bad free in fsmdef_ev_create_answer(),0,0,0
+14296,[FIX]Helper app dialog reset if Advanced is opened and cancelled,1,2,2
+32757,[feature] [XUL] Implement <box> content node API,2,0,0
+13417,Context menus etc. not namespace-aware,1,2,1
+644,Parser crash,0,2,0
+35850,X font aliasing destroys MathML rendering,2,2,2
+47722,Absolute position span inside relative position span not painted correctly,2,2,2
+29993,drop-down list items centered,2,2,1
+9111,seedinfotech,0,3,3
+38363,would only load left frame and top frame; would not log information of books in the middle,2,2,2
+15983,Allow more than one global redirect observer,1,2,1
+47878,[RFE] The FTP error messages should be more descriptive,2,2,2
+14749,HTML table reflow problem,1,2,1
+25790,warning opening registry viewer,2,2,0
+37893,Empty cell isnt added when table too narrow and sizes are given in percent,2,2,2
+51170,Favicon background must match group item background color,3,0,0
+33244,It will not pull up the login thingie when i try to connect,2,2,2
+30748,SELECT field border doesnt redraw correctly on focus change,2,2,2
+45502,Javascript Floating Menu Does Not Work,2,2,2
+44310,Accept-encoding: identity in  not needed; compress should be depreciated,2,2,1
+8024,[HTML5] crashes [@ nsHtml5TreeOperation::Perform(nsHtml5TreeOpExecutor*)],0,0,0
+35912,Dropdown menu options on Align & Insert toolbar buttons look like buttons.,2,2,2
+23587,Possible security vulnerability in chrome: protocol - accessing local files using chrome://global/skin/../,2,2,1
+7524,Customize toolbar brings up blank customize sheet in Shredder,0,1,1
+16016,Static modules released too late; assertions in GenerateJavaInterfaces.exe,1,2,1
+7814,top crash [@ js_MonitorLoopEdge(JSContext*; unsigned int&)],0,0,0
+43870,The page layout is not rendered properly,2,2,2
+30308,Menus lockup with rapid clicking,2,2,2
+25347,MLK: BasicTableLayoutStrategy::BalanceColumnWidths(),2,2,0
+48680,#NAME?,2,2,2
+32289,Layout is all wrong,2,2,2
+28490,Mac OS - Russian pages not well kerned,2,2,2
+50203,OS X input box highlight clean-up/repaint needed when scripting moves active input box,2,1,2
+49942,Ctrl+Home doesnt work; in the body of a message being composed,2,1,1
+11549,sched: Keyboard Navigation in trees,1,0,0
+43897,Use PersistentDesc strings on all platforms to Get/Set profile data,2,2,1
+22672,[EVENTTARG]display: table-caption; element outside a table not displayed!,2,2,1
+39486,line-height property error: leading should be split equally above and below the the textline in a paragraph.,2,2,2
+27076,all GtkOptionMenu not working on Linux,2,2,2
+17412,Firefox Crash [@ nsWindow::GetParentWindow(int)]  & [@ nsBaseWidget::Destroy()]?,1,0,0
+16892,Selecting a menu item with the cursor; and moving with the keyboard results in two selected items,1,1,1
+7947,Common the side exit used with shape guards,0,2,2
+34335,Need to set visibility without reflow.,2,2,1
+3195,Trunk; N610 crash [@ nsKeygenFormProcessor::Init],0,0,0
+15237,absolutely positioned relative div elements with negative top offset dont render properly when display property is changed,1,2,2
+44829,IME status window sometimes shows up even though IME is not on,2,2,2
+45349,[REF] accessing page Headers,2,2,2
+18711,CTP plugins no longer work on data: URLs,1,2,2
+48859,Intermittent; but frequent problem with certificate database,2,2,1
+8982,WebRTC crash [@nr_ice_candidate_pair_destroy],0,0,0
+24459,Floated element inside table is badly aligned,2,2,2
+1716,allow user to navigate panes+frames using keyboard only,0,2,2
+48541,Wrong <div> height (if overflow: auto),2,2,2
+42485,image disappears on mouseover after pressing esc/stop.  font-family style and align involved.,2,2,1
+35140,[IFRAME] HTTP_REFERER not send when loading IFrame,2,1,1
+20955,Table is duplicated,2,2,2
+39144,cant insert any html objects in composer,2,2,0
+16640,Some frames of this animated gif image looks slightly distorted,1,1,1
+8925,Crash in ~MediaPipeline() due to stream_ not released,0,0,0
+52567,table width not 100% when requested within div with overflow: auto and height: 100%,3,3,1
+30402,Most right table column not at all displayed,2,2,0
+32633,Browser fails to display My-Deja login form table,2,2,2
+47734,% height content doesnt resize with implicit cell height,2,2,2
+1216,Need a cookie project on Mac,0,0,0
+4100,Problem in mozJSComponentLoader.cpp when building with XPCONNECT_STANDALONE,0,0,0
+28599,[CRASH][BLOCKER] Crash when clicking on bugzilla bug report,2,2,2
+36412,Open Link in New Window causes current window to stop loading,2,2,2
+29024,[DOGFOOD] profiles are failing after removing .mozilla,2,2,0
+12742,one-time leak from nsRange of 4 nsVoidArray and 1 PRMonitor,1,2,0
+18,SEVERE: UI is difficult when trying to open an out-of-synch file (1GEAL61),0,2,2
+29650,Images fail to load; show filename instead,2,2,2
+1056,[DOGFOOD]Document file tracking and dirty flag needs to be completed,0,2,1
+38864,leak of xptiInterfaceInfo from CallQueryInterfaceOnProxy,2,2,1
+17388,TM: for loop with i<sarr.length slower with jit enabled,1,3,3
+27892,Text hosed - overwriting.,2,2,1
+45986,SSL does not work,2,2,2
+9275,About:; Help->About; Help->Release Notes and about:config are broken,1,1,1
+43515,JS menu displays in wrong place and all unfolded,2,2,2
+26811,Horizontal scrollbar appear when select is in a table,2,2,2
+8984,Make some DataChannels assertions fatal in opt/release builds; at least for now,0,0,0
+37284,unable to type in Composer window,2,2,2
+20840,Image alignment not correct {floater},2,2,2
+9726,Make the Beep Stop!,1,2,1
+13034,Move |NS_Convert...| classes/routines out of string/obsolete,1,1,1
+53909,crash typing ctrl-L in de nav window after switching to en locale [@nsMenuPopupFrame::FindMenuWithShortcut],4,2,0
+2397,Cache filling up with VESTIGIAL entries,0,2,1
+28383,JS: setInterval never calls its function,2,2,0
+24070,[feature] hookup & enable Mac profile migration,2,0,1
+2995,RegExp.prototype.lastIndex now stops at 2^30 -1 (was 2^32-1),0,2,0
+18723,Make plugins default to click-to-play,1,2,1
+11552,sched: Cursor support: Windows,1,0,0
+17709,js_NewInstance locks ctor on trace,1,3,1
+30751,element type name which has namespace prefix is not match CSS2 type slelecter such as prefix\:elementtype.,2,2,1
+10582,Tree redraws everything on MOUSE_MOVE,1,2,1
+40926,Current HashValue implementation slows down mailnews folder loading,2,1,3
+20148,[PP][BLOCK]crash selecting Bookmarks/Manage Bookmarks in apprunner,2,2,0
+15747,[FIX]Improve WrappedLinesAreDirty() code,1,0,1
+5003,DOM Performance Regression,0,0,0
+46397,lack of arch-specific compiler flags in security/coreconf/Linux.mk,2,2,2
+34930,Need to be able to Stream Data into DocShell,2,2,1
+21230,Crash: http://www.elpais.es crashes,2,0,0
+45311,Tables bgcolor not showing colors for table cells with no text,2,2,2
+26304,Compilation error with some gcc versions,2,2,2
+11862,[PP] Cant move toplevel windows to specific coordinates on the desktop,1,2,2
+43233,Security Problems with HTTP-Authentication and caching.,2,2,2
+34343,page shows up blank,2,2,2
+43135,Crash when you visit winmag site,2,2,2
+47704,Text is not wrapping when it should,2,2,1
+28611,SelectAll delete makes caret disappear in HTML editor,2,2,2
+1861,[feature] Need a new screen object API that knows about multiple monitors,0,1,2
+50465,More precise flagging of eval and with to avoid pessimizing partial flat closure upvars,2,2,1
+51718,Alt+Bksp shortcut for Undo,3,2,1
+5454,crash on messagelabs.com after toggling CSS via bookmarklet,0,0,0
+311,metrofx: profiler ties all samples to the Startup::XRE_Main symbol.,0,2,1
+19970,Cannot build modules/plugin/test plugin; missing file(s),2,2,1
+18802,Preference for repo type would be nice (1GCPKVS),2,2,2
+33507,Browser segfaults on displaying http://www.wired.com/,2,2,2
+30632,Mozilla wants to download mime type multipart/mixed when accessing search,2,2,2
+34455,Page fails to load - suspect http problem w/ NCSA,2,2,2
+7778,280SLIDES stuck behaviour after 100% loaded,0,1,1
+53137,CVSResource.getServerWorkspace: shouldnt expose context (1GEMCJX),4,2,1
+18779,Infinite recursion and crash in nsSHEntry::GetAnyContentViewer(nsISHEntry**; nsIContentViewer**) in Metro Firefox,1,0,0
+4444,Absolute position support in Composer/editor core,0,2,1
+22309,Install.log file is locked by apprunner,2,2,2
+38860,text boxes flicker outside box bounds,2,2,2
+24671,[PP] Clicking on Format removes text highlighting in Editor,2,2,2
+3696,302 redirect from HTTPS to HTTP causes mixed secure and insecure warning,0,2,2
+50934,[10.5] need to add 512x512 icon to Firefox icon file,3,2,4
+42658,Remove fixed-length UI strings,2,2,1
+12356,Nightly Build failure with workshop 6 (AKA forte6) SPARC,1,2,0
+40675,Read-only textarea responds to paste commands,2,2,2
+51677,The PSM UIs do not refresh fast enough on linux,3,2,1
+41473,Directories unexpectedly get created after install script cancels/aborts,2,2,2
+42531,NS6PR3 for Sparc_Solaris is importing the Cerificate but not View/Deleting it,2,2,2
+36632,context menus dont close,2,2,2
+8543,Time API: notification and datetime set,0,2,1
+20924,animated gifs stop animating,2,2,1
+31600,wrong link with broken a href in list,2,2,2
+43418,View source mangles internal subset (ATTLIST -> - TTLIST),2,2,1
+18140,auto y offset for position:absolute in table is incorrect,1,3,1
+52172,selectbox/popup (right-mouse) menus are vertically misaligned after links toolbar closed/opened,3,2,2
+4071,Content-Disposition header parsing needs to strip out filename=,0,2,1
+16317,[FIX]Gut InitialReflow,1,0,1
+9561,mAutoCompleteOnlyTyped not inited,1,2,0
+53301,in the microsummary tooltip; show last updated,4,2,1
+45355,y2k bug when retreiving dates via getYear(),2,2,2
+5060,Unicode escaped characters dont work in .properties,0,2,1
+31979,nested tables extend beyond page,2,2,2
+39568,bg image path not remembered for table props,2,2,1
+8237,[FIXr]Quickstub string handling shouldnt addref/release the string buffer from traceable natives,0,1,1
+19387,New File/Folder should be disabled when no projects (1GF0OJN),2,2,1
+4034,The new print properties dialog does not save papersize,0,2,1
+52735,Reparameterize js_CheckPrincipalsAccess to avoid eager calls to js_AtomToPrintableString,3,2,1
+15387,Crash during loading of web page,1,0,1
+47778,InMemoryDataSource handles non-literal nodes incorrectly,2,2,1
+19213,Moving detached window is too confusing. (1GE6RGB),2,2,2
+9298,Mac OS X Shell Service (Set default browser support; etc.),1,0,0
+27083,Change force boolean arg to be an integer bit field,2,1,1
+37342,Translucent dragging shows the wrong text; and does not deal with wrapped URLs,2,2,2
+2263,Starts several new webshells (5 -> 210+) when loading www.wissen.de,0,2,2
+41689,keywords firing nwhen disabled,2,2,0
+39980,ASSERTION (focusedWindow) when right clicking,2,2,0
+49255,Scriptable plugins cause clearing of plugin when clicking outside plugin canvas,2,2,2
+24747,Tracking bug for annoying Copy/Paste formatting behaviors,2,2,1
+51774,javascript strict warnings in navigatorDD.js,3,3,3
+45578,[RFE] Be able to specify a download directory; avoid extra file copy,2,2,2
+47475,[XUL 1.0] tabbox should support selected* properties,2,0,1
+15682,Language bar misplaced at Firefox help website,1,2,2
+2008,File.macAlias() crashes on Mac and returns -229 on Linux and Windows,0,2,0
+27512,www.epinions.com doesnt render correctly,2,2,2
+10275,Background image disappears,1,2,2
+317,showing error on home page,0,2,1
+18931,Next button on toolbar does not work (1GET07T),2,2,2
+42943,xul files should still display with missing entities,2,2,1
+53397,system crushed,4,0,2
+52552,make it so ctrl+enter submits the form inside a text area,3,2,2
+8875,The logging added to CSP in bug 783049 needs to go to the web console instead of the error console,0,2,1
+46738,NS_COMPOSITION_QUERY does not return the same value for height per line,2,2,2
+47811,error/typo in nsCSSRendering.cpp,2,2,0
+31349,Table isnt positioned right,2,3,2
+5448,DL/DT/DD polish,0,2,1
+3059,Segfault when flight availability checked,0,2,2
+5173,object frame using window instead of document for caculating 100% height when absolute,0,2,2
+11627,date:  daylight savings problems on Solaris,1,2,2
+35086,out-of-line template has too many kids,2,1,1
+8342,OOM crash [@ libc.so@0x11c80 ][@ libc.so@0x11da0 ][@ libc.so@0x11cf0 ][@ libc.so@0x11ca0 ][@ libc.so@0x11f74 ][@ libc.so@0x11dc0 ][@ libc.so@0x11cd0 ][@ libc.so@0x11f0c ][@ libc.so@0x11e30 ][@ libc.so@0x11f84 ][@ libc.so@0x11cb4 ][@ libc.so@0x123b0 ],0,0,0
+11350,need UCS-4 converter,1,0,0
+9681,inline forwarded messages show too much html composition chrome,1,1,1
+5114,Crash because deleted frame not removed from primary frame map - Trunk [@ nsCSSFrameConstructor::AttributeChanged],0,0,0
+20336,[CRASH] cannot view http://www.retrogames.com,2,0,0
+50851,In Schedule: every minute(s) field accepts invalid characters,3,1,1
+24246,nsManagerFactory::CreateInstance returns NS_OK even if failed,2,1,1
+31967,cannot type non ASCII name in url bar to access file,2,2,2
+17599,TM: browser spuriously sets runtime->anyArrayProtoHasElement and makes perf bad,1,2,2
+41280,tabindex in input tag  doesnt work.,2,0,0
+32826,New error message messing with layout on pages.,2,2,1
+6256,The accesskey label is doubled if the label ends (X),0,2,1
+6534,Reverse conversion doesnt work by Kotoeri(Japanese input).,0,2,2
+26544,layout problem,2,1,1
+43084,while opening a new window keys should not be accepted by the last active one.,2,2,2
+27282,indent and outdent work but skips down a line,2,2,2
+46086,DOM leaks plugin host and cached plugins when doing about:plugins,2,2,2
+8085,Do not drop mumble; would-be directives in the parser; let them be completion values (or useless expressions for the emitter to cull),0,2,1
+45686,After loading frame in current window; returning back to page and scrolling it crashes.,2,2,2
+35998,RFE: prefer text/html over text/plain content,2,2,2
+38567,:focus in form controls breaks form submission,2,2,2
+636,Crash in nsBlockBandData::GetAvailableSpace,0,2,0
+24113,MLK: we leak the drag event listener on every toolbar,2,1,1
+4342,Crash occurs after closing js window containing flash animation,0,2,0
+50309,ASSERTION: Bad justifiable character count with pre-line,2,0,0
+14778,Page disables mouse to choose form elements,1,2,1
+25888,crash hitting back or forward button,2,2,0
+24638,fix QIs,2,2,2
+48168,Block-level elements positioned relative to a <span> do not display correctly.,2,2,1
+38677,Bugzilla keyword field clears out,2,2,2
+36108,[PATCH] widgets/timer/src/unix/nsNewTimer.cpp:nsNewTimer() leaks a nsGenericFactory,2,2,2
+50600,Geolocation popup notification seen even though Allow radio button was checked under Tools | Page -> Permission ->Share location,2,2,2
+40316,Tooltips activate when minimized,2,2,2
+3484,When entring Hebrew text into a form; Hitting ENTER twice crashes Mozilla,0,2,2
+31888,audiworlds news table doesnt show up in right place,2,2,1
+30625,Consistancy with Existing Browsers,2,2,1
+5764,Provide interface for configuring proxies,0,2,2
+23231,[PP] Focus on main window not happening automagically,2,2,1
+27796,Background is wrong,2,1,3
+6345,[FIX]document.write on already open document clears it in some cases,0,2,2
+42660,Enlarge/Reduce Text Size should use modifier + +/-,2,2,1
+43227,Text Fields dont update there values when reflowed,2,2,1
+38221,no exception being thrown for CharacterData,2,2,2
+29157,[4.xP]text inputs larger than NN 4.x,2,2,1
+20417,scrolling tbody (test4.html) strange results,2,1,1
+34916,changed preferences for cookies isnt stored,2,2,2
+30923,Mnemonics not working if cursor is in File menu or any menu,2,2,2
+4216,NSS3.4 USPS cert in Web Site certs by default,0,0,2
+2579,If you have npjava32.dll in the Netscape 4.7x plugin dir; Mozilla crashes on startup,0,2,2
+49794,Canvas is getting slower,2,2,2
+21473,We need better XUL error reporting,2,2,2
+47103,readonly textarea and input text controls should indicate receiving focus,2,2,2
+15574,back button does not restore scroll position when no reflow occurs after history restoration,1,1,1
+17827,JS error on Google Docs (spreadsheets) with jit enabled,1,3,0
+7002,JS_Get(Prototype|Private|Parent|Class) API performance improvements.,0,1,1
+33604,Files generating parsing error do not display message,2,2,2
+16943,Interpreter creates too many doubles,1,1,1
+50060,drawWindow call crashes,2,1,0
+30550,UI: Mail folders collapsed even though widget is expanded,2,2,2
+28883,parser combines <tbody>s when </tr> or </td> omitted,2,2,2
+9883,Table cell content overrides cell borders,1,2,2
+43478,[JS/DOM] Page doesnt load and html stops responding.,2,2,2
+45233,Cannot POST to 127.0.0.1 without PSM,2,2,2
+53753,HTMLObjectElement.form returns null,4,3,2
+20753,[PP]Font selection problem,2,2,2
+45704,history listbox is too narrow,2,2,1
+45570,Images sometimes overlap in table,2,2,0
+27087,libjar extraction needs to verify CRC-32,2,2,1
+20008,<INPUT TYPE=TEXT> does not use specified font [M12],2,2,1
+48848,AttributeAffectsStyle should move from nsIStyleSheet to nsIStyleRuleProcessor,2,2,1
+32670,nsFileTransport::OpenInputStream takes 1.10 sec out of (9.9secs + dll loadtime),2,1,0
+12367,&amp; becomes & in attributes (when saving from editor),1,2,2
+38802,<hr> size and placement computed against the wrong area,2,2,2
+40379,some edit operations do not scroll selection into view,2,1,1
+53787,<HR> too faint on dark backgrounds,4,2,2
+3090,URL with unavailable server -> crash (from browser or mail)[@ JS_GetPrivate],0,2,2
+35839,broken image doesnt update until forced to,2,2,2
+34972,[trk] (DOM2 StyleSheets) LinkStyle,2,0,0
+41170,tabindex attribute in Button tag doesnt work.,2,2,1
+48038,Insert point flickers when an item is being dragged,2,2,2
+45275,Page setup not enabled,2,2,2
+34211,[trk] (DOM2 HTML) HTMLParamElement,2,0,0
+8491,support for flash on Android Fennec on honeycomb,0,1,1
+47797,gif_write : memory churn,2,0,0
+577,Clicking on blank areas of page crashes,0,2,0
+30837,Enterable field freezes when switching between windows.,2,2,2
+26826,[4.xP] First character in text field highlights; even if nonexistent,2,2,2
+15638,[FIX]Non-cached image in table cell wraps unnecessarily,1,2,2
+43117,When display is 32 bit depth; printing can fail.,2,2,2
+39918,Back function sometimes does nothing,2,2,2
+43444,Form submission broken with forms from http://127.0.0.1/...,2,2,2
+44941,Browser crashes when visiting URL,2,2,2
+18219,[HTML5] Parser does not return to SVG namespace after encountering foreignObject with html and body tags,1,2,1
+8732,border radius causes background of a transformed element to continuously invalidate,0,2,2
+36222,[tracking]Hitting ENTER in IME to commit cause other action tracking bug,2,2,1
+24164,[perf] remove excess fat from XUL content model construction,2,2,1
+30733,Win98 has poor color in 256 color mode,2,2,2
+4489,Sometimes the webshell doesnt have a PresShell and crashes during printing,0,0,0
+38003,Crash clicking on radio buttons or checkboxes,2,2,2
+36790,Parser crashes with mParser==NULL on validated XHTML page,2,2,0
+31628,Cartman Detection script doesnt work on Seamonkey,2,2,2
+2939,JS scope deadlock avoidance doesnt handle GC dependencies,0,2,1
+1822,directory listing display Non ASCII filename as garbage,0,2,0
+10562,Table layout wrong when a nested cell contains empty <script></script> pair.,1,2,1
+24286,[feature] advanced properties dialog,2,2,1
+45602,connection times out when using bugzilla with Squid proxy and mozilla,2,2,2
+21931,[PP]pull-dowm menus on Linux are too sensitive,2,2,1
+30146,Linux: HTTP directory listing not showing up,2,2,1
+51261,{inc} inconsistent rendering of <BR>,3,2,1
+20813,Print button on AppRunners toolbar is not functional.,2,2,2
+6510,Want nsIProxiedChannel,0,2,1
+43937,[FIX][CHK]checkbox.checked does not always work.,2,2,1
+36915,replacing innerHTML with same content allows onmouseover to happen again,2,2,1
+8962,Frequent Linux/OSX test_peerConnection_basicAudio.html; test_peerConnection_basicAudioVideo.html; test_peerConnection_basicAudioVideoCombined.html; test_peerConnection_basicVideo.html | Test timed,0,1,0
+30482,TextField dont allow shift & Home/End,2,2,1
+16393,crash if I open large PNG [XError calls exit on BadAlloc (insufficient resources for operation)],1,3,3
+29756,layout really screwed up on this page,2,2,2
+19350,IDialogConstants.CANCEL_LABEL missing shortcut key (1GEEACW),2,0,0
+11683,[BETA]when editing whitespace; you can get all NBSPs where there should be one space,1,2,2
+18455,print error,1,0,0
+22521,Article layout on xml.com is severely mangled.,2,2,1
+25742,Need to automatically update mozregistry.dat,2,0,2
+33819,ASSERTION: DOM property name invalid or not found,2,2,0
+39841,Blank buttons in Edit Preferences/Navigator/Languages,2,2,2
+5410,bug with braces in JavaScript regular expressions,0,1,1
+1846,clicking on an item in a context menu causes the window to de-activate for a split second (title bar),0,2,2
+17106,Rendering glitch with large font-size,1,2,2
+22956,Dogfood: After clicking on toolbar button; focus should return to editor content window.,2,2,2
+5711,[FIX]Crash [@ nsFrame::Destroy] with div:hover {display:-moz-box} with inside an image and some other stuff,0,0,0
+15203,use PLDHashTable for nsHashtable inner entries,1,2,1
+40618,HTML textfield context menus dont have undo & delete items,2,2,1
+48565,images chopped off on this page,2,1,1
+25269,Keyboard entry into url gfx text causes spewage,2,2,1
+20017,{ib} Image alignment on page not correct {floater},2,2,2
+51265,Button mouseover sometimes sticks,3,2,2
+21960,[CRASH] This Latin 3 test page causes a crash,2,2,2
+29210,minor layout problem,2,2,1
+22079,Dialogs on Windows dont look like dialog windows,2,1,1
+48219,Flash plugin and z-index bug,2,2,2
+4277,Crash while loading the startup page on Win95,0,2,0
+11156,XPCOM needs shutdown,1,2,0
+8969,Crash in WebRTC Assertion failure: !other->mOtherDirection;,0,0,0
+19141,Adding a new task auto-names it (1GDFDI6),2,2,2
+45288,Add HTTP header Accept-Charset like Nav 4; and reflect charset pref setting,2,2,2
+161,Bug in find_wrapped_to_bottom in pdfviewer/viewer.properties,0,2,1
+52694,instanceof does not throw exception for objects not implementing [[HasInstance]] method,3,2,2
+14251,Printer name in Japanese is displayed as garbage in Print dialog,1,2,2
+5916,[FIX]Replace the DummyLayoutRequest with nsIDocument::BlockOnload,0,1,1
+24702,MLK: Drop-down list leaks,2,2,2
+5796,[FIX]nsIWebPageDescriptor.loadPage returns different results on second load,0,1,1
+35949,xpcshell needs to create and event queue,2,2,1
+15224,The text is overflowing into the menu section,1,1,1
+24071,Assertion: wrap around and apprunner lockup,2,0,0
+11677,[dogfood][IME][IME-Commit]Unnecessary bottom line input window with CJK text input,1,2,1
+31800,Crash on leaving the page. Possible Quicktime Plugin problem.,2,0,2
+45129,PSM 1.4 Visiting site with certificate that doesnt match URL; no buttons,2,2,2
+37339,image SRC and LOWSRC are not checked for same origin as all.js said,2,2,2
+38420,Patch to fix shutdown leak noise in nsStyleSet,2,2,1
+15608,[FIX]Browser ignores form fields with input type article,1,2,2
+10950,Link types not implemented,1,0,1
+15417,Nested table with height=100% is clipped,1,2,2
+2512,clicking lock doesnt open personal security manager,0,2,2
+17846,Optimize scrolling some more,1,2,1
+50719,Intermittent browser_pluginnotification.js; browser_CTP_data_urls.js | Test N; Should {now} have a click-to-play notification (or Should have displayed the missing plugin notification),2,2,0
+45701,Cannot highlight hyperlinks,2,2,2
+23037,NECKO: Crash on startup,2,2,0
+38392,nsBasicDecoderSupport held past XPCOM shutdown in nsFSStringConversion,2,0,0
+40266,renders tables incorrectly,2,2,2
+2914,history should use the new outliner,0,2,1
+28941,Logitech Trakball scrolling,2,2,2
+54162,Content Encoding Error error page repeats itself,4,2,1
+41941,remove mSelectorText from nsCSSSelector to reduce bloat,2,2,2
+31355,http-equiv refresh tag does not load the correct page,2,2,2
+4234,Words overlap on page,0,3,2
+8242,Inline (again) string constructors and destructors,0,1,1
+24034,Creator information: in URIs or channels?,2,2,1
+20739,table cell height attribute is not respected in this example,2,2,1
+48349,hang when collapsing some ssl-security details,2,2,2
+44356,XLIB: Drop down menus in Open File dialog appear behind the dialog,2,2,2
+1352,clicking cancel in open web location dialog crashes,0,2,0
+12017,add default font names to default pref files,1,2,4
+1641,[MLK] cyclical reference between XUL command dispatcher & global window,0,2,1
+5153,float:right objects misplaced when in a position:absolute environment,0,2,1
+7560,Crash [@nsObjCExceptionLogAbort][@ nsCocoaWindow::Show],0,0,0
+18426,87984 (3812d0ce274e) Merge last green changeset from inbound to mozilla-central went wrong,1,2,0
+46786,UMR: nsTextFrame::GetPosition() when selecting text. - Trunk [@ nsTextFrame::GetPosition],2,2,0
+25595,url parsing/sending to cgi is broken for args past ?,2,2,1
+41594,2 right most columns are missing; previous column is incomplete,2,2,1
+22267,Cant do Edit->Prefs while a View->Source window is rendering,2,2,2
+48701,[Mac Classic] PDF files are not displayed ever but can be saved correctly sometimes,2,2,2
+8064,Move ctypes into js/src,0,2,0
+1014,innerHeight and outerHeight wrong for iframes,0,2,1
+5299,[FIX]Helper app panel blank,0,0,1
+37106,Clicking in certain areas changes the value of unrelated dropdown menus,2,2,2
+25683,menus do nothing until you click in the browser area,2,2,2
+53848,margins between any tag and table tag are added,4,2,2
+43338,Tree out of sync; scroll; crash,2,2,0
+26268,[PP] Linux - Drop-down lists not updated after changing value,2,2,1
+10965,[PP] page with <br clear=all> before </center> shows blank,1,2,2
+16751,[FIX]Find previous does not wrap (reports Phrase not found),1,2,2
+11431,Drop-down menus crash apprunner,1,2,0
+29586,leaking HandleCaseConversionShutdown3,2,2,1
+6712,Crash [@nsThebesImage::AllowedImageSize; nsThebesImage::Draw] due to Integer divide by zero,0,2,0
+4772,Provide a way to view/delete orphan certs,0,2,1
+20249,cursor doesnt show up on next line after hitting enter,2,2,2
+16677,ASSERTION: Bad offset calculations with zwnj followed by text-transformed szlig,1,1,0
+7365,Scrollbar in Mac toolbar customization panel no longer scrolls content,0,2,2
+14684,Some plugin installers dont refresh plugins,1,2,1
+9849,CSS Parser ignoring first declaration in STYLE element surrounded by comments,1,2,1
+21961,MLK: leaking nsRegistry from nsProfile,2,2,1
+24565,Keyboard events not going to Sidebar correctly,2,2,2
+21036,fool.com article list is drawn at bottom of page; not right side of page.,2,2,1
+42155,mismatch in property name count assertion on startup,2,0,0
+53386,POPUp error message is not displaying,4,3,3
+33837,browser caches http file downloads in its back sequence,2,3,2
+34246,Bad borders inside table.,2,2,2
+30921,Enable |ASSERT_NO_QUERY_NEEDED| for the |getter_AddRefs()| case,2,2,1
+38698,offline and back online then crash on dns lookup,2,2,2
+31635,Mac commercial build not launching after install,2,2,2
+51435,[FLOAT] floated empty <select> confuses tables,3,2,2
+36507,Links in History window broken,2,2,2
+26470,404 not found; but ought to be...,2,2,3
+32901,Extra IME status window is flashing at turning on/off IME,2,2,2
+11918,Debug:XPToolkit submenu items do not load into browser window,1,2,2
+25597,XPInstall Prefs - More granularity needed,2,2,1
+9377,File->Import doesnt focus migration wizard if its already opened,1,2,1
+41826,Resizing page spontaneously reloads page,2,2,2
+12123,Link crashes browser; linked page does not,1,0,0
+32682,Dragging out of toolbar button while clicking leaves button depressed,2,2,2
+48852,A stream of ASFILEONLY is being deleted when the steam is destroyed,2,1,1
+44346,Photo Hunt gives errors and is unplayable with SW8 and SW8.5r133 on mac/win,2,2,2
+38545,new gtk timer code leakes several TimeVal objects per second,2,2,2
+10799,Inline GIF image fails to download,1,2,2
+11457,frames problem,1,2,1
+20882,[xul] NodeList and NamedNodeMap are not dynamic,2,2,1
+5937,[FIXr]DOM tables: cant access rows collections by ID,0,1,1
+47215,XMLContentSink doesnt have a ProcessHTTPHeaders() method,2,2,1
+14856,OK button is not activated (grayed) in change master password dialog,1,2,2
+30368,wrong protocol (http) in milestone 13 URL,2,2,1
+43566,keyboard navigation not working due to loss in focus,2,2,2
+7791,Crash [@ FindPropertyValue] or Assertion failure: right->pn_arity != PN_LIST || !(right->pn_xflags & PNX_DESTRUCT); at ../jsparse.cpp,0,0,0
+34614,document.write() wierdness in XUL iframes,2,2,2
+3143,Browser crashes as a result of registry.dat file not being updated,0,2,0
+47034,unable to scroll up past an <HR> in the editor using cursor up key,2,2,2
+37887,nsPersistentProperties::Load() is too slow.,2,2,0
+2669,[FIXr]please document mimeTypes.rdf helper app database fields,0,2,1
+43236,AppendRelativePath broken [FIX][REVIEW],2,2,3
+25922,profile window comes up; and then resizes,2,2,1
+51379,font changes when text control gets first focus,3,2,2
+28517,tbody with scrollbar does not layout properly,2,1,1
+13748,multiple ocsp requests for one cert,1,2,1
+13437,lose selection if mouse goes beyond first character,1,2,1
+26128,Proxy prefs migration screw up mozilla behavior,2,2,2
+13475,Mozilla 0.9.2 freeze with 100% CPU utilization,1,2,2
+40394,bug in chrome registry UI datasource,2,1,0
+47202,Contents of table cell (TD) displayed outside of that TD. {ib},2,2,2
+13816,SSL Client Auth dialog should give validity info,1,2,1
+14123,SSL will not let me sign out,1,2,2
+22076,[GTK Themes] scrolling with cursorkeys and gtk themes problems,2,2,0
+26550,No possibility to enter @-sign,2,2,2
+29805,Title shows garbage text for special chars like   (&uuml;),2,2,2
+34140,Transparent images print with a checkered background,2,2,2
+44373,file-upload should send Content-Transfer-Encoding header,2,2,1
+31777,RFE: click method for elements which allow onclick handler,2,2,2
+30563,onBlur crashes with Alerts and Prompts,2,2,0
+43307,Tri-state checkbox is a bi-state checkbox.,2,2,1
+33184,using alt-scrollwheel causes segfault under linux,2,2,0
+7128,Refreshing a page leaks an nsGlobalWindow until shutdown,0,1,1
+9414,Fix icons for generic leaf items,1,0,1
+37007,Link containing cgi string not being escaped correctly,2,2,2
+3909,Wrong usage of getService in pref-masterpass.js,0,2,1
+13415,make it easier to block a property for a class and its descendants,1,2,2
+45552,linux: typing 2-3 chars into textbox moves textbox,2,2,2
+26977,[MLK] editor leaks selections,2,2,1
+17065,flash object disappear after going back,1,1,2
+41237,onselect in Textarea doesnt work.,2,2,1
+13588,Crash on reloading www.isdn.cz - Trunk [@ libc.so.6],1,0,2
+51142,Consolidate code for new window tests into newWindowWithTabView,3,0,1
+2449,percentage (%) image (img) heights ignore height attribute,0,2,2
+12173,textarea.defaultValue and textarea.value returns null,1,2,2
+52615,The text in the form is lower than it should be when default language&locale are Chinese,3,1,1
+36919,You cannot add more than 1 item at a time in the Customize Character Coding dialog window,2,2,2
+21601,Cannot search on XML page,2,2,2
+7262,[FIX]LookupPolicy does the wrong thing on jar: URIs,0,2,1
+5148,Package P3P into nightly builds.,0,2,1
+25120,Crash in internet search dialog (tree widget; rdf; scrollbar?),2,0,0
+25628,[RENAME] [B|b]ookmarks.ht[m|ml] -> bookmark.htm,2,2,1
+15785,e4x: processing instruction with target name XML should not be allowed,1,2,1
+18808,Replace with version dialog should show comments and tags (1GDPIPA),2,2,2
+13494,Trunk Crashed when visiting news.bbc.co.uk [@ nsAFlatCString::GetReadableFragment],1,0,0
+48810,not all certs listed as choices to validate with a web site,2,2,2
+40180,css styles ignored when there are comments after comment tag,2,2,2
+52668,Make nsIFile.directoryEntries return NS_SUCCESS_DIRECTORY_EMPTY when the directory is empty.,3,0,1
+22274,image map images not loading,2,1,1
+2278,[crash] various leaks in a big page,0,2,2
+44744,Open File with saves the file with a random name.,2,2,2
+26079,Test class JSSample breaks memory ownership rules,2,2,1
+25139,free memory read in nsDll::IsLoaded(),2,2,0
+2000,Crash selecting spaced characters on Mac OS,0,2,2
+36079,nsSystemInfo should not be included on only 1 platform,2,2,2
+38143,html output system slow.,2,2,2
+13696,Heights on tables; row groups; rows; cells do not work correctly,1,1,1
+34986,Incorrect response to <td width=x%> on two rows,2,2,1
+20105,Uninitialized memory read in nsRangeList::TakeFocus(),2,2,1
+44022,Crash trying to use the save link as context menu,2,2,0
+32993,after page loading: table cell grows without need,2,2,2
+2601,Crash printing any page when display is set to 256 colors on Windows,0,0,1
+19065,F2 should invoke rename? (1GC2UNE),2,2,1
+48298,Adobe Acrobat plug-in needed for OSX,2,2,2
+37964,nsFirstLetterFrame::GetChildFrameContainingOffset hides inherited,2,2,1
+48149,Form textarea sometimes has an unnecessary scrollbar,2,2,2
+50370,TM: str_match should use js_GetCurrentBytecodePC,2,0,1
+26821,onmouseout not called for absolute divs?,2,2,1
+7276,Incorrect decompilation (missing parens) with genexp in for-loop-condition,0,0,0
+31140,Printing of wide pages truncates,2,2,2
+17100,drawImage of canvas onto self is incorrect,1,2,1
+8445,Highlight issue in youtubes search box due to YouTube setting a too-small line-height,0,1,2
+11769,[Dogfood] Horiz Scroll bar does not appear if last word wont fit (on first line of text),1,2,2
+53528,[RFE] Ability to display Windows .BMP and .ICO images in Mozilla,4,2,2
+28317,Text and password fields not showing background-color style,2,2,1
+41678,Scrolling in preferences window duplicates last item,2,2,2
+19790,Middle click on opening livemark origin results in all feeds being opened in new tabs,2,2,1
+20756,{perf} Big files make layout really buggy and slow.,2,2,2
+42215,Duplicate parts of document,2,2,2
+33824,Improperly closed A causes FONT to close too soon.,2,2,2
+24143,outpost sample form crashes browser,2,2,0
+2028,cant open file from file:// view,0,2,2
+51826,Copying to clipboard problem,3,2,1
+28714,links in page not recognized in Mozilla,2,2,2
+51751,Changing the date of the system for three days ahead ;doesnt clears the hisstory.,3,2,2
+23318,sched: Linux File picker filtering work - Specify file format[PP],2,2,1
+36750,selecting form submit buttons; incorrect tracking; RFC What should the correct behavior be?,2,2,2
+34518,[REGRESSION]Alphabetical sorting not working,2,2,1
+14446,mozilla wont load any plugins- at least; RealPlayer and Flash,1,2,2
+21842,Editor caret flashes black/white,2,2,1
+3256,Fix per-site JS disabling,0,0,0
+11689,{css1}not using list-style-type when list-style-image fails,1,2,2
+36637,[regression]The new GB2312GL converter missed fonts,2,2,1
+5860,E4X: Spidermonkey shell crashes when serializing an XML object where the name of an attribute was changed with setName,0,0,0
+49409,float in overflowing positioned element not floating,2,2,1
+7503,Native JSON stringification aborts on functions and xml but returns JS_TRUE,0,1,1
+42258,transparent gifs over background images looks strange,2,2,2
+48632,leaking component manager objects,2,1,1
+23075,[PP] Tooltips horked; back button (Linux: Bordered top-level windows; Win32: crash),2,2,2
+2843,combine |nsAReadableString| and |nsAWritableString| to avoid multiple inheritance,0,2,2
+25637,container == false for empty RDF containers in RDF/XML or InMemoryDataSource,2,2,2
+48163,Show favicons next to links,2,2,1
+12596,Tree selection performance is horrible,1,2,1
+816,incrementally adding a caption crashes,0,2,1
+18807,new Management Query view (1GDMAIL),2,2,1
+6342,xul <key> handling doesnt fire a command event,0,2,1
+17598,ASSERTION: About to remove a different wrapper with the same nsISupports identity! with Flash; __proto__ mangling,1,1,0
+45636,when submitting two forms from JS only one succeeds,2,2,2
+48155,Leaks in nsHTMLCSSUtils::GetDefaultViewCSS(),2,2,1
+42047,[MLK] Spurious AddRef; leaking nsLocalFile objects,2,2,1
+1595,HPUX build using 10.20 gtk 1.2.6 libs doesnt run,0,2,2
+51481,hitting return in dialog passes through to location bar,3,2,1
+34243,Smooth Scrolling would be nice.,2,2,1
+20485,Continue button on this form doesnt give results,2,2,2
+6126,stack overflow (in UnaryExpr? ),0,0,0
+21808,Frequent (~20% ) start-up crashes in raptorgfxwin.dll,2,0,0
+53559,add callback channel attribute to nsIChannel interface,4,2,2
+34452,spellchecker doesnt launch,2,2,2
+18222,parseInt() uses radix 8 if the string starts with 0 but not 0x or 0X,1,3,3
+41368,Divs set to % does not hold when padding is placed on the div.,2,2,2
+3291,wording for Master Password Timeout is confusing,0,2,2
+30754,page load dominated by nsVoidArray::InsertElementAt(),2,2,1
+4146,Trunk crash [@ little2_updatePosition] [@ XML_GetCurrentColumnNumber][@ nsExpatDriver::GetLine],0,0,0
+10038,Online Gaming Review homepage does not layout properly,1,2,1
+42530,mozilla crashes on startup,2,2,0
+4415,Unable to locate P3P full policy location,0,2,1
+4781,PSM embedding freeze/ step 3/ replace nsISupportsArray with nsIArray,0,1,1
+14905,HTMLSelectElement.value returns empty string when  multiple attribute  is present,1,2,2
+49407,Arena-allocate string objects in ns[C]StringArray,2,2,1
+14352,Url Notifies incorrectly blocked on NULL notify Data; breaks Windows Media Player in Linux,1,2,0
+38892,Frame content is displayed twice,2,1,1
+35938,Error -201 during install on Win95 system in network,2,2,2
+12552,Long <menulist> does not autoscroll in MacClassic or Modern,1,2,2
+34019,[trk] (DOM2 Core) DOMException,2,0,0
+41031,Clicking on the link will result in Window name mismatched,2,2,2
+44846,Wrong font in form elements with DTD HTML 4.01,2,2,2
+4532,list-items (LIs) near floats wrap block around float (i.e.; they use -moz-float-edge),0,2,2
+1913,Universal Charset Autodetection,0,0,0
+48407,URL: http ignores username and password (http://user:passwd/domain) for auth cache,2,2,2
+8637,if orientation changes in fullscreen; orientation is wrong when leaving it,0,2,2
+25523,Font overwrite scroll-arrows in flash-panel,2,2,1
+33541,UMR: nsViewManager2::SetFrameRate(),2,2,0
+39173,SCRIPT in BODY doesnt work when strict dtd is used,2,2,2
+13263,The accesskey attribute does not work for the area element,1,2,1
+47180,press letters to select item in XUL menu; menulist,2,2,3
+47886,Drop feedback is narrow first time,2,2,1
+26475,Turning on JS_PARANOID_REQUEST dies immediately.,2,2,1
+29945,[TASK] finish outstanding changes to htmlgen so new QA staffer can use upon arrival,2,2,1
+44722,Table advanced edit dialog - cant press okay,2,2,2
+39365,Cant open directories that start with %7E,2,2,1
+51361,Installer should remember last install location,3,2,2
+23652,M8 crashes when attemping to load www.iplanet.com,2,0,0
+12283,Linux filepicker doesnt show hidden directories or files (dotfiles),1,2,2
+35148,Show all the diffs button times out in current cvs build.,2,2,2
+31732,[gfx scrollbar] Crash in GfxScrollFrame when style rules indicate display:none,2,0,0
+24318,javascript functions are not seen in xml docs,2,2,2
+22666,Space bar causes focus change,2,2,2
+15260,NPAPI variables that pass COM objects need an ABI bit,1,1,1
+24772,FMM: nsAttributeContent::GetText(),2,2,0
+9942,Phantom border with CSS border-style set to none,1,2,1
+429,Endless loop in TB (bug triagers pain),0,0,2
+50571,test_bug583889.html: Error: uncaught exception: [object StopIteration],2,1,1
+54270,FF 8.0 loads multiple Java Plug-in,4,2,1
+13258,&nbsp removed from source when changing views,1,2,2
+1708,crash scrolling second window,0,2,0
+34718,nsISaveAsCharset is not service and should be called by CreateInstance,2,1,1
+35247,Throbber never stops when loading a frameset doc,2,2,1
+46233,[MF]Crash clicking item in select size=1 with <optgroup>s,2,0,0
+16603,Memory leaks when content policies set properties of wrapped nodes,1,0,2
+52891,Revisit quota logic in jsarena.c; after arenas enlarged by malloc_usable_size,3,3,1
+17809,Crash [@ nsHTMLInputElement::Focus] with file input focus and setting position:inherit; overflow:scroll,1,0,0
+22490,NECKO: Apprunner uses 100 % cpu time when waiting for an image to be loaded.,2,2,1
+753,[BLOCK] AppRunner/Linux: Optimized build renders blank window,0,2,1
+37884,Using :before & :first-letter together cause crash,2,0,0
+35688,memory leaks,2,2,1
+10847,vertical-align working only on first line of text,1,2,1
+47493,Empty lines doubled,2,2,1
+30946,Disk cache is not available,2,2,2
+5504,Bogus code and assertion in jsarena.c,0,0,0
+21313,mozilla.org banner image does not show,2,2,2
+9933,Negative CSS font-size should not be allowed,1,1,1
+35968,Winprofile: -229 error returned in addition to expect results,2,2,0
+30143,xpconect should avoid resolve performance suckage,2,1,1
+24652,Apprunner doesnt load this page (just one frame),2,2,2
+49122,Mozilla jumping between standards compliance and quirks mode on same page.,2,2,2
+41440,plevents should not used cached monitors,2,0,1
+21120,editor needs focus first before Ctrl-A or Select All can work,2,2,2
+7382,integer overflow in nsEscape,0,0,1
+6807,Native JSON support,0,2,1
+39119,Offline: No feedback when browsing to an uncached URL in offline mode,2,2,1
+41801,style=color=green; doesnt work (using equals instead of colon),2,2,1
+32816,crash downloading a file with ftp,2,0,0
+4425,Logging into Uniteds website complains about Cookies Disabled,0,2,2
+8742,Device Storage - Application Permissions do not match that of the Permission Matrix,0,1,1
+26007,port Mac binary stuff to new world,2,2,2
+21896,Setting text style/property across multiple paragraphs inserts extra lines,2,2,2
+7321,Regression: Array index has different results,0,3,1
+11706,nsAtomTable is not thread safe,1,1,1
+29460,Cancel button does not cancel from XPInstall progress dialog on Linux,2,2,2
+18323,Using Safe File OutputStreams to overwrite file with unicode characters in file name results in file name change.,1,2,2
+47287,Text zooming causes overlap since line-height (px) remains same,2,2,2
+49571,Change warning reporting for with and redeclaration of function to beginning of statements,2,2,1
+9800,Image.setDOMAttribute(WIDTH;400); is broken,1,1,1
+43911,new crash [@ js_MarkGCThing] in branch,2,0,0
+42099,FMM: Freeing mismatched memory in ~nsHTMLContentSinkStream,2,2,1
+53411,system was not able to find password,4,3,1
+33406,about: cant be link,2,2,2
+34223,[trk] (DOM2 HTML) HTMLFrameElement,2,0,0
+41112,nsSpecialSystemDirectory.cpp UMR & Misuse of GetEnvironmentVariable.,2,2,1
+17390,TM: Assertion failure: !JSVAL_IS_PRIMITIVE(regs.sp[-2]) with __iterator__,1,0,0
+14291,Mozilla fails to display PDF files embedded via an OBJECT tag,1,2,2
+3161,crash search on eBay for `hdtv,0,2,2
+25918,Error in processing external entity reference (XHTML DTD),2,2,2
+25379,Initial sort not being done on local directory loads,2,1,1
+23031,failure to load anything when behind a proxy (with tcp/80 blocked),2,2,0
+37044,When a stylesheet is written to mozilla by javascript; mozilla forgets it after a while,2,2,2
+49162,Printing selection prints out all the separators,2,2,3
+54032,My history was deleted and all i got was this lousy error,4,2,0
+39118,DOM1 Document::createCDATASection() should check for embedded ]]>,2,2,1
+1832,DOM Range crash - set(Start|End)(Before|After) given node with null parent,0,2,2
+36251,nsIDOMWindow->GetParent returns self,2,2,2
+51658,linux: access keys (mnemonics) dont work; beyond the top-level menu items,3,2,1
+15685,Mozilla does not render XHTML tables without tbody correctly,1,2,2
+24693,small caps are too small,2,2,2
+14601,Windows refresh incorrectly after dialog dismissed,1,2,2
+17156,Login for Wells Fargo Bank fails (date portion of user agent string needs to be limited to 8 characters),1,2,0
+52779,[FIX]regression: output with @value shows no label,3,1,1
+12413,JS urls should not get added to session history,1,0,0
+49914,[FIXr]ASSERTION: frame should be clean when getting special height reflow,2,0,0
+33431,Circumventing Same Origin security policy using javascript: URLs,2,2,2
+27479,[DOGFOOD] add ftp channel to load group,2,2,4
+33910,Mac version displaying Symbol font as Greek,2,2,2
+34730,dialog fields are messed up,2,2,2
+3097,need to clean up bidi reorder code,0,2,0
+45544,meta refresh ops take place after page changes on same site,2,2,2
+22644,Tables seems to be wrongly rendered for international lang,2,1,1
+38635,Proxy authentication never prompts for password,2,2,2
+2246,Install.log: Crash results when writing to read-only file,0,2,0
+11210,Higlighting text causes problem.,1,2,2
+19417,Tab names are huge and the tab outline does not show (1GET9VK),2,2,1
+47564,Using the backspace key to remove text in a table with an ABOVE TABLE caption in it; causes trails,2,2,2
+19396,[UI] Type Hierarchy View resize (1GENYR4),2,2,2
+33211,Navigator button on taskbar behaves inconsistantly,2,2,2
+14383,History Sidebar opens topmost visible link automatically,1,2,2
+44635,Leaking nsIAtom... (Caused by previous RTM checkin),2,2,0
+7476,progress events sometimes not getting fired,0,1,1
+3790,[FIX]Fix mSheetMap table in nsCSSLoader so that it can handle dynamically added/removed stylesheets,0,1,1
+11151,Menu bars dont switch on window activates,1,2,2
+44500,Remove bogus instances of -moz-opacity,2,2,1
+15403,shared libs formerly in libnss not easily available to other apps,1,2,2
+17415,TM: 6X slower with trace-abort before short inner loop; due to oscillating between interpreter and JIT,1,0,1
+26309,Invalid cast prevents compiling with recent gcc,2,2,0
+39060,Crashes when loading http://home.netscape.com/ja/index1.html,2,0,0
+44519,Crash on startup,2,0,0
+26621,if fail to create shortcut; all installed files will be deleted,2,2,2
+9003,Fix signalling unittest regression from bug 839650,0,0,1
+1288,Conflict with Palm desktop software causes crash using menus,0,0,0
+9193,Enable keyboard access to Blocked Popups notification bar,1,1,1
+40310,template builder should not use attributes to remember state,2,2,1
+29041,TEXTAREA contents newlines are ignored,2,2,2
+48404,Throbber does not stop when inner frame sets img src or iframe src via JS,2,2,0
+8720,Dont unload wireless drivers,0,1,1
+39766,remove TxString::toCharsArray(char* dest),2,2,1
+16387,document.adoptNode() throws NOT_IMPLEMENTED in Gecko 1.8,1,0,1
+3205,Lockup on DOM processing with large TD widths,0,2,2
+4807,Middle click active in Print Preview - results in wrong toolbars,0,2,2
+48811,White space between tags causes extra vertical space when inside a block with non-zero text-indent in standards mode,2,2,2
+39609,Editor generates illegal html when pasting lists,2,2,2
+47621,remove nsILoggingService and nsIStopwatch stuff,2,2,0
+47203,prefs inconsistency causes cache session creation to fail,2,2,1
+53682,The tableSectionElement.ch doesnt have a default value of .,4,2,1
+24234,selection of lines not working properly,2,2,2
+22333,<popup><window>... draws contents on main page too,2,2,2
+34027,Collector is getting a lot of timed out.,2,1,1
+39316,Progress window fails to appear,2,2,2
+28222,JS thin locks fatter than fat locks?,2,2,1
+38403,[CBX][DUP]<select> tag does not inherit the CSS properties of selected <option> tag,2,2,2
+8310,Prune placeholder from text children,0,2,1
+54026,extend jsdhash/pldhash to allow complex key types,4,2,2
+12663,Format submenus do not indicate current style of selection,1,2,2
+37409,HTML banner ads expand height when XHTML Doctype declared,2,2,2
+20387,Page scrolls back to cursor position instead of following link,2,2,2
+16779,6% Sunspider Regression between 1-29 and 1-30 builds,1,0,0
+13648,{inc}[MARGIN-C]Vertical text moves during mouse move,1,3,2
+2447,table columns layed out too wide,0,2,1
+51271,windows visible too early,3,2,0
+895,Copy/Paste broken,0,2,1
+49354,Editing Horizontal Lines (80%->70% displays 100% width until reopen),2,0,1
+22089,Hangup if cvs-mirror.mozialla.org not reachable,2,2,2
+18060,a transition that reverses a currently running transition happens too quickly,1,2,2
+8894,Memory leaks for test_getUserMedia_basicVideoAudio.html,0,1,1
+36378,Linux 2000-05-11 crashes on exit _everytime_,2,0,0
+23051,DETECTCH.EXE (japsm;cjkpsm) does not detect SJIS charset on this page correctly,2,2,2
+53691,Handling of <?xml-stylesheet?> without href attribute,4,2,2
+18017,can only play the first few minutes of a video,1,2,1
+40549,images fail to render; show only b,2,2,1
+36142,Unexpected line break when select Auto-Detect (Japanese),2,2,2
+22565,Editor crashes when trying to render traditional chinese (hanzi) on the Mac,2,2,2
+29508,Clicking into text field of XPInstall progress dialog unexpectedly displays drop-up button,2,2,2
+49833,rebase throwing error 99 on tinderboxes with VC8,2,2,1
+14059,Cost of malloc from spacetrace,1,2,1
+10592,webmonky.com crashes Gecko 011398,1,2,0
+27225,Word misspelled,2,2,2
+412,[autoconfiguration]automatic mail account setup wizard fails,0,2,2
+30223,Table display incorrect when COLSPAN=0 used in first cell; first row,2,2,1
+25626,[FTP] I cant get to ftp://ftp.mozilla.org/pub/mozilla if I start at ftp://ftp.mozilla.org,2,2,2
+29645,MLK: nsStringBundle::GetLangCountry(),2,2,2
+51177,Update browser_tabview_firstrun_pref.js to test the existing behavior,3,2,1
+11662,Error loading this page,1,2,2
+50416,configure on linux requires iwlib.h with --disable-compile-environment,2,0,1
+28380,[perf] optimize XUL attribute construction,2,0,0
+50212,extra width in table-layout:fixed tables should be distributed proportionally rather than equally,2,0,2
+36455,onClick not executed when button pushed from keyboard using spacebar or enter,2,2,2
+40558,mozilla appears within itself when i click on a link,2,2,1
+14708,Mozilla CRASHes when opening up maps.yahoo.com with a specific address,1,3,2
+5688,E4x<->DOM,0,2,0
+35718,Mozilla on SunOS crashes on startup,2,0,0
+38819,document.body.offset* returns 0.,2,2,2
+16914,[FIX] Hang when reloading page with plugin,1,2,2
+51634,UI: Advanced Edit dialog cleanup,3,2,1
+35513,CSS2: `:First-line and <tt> and fontsize,2,2,1
+11968,[FEATURE] data not copied to system clipboard automatically,1,2,2
+14943,Sites use iframes to bypass third-party cookie blocking,1,2,1
+39793,CTRL+H should be used for History; not Home,2,2,2
+47844,clicking Reload or Shift+Reload once GETs twice,2,2,2
+7782,TM: Assertion failed: p->isQuad() with for each assigning to const (hidden by with),0,2,0
+45965,Crash occurs when Nav4 plug-in is called to load the same object twice,2,2,2
+355,remove app.extensions.version from thunderbird.js on Mozilla 1.8 branch,0,0,0
+13022,need method for enumerating nsCacheMetaData,1,0,0
+5073,file uploads hang (especially w/ slower connections or slower servers),0,2,1
+290,JS debugger: use addGlobalActor to add chrome debugging actor,0,2,1
+11523,Fix nsiEventQueue,1,0,0
+34347,MLK: nsXULElement and friends from GFX scrollbars,2,2,1
+23764,Document not reflowing after form submission.,2,2,0
+28398,ftp fails to download files on mac,2,2,2
+6112,Evil testcase causing crash in [@ nsCSSFrameConstructor::ConstructTableRowGroupFrame],0,0,0
+13237,crash in __strtol_internal; nsCSSFrameConstructor randomly,1,2,2
+32612,Scrolling with IBM Trackpoint on Thinkpads doesnt work,2,2,2
+2382,frame cant access sibling if parent frame is in another domain,0,2,2
+1804,Need mechanism to tell user that Spell checker is done,0,2,1
+44107,memory cache and port numbers.,2,2,2
+694,Table lays out poorly(extra whitespace),0,2,2
+53304,use highlight and highlighttext colors for active / selected tab,4,3,3
+42824,naviagation ignoring frame changes (back/forward),2,2,2
+34936,Text unnecessarily rendered wider than visible window width,2,2,2
+50573,Github pages give cut off warning at top,2,2,1
+28177,Text extends beyond table boundary on deja.com,2,2,1
+14747,No Horizontal scroll bars displayed,1,2,2
+34762,cant connect through auto-proxy,2,2,2
+40503,Youve to reload the page to see the images,2,2,1
+28564,I cannot enter fidelity using 7/Dec/1999 build.,2,2,1
+48591,Scrollbar positioned incorrectly.,2,2,2
+11981,Text controls in centered table do not display pre-filled text,1,2,2
+615,Various parsing problems,0,2,1
+41772,Static character menu item will disapear if charset menu is changed many times,2,2,2
+18559,Validate Webapps:* message parameters in the parent process,1,2,1
+26590,nsRDFService.cpp problem,2,1,1
+1165,Crash in X Font code on startup,0,1,0
+21968,MLK: CObserverDictionary related?,2,2,0
+1546,XPInstall and Install Wizards broken on Mac and Win32,0,2,2
+29685,Text Direction and Language attributes seem to be ignored,2,2,1
+8411,Inherited non-configurable accessor properties mis-reported as own properties,0,0,0
+9789,Paragraphs with CSS margin attributes are corrupted,1,2,2
+21951,UMR in xptcall,2,2,0
+37082,Browser does not load contents of page.,2,2,2
+47934,Page constantly jumps up and down,2,2,2
+27903,space after href in <pre> section brakes next line,2,2,1
+42949,Right-click on button in cert dialogs with bogus results,2,2,2
+21428,(feature) Find/Replace needs to be implemented,2,2,2
+41250,Malformed comment crashes Mozilla,2,2,2
+40972,chinatimes page not loading at all,2,2,0
+21062,Need a way to make table columns crop when whitespace attribute is NOWRAP,2,2,2
+23039,Frames are not honoring CSS visibility property,2,2,2
+9523,Places toolbar button should have a label,1,1,1
+32487,Incorrectly assigning page space to frames,2,2,1
+25468,Browser does not paint correctly on first load,2,2,1
+34690,FORMs with embedded elements added at run-time [form sub],2,2,2
+52826,Disable font fallback when a character is in the private use areas,3,2,1
+47119,ondblclick event not fired when assigned in JavaScript,2,2,2
+37693,context menu fails to activate,2,2,2
+10250,rendering issue going from page to page,1,2,2
+10488,Image file within minimal table doesnt display,1,2,0
+39298,Hovering over Bookmarks menu freezes Mozilla for a few seconds,2,2,2
+8153,Remove ctypes dependency on nsILocalFile,0,0,0
+33559,Crash in profile manager on exit,2,2,0
+2563,Triggering from trigger page fails,0,2,2
+42481,<BLOCKQUOTE> in <pre> doesnt work,2,2,1
+22302,images not showing up,2,2,1
+2069,68K headers included when targeting PowerPC,0,2,1
+14930,freeze nsISupportsPrimitives.idl,1,2,1
+43172,en-US.jar and toolkit.jar not replaced after update.html,2,2,2
+5444,nsIScrollbarMediator should support multiple scrollbars [patch],0,3,3
+2357,clicking on H. Line causes crash,0,2,0
+27173,build fails on AIX compiling layout/html/base/src/nsDST.cpp,2,2,0
+32755,[XUL] Make <checkbox> and <radio> be derived from <button> and not <titledbutton>,2,2,0
+37546,Home button needs to release click when dropping after drag,2,2,2
+42351,cannot enter data in bug report form,2,2,2
+13861,Empty Heading tags are left after deleting the text on that line,1,2,2
+9332,document Macs new tab-switching keyboard shortcut set (Cmd+Opt+Arrrows),1,2,2
+43244,However above some of the images on this site makes them disappear,2,2,2
+9605,Client-Side feed reader applications displayed incorrectly in RSS configuration dialog on Mac,1,0,1
+36657,Setting menulist.selectedItem to an integer crashes,2,0,0
+16716,Bold/Italic Arabic text renders as garbage,1,1,1
+24049,[PP] Inconsistent/ugly TrueType font underlining on different platforms,2,2,1
+46793,OCSP prefs have dangling description,2,2,1
+33259,Shows textarea over the image/logo on the top of the page,2,1,2
+37671,multiple selections followed by action followed by another selection crashes,2,2,2
+26319,Border attribute of TABLE element does not distinguish cells,2,2,2
+49222,Windows error message: Error 623 The System Could Not Find the Phone Book Entry for this Connection.,2,1,1
+13905,Shockwave Director not loading on Mac os X using NS6.1,1,2,2
+8299,Assertion failure: proto;,0,0,0
+26421,small displacement in table layout,2,2,2
+2390,crash when smart downloading a zip file; any file on winNT; crash M09 [@ js_MarkGCThing; @ gc_find_flags],0,2,0
+9838,no left padding,1,2,1
+39585,[CBX]Cant scroll down a long list menu in a form,2,2,2
+12409,Back and forward do unexpected things on a FEW framed sites,1,2,2
+48235,{inc}[FLOAT]Table is over-covered,2,1,1
+32166,Enterprise.com pulls wrong page from server,2,2,1
+42561,multiline textfield with lots/large of content (assigned through XPCOM) is really slow and uses 100% CPU,2,2,2
+36852,Quirk: NavQuirk rules for LI should be moved to quirk.css,2,2,1
+17051,[effective columns] td element with bgcolor no longer paints along full width of table,1,2,2
+36831,fis signed vs unsigned comparisons in mozilla/intl/unicharutil/tests/UnicharSelfTest.cpp,2,0,0
+21,NPE during build (1GELWYX),0,2,0
+15924,Crash [@ js_GetSlotThreadSafe] because nsXBLPrototypeHandler::ExecuteHandler did not root handler,1,0,0
+20156,[DOGFOOD]MLK: 1424 bytes leaked XP Observer list for Image Requests leaking.,2,2,0
+31854,StyleContextImpls leaked like crazy,2,2,2
+31797,Changing font in prefs makes selection in URL bar act weird,2,2,2
+37048,multiple form objects of the same name; reference does not return an array,2,2,2
+38008,Selecting customer care value; causes Mozilla M16 to hang,2,2,2
+27116,[DOGFOOD] Pressing <ENTER> key in Dialogues should equate to OK button,2,2,2
+20495,[Webshell] Clicking on a link does not do anything (in frame without scroll),2,1,1
+6635,Assertion failure: top < ss->printer->script->depth with let that binds nothing,0,1,0
+31541,Directory listings are hosed.,2,2,1
+13968,mouseover/out events should set relatedTarget,1,2,1
+23794,Parser crash,2,0,0
+46239,Bug in Style Context Sharing,2,2,2
+31139,javascript rollovers dont work,2,2,1
+42991,Bogus default font settings for non-Latin languages,2,2,1
+50480,Symbian RVCT 2.2 compiler requires explicit cast to (const void*) for &k,2,0,1
+44205,Missing data when send FORM TEXTAREA content with method post and ENCTYPE multipart/form-data,2,2,2
+11148,[BLOCK] throbber: titlebutton ignores list-style-image,1,2,0
+28246,[bugday] my.netscape.com thinks mozilla does not have javascript enabled,2,2,2
+29977,MLK: selection leaks! (easy to fix!!),2,2,1
+15973,E4X: delete operator misses some descendants - e4x/Types/9.1.1.3.js,1,1,0
+12831,Listening to DOMAttrChange on all menus causes crash,1,2,0
+51069,Attempt to prevent massive data loss with new Clear Recent History interface,3,2,2
+7912,[HTML5][Patch] Results not showing up on CSS3.info Selectors Test,0,1,1
+29340,AutoScroll/Panning support [eg; Mousewheel Click/Drag triggered],2,2,2
+23003,Viewer blocks forever on dns lookup if machine loses network connection.,2,2,0
+17597,TM: Dromaeo v3 Sunspider massive slowdown after 2-28 merge,1,2,1
+8365,Honor the first <base href> in doc for base URL and the first <base target> in the doc for the default browsing context target,0,2,1
+31189,Need UI for setting site-specific policies,2,0,1
+25711,calling GetAnchor/GetFocus from editor code,2,2,1
+35834,Lack os Scroller,2,2,2
+26688,load named query in Bugzilla doesnt work,2,2,2
+7562,leak content nodes (and sometimes dom windows) after clicking on nytimes.com articles,0,2,2
+25752,<tree> in the history window should have an <html:div> around it,2,2,2
+17648,TM: Assertion failure: scope->object == pobj with function; __proto__; length,1,0,0
+11817,[PAINTING] [DOGFOOD] Text fields/editor content in Linux are displaying gray blocks at the end,1,2,2
+23573,Crash on exiting the Create Profile Wizard (while closing toplevel window),2,2,0
+31574,might need scrollbar for suggested words panel for spellchecker?,2,2,2
+7921,ES5 strict mode: this not generally coerced to an object,0,2,2
+27455,[BLOCK] ContentAppend causes the select frame to be deleted and recreate  (WipeContainingBlock problem),2,2,1
+39,[UI] ISV must reference internal class to get workbench prefs (1GF0EOA),0,2,1
+50699,Firefox stops repainting when an embedded Java applet launches a dialog,2,0,2
+6245,[FIX] Yahoo Beta Mail related crash [@ nsScriptSecurityManager::CheckSameOriginPrincipalInternal()],0,0,0
+17546,Firefox is randomly trying to fetch incorrect JavaScript file,1,1,1
+28872,font size increase/decrease doesnt work,2,2,2
+19554,Bookmarks/RSS items should always show tooltip when hovering with mouse,2,2,1
+48499,Printing / Page settings reset themselves after print (no landscape printing),2,2,2
+34679,nested tables,2,2,1
+10726,The apprunner chrome is scrollable when it shouldnt be,1,2,2
+50846,Bookmarks Manager gets object count (in status bar) wrong,3,2,2
+49380,Remove duplicate tokenizing method,2,0,0
+28082,html:fieldset does not always size correctly,2,2,2
+28795,[FLOAT] Table layout problems,2,1,1
+7394,TM: fatal assert on OOM when running jit code,0,2,1
+46822,create table from selection doesnt leave blank cells,2,2,1
+2943,Page does not render / garbage in iframes (graphics adapter specific?),0,2,2
+14939,Cookies are written out to disk too often,1,2,2
+1647,why does font size get interpreted differently in seamonkey {font} {ll},0,2,1
+18210,[HTML5] <basefont> breaks out of <head> (on tdcanadatrust.com),1,3,1
+52669,quirks mode text-decoration inherits differently into tables in IE and Mozilla,3,2,1
+8399,Simplify nsEventStateManager::SetContentState,0,0,0
+51160,Use public domain headers for our tests,3,2,2
+42638,Pulldown menu for Component doesnt work with this build,2,2,2
+35258,Crash on attempt to access menu when using multiple monitors,2,2,2
+10874,Cable News Network,1,2,1
+7685,TM: Crash [@ _chkstk],0,0,0
+46706,p:first-letter causes bad line break after first letter,2,2,2
+4131,nsCSS*::List should be |#ifdef DEBUG|,0,0,0
+52516,remove last traces of nsIStreamObserver,3,1,1
+52947,Some cursor types not working on Windows CE,3,1,1
+6010,Rich text editor property useCSS changed meaning,0,1,2
+19759,Dont use openNewTabWith from Places,2,3,1
+150,Arbitrary code execution from Style Inspector,0,1,1
+29102,Catchguard scoping issues,2,1,1
+16256,Support CSS3 ch unit for border and outline,1,0,0
+44507,[WG]change -moz-opacity name to -moz-opacity1 or something similar for next release,2,2,0
+28355,[MLK] Possible reference count leak,2,2,1
+20118,Insert Stuff button printing out this message,2,2,1
+40464,xpcom plugins cant be updated without closing browser if plugin was used,2,1,1
+50454,:empty + E and :empty ~ E selectors dont cause required style changes on later siblings of element that changes emptiness,2,1,1
+35078,Yellow column (includes cnn.com section) at Netcenter doesnt show up in mozilla,2,2,2
+35397,Double defined symbol in xpcom build,2,2,0
+11359,navigator.xul: non-localizable XUL file,1,2,2
+22299,Font colors not rendering correctly with CSS in M6,2,2,2
+35433,nsIClipboard::HasDataMatchingFlavors() gets called too many times,2,2,1
+29966,some component has bad registration behavior (optimized mac RegXPCom crashes),2,2,0
+24093,viewer regression tests blocked: file urls need extra slash,2,2,2
+36329,Keeping mouse pressed on OK or cancel buttons in Customize window moves buttons,2,2,1
+24031,When menus dropped down; they stay down when other menus active,2,2,1
+29288,Incorrect widths on table-cells.,2,2,2
+51875,Assert while mousing around over image.,3,2,1
+50225,hand cursor disappears after the tooltip is shown,2,1,1
+54273,Bring back isSameNode; since Google Web Toolkit (GWT) <= v1.4 depends upon it,4,0,2
+16902,Defining setters for properties of the global object doesnt work,1,2,0
+45408,Segmentation Fault When Setting cookie via http from 127.0.0.1,2,2,0
+53175,Changing sharing should not be easy is outgoing or un-released changes (1GF86PI),4,4,1
+50932,Drag&drop-hovered bookmark folder icon is smaller than the normal one - item shift (drag & drop behaves erratic when hovering over folder on bookmark toolbar),3,1,1
+16355,[mac] Pressed state isnt cleared in xul popup,1,2,1
+9005,buga,0,0,0
+3041,Full page plugins completely broken,0,2,1
+647,Default Namespaces dont work in XML,0,2,1
+12888,Sort history by Day -> Page,1,1,1
+45131,Wrong encoding for the dot in forms,2,2,2
+22042,[PP] Page Source changes Close & Quit to closeCmd.label & quitCmd.label,2,2,2
+29336,Deadly GIF causes instant crash.,2,0,0
+34621,cant change style for partial text.,2,2,2
+15367,Rework how dont print backgrounds works / print preview scrollbars look strange/corrupted/invisible/missing/black,1,2,1
+23135,MAP element adds height to table cell,2,2,1
+1201,Linux: XP Menus crash on mouse-over,0,0,0
+11089,link fails to respond; blinking i bar and blue cursor triangle appear,1,2,2
+47199,CTRL-RightArrow moves to end of word before end of line.,2,2,1
+25463,Crash on startup in nsAutoMonitor::NewMonitor(),2,0,0
+47238,height/width computed value not inherited when max/min applied,2,2,2
+21619,[PP] linux - cruft appears in main window when scrolling,2,2,2
+12449,Bypassing cache does not remove/update cache entry,1,2,2
+24354,[8.3] necko .DLL names too long for Win9x,2,0,0
+36833,[PERF] leaving page with many docshells performs O(n^2),2,2,2
+38913,crash rating movies with cinematch at www.netflix.com,2,2,2
+28425,MSFT IIS server 1.0 pukes on lower case accept header,2,2,2
+45814,This site crashes build 2000112704.,2,0,0
+45332,SELECT element in TD is displayed out of position,2,2,1
+30635,[MLK] Leaking nsIAtoms,2,2,0
+38854,Problem ftp-ing into my home directory,2,2,2
+1866,Bounding box updating makes scrolling/page loading slow,0,2,2
+53630,selectNode returns same as selectNodeContents,4,2,2
+22454,Table elements poorly aligned; outside bounds,2,2,2
+19868,crashing when disk C: full/out of space with error message: Instruction at 0x0054ff01; referencing memory at 0x00000000....,2,2,2
+21359,block element closed too soon,2,2,1
+34632,regression in table tests - assertion in label frame,2,2,0
+13579,8.2.4 Client Behavior if Server Prematurely Closes Connection,1,2,2
+20653,the compact attribute of lists doesnt seem to do anything,2,2,1
+53873,This is only a test!,4,1,1
+22986,MLK in nsComponentManager.cpp,2,2,1
+52788,[Mac] Aqua <button> text should not move when button is :active,3,2,2
+31002,Update Tasks naming/structure for Password Manager and Cookie Manager,2,2,2
+28823,some frames are being passed to interfaces that assume refcounting,2,1,1
+44345,Back and forward button problems on some sites,2,2,2
+33140,File type strings should replace to English,2,2,1
+45021,Mouse does not change to hand over link when switching windows,2,2,1
+14543,paragraph containing floating table doesnt collapse through [MARGIN-C],1,0,1
+13018,Plugin crashes (Not being destroyed correctly?),1,2,2
+14537,6.2.1+: Print Preview: Page Setup: window disappears when changing listbox,1,2,2
+34222,[trk] (DOM2 HTML) HTMLFrameSetElement,2,0,0
+46427,[plaintext]plaintext editor View menu needs to be cleaned up,2,2,2
+20474,bgcolor=papaya whip draws a black background,2,2,1
+20221,Throbber animated GIF constantly redraws,2,2,2
+31048,need to reduce heap allocation in font engines,2,1,1
+6769,[FIX]Crash [@ nsFrameManager::InsertFrames()] when getting documentElement that has a binding attached to it,0,0,0
+16660,OBJECTs with type attribute but no data attribute do not fire plugin errors,1,1,1
+53020,Remove obsolete comment about nsCRT::mem* functions in nsCRT.h,3,2,1
+29759,[CRASH] table cell calculating large width,2,2,2
+54189,jsiter and jsinterp access JSArena code directly; break encapsulation,4,3,0
+43671,Discontinue style after link mode goes right back into link mode,2,2,2
+27959,Background image larger than window - wierd effect during scrolling.,2,2,1
+12768,filling in forms uses to much cpu,1,2,2
+51483,Overlays can be loaded in an infinite recursion (or cycle),3,2,2
+4995,fire load event on stylesheet linking elements when the sheet load finishes or error if the load fails,0,2,1
+28138,Throbber doesnt stop when image URL is invalid,2,2,2
+17255,incomplete glyphs in mathml torture test page,1,1,1
+20086,Bad function parameter loading library,2,2,0
+32354,residual style bug? after </font> and <font>; </i> ignored and italics run on,2,2,2
+5130,The tables on the left hand edge of the screen are displayed with a much greater height in Mozilla that IE 5/6 or NS 4.8.  It is difficult to select some options as they display off-screen.,0,1,2
+38529,[BLOCK][ABS POS]box-sizing:border-box killed by position:absolute,2,2,2
+8948,Crash in mozilla::MediaPipeline::~MediaPipeline,0,2,0
+27844,[MLK] Leaking registryName,2,0,0
+49211,absolutely positioned boxes in relatively positioned inline bug + hover bug,2,2,2
+35856,##2 appended to URL,2,2,2
+18972,Scripting/J9 VM Runtime produces StringOutOfBoundsException (1GHFJ1Z),2,2,1
+52361,[ps] If Print Command doesnt exist Mozilla doesnt tell anything.,3,3,2
+26635,CSSLoader::LoadAgentSheet - failed to get converter stream,2,2,2
+7520,Downloaded Ahem font does not completely cover background,0,0,1
+52314,jpg not shown; horizontal lines do not match up - attachment of complete page,3,2,1
+35000,SMTP Editor gets into a state where 2 servers are highlighted,2,2,2
+14481,trunk crashes at startup [@nsJARChannel::GetContentLength],1,2,0
+47157,[RFE] Use native PDF rendering instead of plug-in on Mac OS X,2,2,1
+12321,Text zoom causes overlap since em remains same,1,2,2
+52743,crash with <input type=file> and events,3,2,0
+36775,following link which includes a port ignores the port,2,2,2
+39275,Maximizing windows loses tree items in these cases,2,2,2
+49272,Displaced image on maps of page tmb.net,2,1,1
+23168,Need to turn on XML_DTD flag to enable external DTD support in expat,2,2,1
+23452,gfx text widget in xlib doesnt draw correctly,2,2,2
+18843,InterruptedIOException: cancelling (1GF0HEZ),2,2,0
+39090,crash in bookmark manager; doing drag ? drop on a ?flat? bookmark list,2,0,0
+28140,[MLK] CaptureFrameStateFor() leaks saved states,2,2,0
+35786,[PIDEV][REALPLAYER] XPCom/Legacy Plug-in registration not clearly defined,2,2,2
+44718,alignment takes text with it; but not bullets,2,2,2
+21493,[BLOCK] onunload doesnt fire when a window is closed,2,2,2
+36598,open in new window wastes time in GC.,2,2,1
+4558,[FIXr]nsUnknownDecoder string cleanup,0,2,1
+3268,Table font non-inheritance quirk present in XML,0,2,2
+23591,Table2 within table1 will not center unless table2 is centered,2,2,2
+39931,Cant scroll with scrollbar thumb in FTP pages,2,2,2
+1008,[BLOCK] Native Gtk combobox is a grey rectangle; unusable,0,2,2
+48979,Login form information treated as manual entry of URL,2,2,2
+28235,[PERF] cache application locale in unix collation,2,0,0
+32377,Lock icon appeared locked non-SSL site,2,2,2
+40022,different result with table in mozilla and NS 4/IE 5,2,2,2
+8178,mismatch use of new[] with delete in CData::Create,0,2,0
+17244,{inc}@font-face: <length>s specified in ex unit are incorrect; using metrics from fallback font,1,2,1
+15135,Mozilla crashes after viewing a series of HTML pages,1,3,3
+42214,Crash on loading www.strato.de,2,2,2
+32649,Change Insert*Quotation to take a mime type argument,2,2,1
+20652,Collapsing cells does not calculate %ge widths correctly,2,2,2
+19443,[Welcome] Welcome view: strange that it allows multiple selections (1GEUVSB),2,2,1
+5933,[FIXr]crash when using fixed positioning; with no data rendered inside element[@nsFrame::BoxReflow ],0,3,3
+42713,Backspace doesnt delete URL in URL entry window,2,2,2
+28021,Twisty behaves differently for Symlinks on FTP sites,2,2,2
+28983,Buttons from XPInstall confirmation dialog are gone if Large Fonts are used for the display,2,2,1
+4104,This URL crashes Mozilla (nightly build as of 2002-Jan-24,0,2,2
+20661,[M4] nsDrawingSurfaceGTK::Lock() aborts with X error in gdk_image_get(),2,2,2
+50104,Mouse cursor changes according to just minimised window,2,2,2
+29318,menu keys dont work until you click in the menu bar,2,2,2
+47438,foo.Adopt(ToNewXXX(bar)) defeats sharing,2,1,1
+9087,Gecko needs to return a proper error code when sending messages to non-FDN receivers,0,1,1
+17406,drawImage with <video> doesnt work unless video is visible,1,2,1
+33554,Build failure under certain config,2,2,0
+48313,under KDE only: crashes when using flash,2,2,2
+32137,HTML Tags Not Properly Rendered within XSL,2,2,2
+17347,media queries should use page size when printing,1,1,1
+18756,[B2G][Helix][yangshiqi][marketplace] Ratelimit number of attempts for incorrect logins,1,2,2
+46449,Plugins no longer get resize events,2,2,2
+47674,onMouseOver/onMouseOut event problems with image maps,2,2,2
+18836,Discard repository should show all repos shared with the location (1GESW9W),2,2,1
+44924,Form entry and hitting the enter key,2,2,1
+12234,document.open leaks a nsDocShell (1 ref; 2 if no doc.close()),1,2,2
+35855,NYTimes login terminates browser if the cookie isnt set?,2,2,2
+26914,font-family assigned to SELECT element do not inherit,2,2,2
+5350,[FIX]Imagemaps are broken in 27th nightly builds - latest CVS pulls.,0,2,2
+27515,Opening a document which is already open in a composer window should just bring that window to the front,2,2,2
+38778,Resizing window to smaller size does not resize DIVs,2,2,2
+42241,No security warnings,2,2,1
+3750,Crash on startup if userContent.css has * { overflow: auto } or * { overflow: scroll },0,2,0
+26211,Document title messed up in frame pages,2,2,2
+49430,Host header should not include the default port for compatibility with broken servers,2,1,1
+23338,[PP]Gtk-CRITICAL assertion on exiting apprunner,2,2,0
+4479,crash printing netscape home page,0,3,2
+52384,The first letter in article looks strange,3,2,2
+52976,Allow disabling Glass from about:config,3,2,4
+1281,Bugzilla new bug submit does nothing,0,2,2
+43628,Cntrl-O (0 and not zero) to open a new Web location,2,2,2
+52460,date format of added date stamp does not conform to format set by Date & Time control panel,3,2,2
+28089,Menus popup and text boxes accept ALT-keypress,2,2,2
+26806,hrule dlog bugs,2,0,2
+20933,{feature} Open Page in browser followed by editor doesnt load doc.,2,2,2
+10635,Purify Memory Leak Warnings,1,2,0
+31365,pref-mousewheel.dtd contains duplicate keys,2,2,1
+36706,JavaScript error calling submit() on FORM element,2,2,2
+47867,Prompts for password every time it is needed; regardless of the user preferences,2,2,1
+54143,nsTArray<T>::NoIndex is inconvenient to use,4,1,1
+7158,Gmail chat and navigation is broken,0,0,1
+6630,[Mac] native-styling for html content should be enabled only in Camino builds,0,1,1
+46879,Mouse rollovers not working,2,2,2
+11404,Manually collapsing a toolbar causes it to disappear.,1,2,2
+1615,[DOGFOOD] TextEditorAppshell.xul is missing on win32,0,2,1
+17706,Crash [@ nsContentUtils::PositionIsBefore] with XBL; two elements that have the same ID,1,0,0
+54060,Crash [@ComputeThis]; thisp=0x80000000,4,2,0
+33222,Proxy Authentication,2,2,2
+45320,When attempting to participate in the contest (which ends on Tuesday Nov 21st) Mozilla does not properly transfer to the Rules page after clicking the javascript Enter The Game button,2,2,2
+16267,ASSERTION: NS_BLOCK_FRAME_HAS_OUTSIDE_BULLET flag set and no mBullet,1,1,0
+12510,Need better handling of missing XML entities,1,1,1
+10427,Vertical Alignment of Floats,1,2,1
+44459,javascript: urls that open new windows case strange behaviour,2,2,2
+52126,Parser hands the sink attributes with no name! [@ HTMLContentSink::AddAttributes][@ HTMLAttributesImpl::SetAttributeName],3,2,1
+6816,Cant use menus in other windows while native filepicker is open,0,2,2
+13522,[FIX] printing selected text leaves dark background,1,2,1
+4756,Changing font takes no action,0,2,1
+19961,OBJECTs in natively supported formats arent rendered at all,2,2,1
+12473,XIF optimizations,1,0,1
+26665,insertBefore; replaceChild; and appendChild should throw exception if given ancestor,2,2,2
+52221,Tables with images and text dont honor image width for column on reload,3,2,2
+12028,[PP] Accented characters somtimes are not displayed in text field,1,2,2
+9415,Interesting bookmarks copy-paste behavior,1,2,2
+50618,[marketplace] Persona takes about 8 seconds to login to the Marketplace,2,2,2
+18693,xulrunner linux-i686 builds broken on mozilla-central since May 16,1,2,2
+49319,Integrate latest Expat,2,2,1
+31669,ProfileManager not populated with available 4.x profiles until a 5.0 profile exists,2,2,2
+40566,XML errors pop up a new window?,2,2,2
+43554,Some widgets dont fire oncommand when toggled via keys,2,2,2
+48833,Midi file not played - high CPU load created instead,2,2,2
+54042,imgRequest::OnStopDecode assertion: nsVoidArray::ElementAt(index past end array),4,2,0
+14592,referingURI attribute not returning uri object  for nsIWebNav,1,2,1
+12240,Downloading a file fails if you suspend/resume download,1,2,1
+52693,Internal compiler error with MSVC 6 SP6,3,1,1
+3399,Unclear SSL status of the end user connection over SSL with CMS 4.2 SP2.,0,2,1
+50812,Flickering icon in URL location field,3,2,1
+11944,history.back() doesnt work,1,2,1
+44401,a form with CSS needs reload to display correctly.,2,2,2
+32906,Asserts in webshell/docshell,2,2,0
+49455,Mozilla crashes using this SELECT menu/weird layout of SELECTmenu [@ nsComboboxControlFrame::SetChildFrameSize],2,0,1
+13880,UI - View Certs . Issuer Organizational Unit is not displayed in General page.,1,2,1
+32639,ftp crashes periodically at END of transfer,2,2,0
+31199,JavaScript:callRequiredPage fails; nothing happens,2,2,2
+47698,Printing & Print Preview takes long time; and causes Mozilla to lock,2,2,1
+28224,[Dogfood] Linux: Cannot submit bugzilla changes,2,2,2
+10943,something strange with absolutely positioned element,1,2,2
+46289,ns4 plugins (and Java) wont load if XFree86-devel libs are not installed,2,2,2
+49676,nsCSSScanner::GatherIdent does lots of string appending,2,2,1
+6893,restrict web-based protocol handlers to http/https,0,2,2
+44326,crashes [@ il_find_in_cache],2,0,0
+15622,[FIXr]doesnt show the contents frame,1,1,3
+31420,Table cells with %-width attributes should stretch proportionately,2,2,2
+27408,altdisplays for images; not handled correctly on all platforms,2,2,2
+43900,window control menu doesnt work,2,2,2
+49419,Use new THashtable in accessibility,2,2,2
+1549,[WEBSHELL] Wrong behavior restoring frame state after hitting back,0,2,0
+47659,replace nsStdEscape with NS_EscapeURL,2,1,1
+48311,Transition trunk build fixes to stable 1.0 branch,2,0,1
+16539,cookie eviction should be in lastaccessed order,1,2,1
+15472,HTML SELECT control missing scrollbar if both WIDTH and STYLE tags present,1,1,1
+13652,ftp: URL w/o path should redirect to home dir,1,2,1
+49756,crash when i close window at that link [@ nsDiskCacheDevice::BindEntry],2,3,1
+2589,crash caused by reframing XBL reparented explicit children (e.g. reading mail),0,0,0
+20747,wallet bustage: seems to be due to problems in raptor,2,2,2
+1222,Page Reload doesnt work,0,2,2
+46901,Error: make unsupported ftp server message user friendly,2,0,0
+37107,URLs wrap,2,2,2
+37782,document.watch(domain;...) allows stealing cookies from arbitrary domains,2,2,2
+16216,[FIX]Crash [@ nsBlockBandData::Init] with mathml:mtable in xul,1,0,0
+1862,JS library access denied to every second html file opened in child window.,0,2,2
+50153,load in other font family names lazily,2,2,1
+34184,[trk] (DOM2 HTML) HTMLOptGroupElement,2,0,0
+33628,Menus are slow to respond when switching between them.,2,2,1
+21853,Prof Mgr should not exit after selecting Finish btn.,2,2,2
+4288,Deleted certs still appear in Cert Manager M1RC2 [@ nsNSSCertificate::GetCert],0,2,0
+38192,Ja chars in the window title are displayed as dots on a Ja Red Hat,2,2,2
+22757,Error message in OnStopBinding() getting called too eagerly???,2,2,2
+9463,Only one places tab per window,1,2,1
+25695,throbber slows down mozilla,2,2,1
+14629,raw directory listing format is confusing,1,2,1
+14499,cant get coordinates from popup events,1,0,0
+26373,context menu grows eventually causing a crash,2,2,2
+32699,Page layout incorrect,2,2,2
+49527,XSLT memory leak,2,2,2
+33392,need UI for enabling/disabling ciphers,2,0,1
+22293,Assertion fails using Purify for NT,2,2,0
+37822,Regression: file: protocol no longer being recognized implicitly,2,2,1
+28502,[DOGFOOD][PP] running Mozilla Installer on the mac; with one 4.x profile; we hang the machine.,2,2,1
+51324,[PP] Editor Save As... dialog on windows is wrong (button),3,2,3
+44312,crash loading XUL file.,2,0,0
+9505,Provide bookmark service function for changing URL of bookmark,1,1,1
+2660,changing character-coding-->auto-detect appears to leak memory,0,2,2
+49848,[FIX][reflow branch] Right hand side of empty select is slightly cut off,2,2,1
+2777,[embed] XPIDLize transaction manager,0,0,0
+27642,displaying textual data inside .GIF and .PNG files,2,2,2
+5199,[FIX]Images/Arrows dont appear in DHTML menus,0,1,1
+23690,window.open having no effect,2,2,2
+3111,Lock icon is not accurate,0,2,2
+17526,XPCNativeWrapper(foo) shouldnt throw,1,2,1
+5380,cant mutate empty object delegating to sealed prototype object,0,2,0
+39202,Hitting <enter> when profile dialog comes up causes crash.,2,0,0
+39854,newlayouts books.xml shows artifacts when using in-page scrollbar arrows,2,2,2
+13839,Encrypted frame does not apear.,1,2,2
+29472,image.complete does not return boolean value.,2,2,2
+73,Launching an app with no version of FF installed - Update error messages to say FF 16,0,2,2
+28178,Preferences menu item doesnt work within Browser,2,2,2
+2757,move common used latin converter to uconv.dll to save footprint,0,1,1
+48946,OSX-Cannot get a cert on the first try,2,2,1
+40570,Cant select a <input type=file> in editor by clicking in the text field,2,2,2
+20432,NECKO: [4.xP]Second link does not work,2,2,2
+504,Assert in table code,0,2,0
+20929,[PP]Forms: lxr freaks out when you try to search,2,2,2
+44774,class= attribute for buttons broken,2,2,2
+22710,add Change() and Move() methods to RDF datasource interface,2,2,1
+13017,Wrong declaration of parser function in ExpatTokenizer and ExpatDTD,1,2,1
+13019,:table has border-spacing: 2px,1,2,1
+5934,[FIXr]XPCNativeWrapper.prototype.toString(); crashes,0,3,1
+40854,unable to register domain name at networksolutions.com,2,2,2
+18110,Hover background color sometimes left behind when scrolling with the mouse wheel,1,1,1
+41129,Unknown error appears when trying to save a file,2,2,1
+21444,(feature) Decrease/increaseindent needs to be implemented,2,2,2
+24155,Tables ignore text-align property,2,2,1
+47096,Advanced Edit: APPLET element should not have default JS events,2,2,1
+14741,Gigantic form with many inputs eats up all memory,1,2,2
+8806,Web Activities cant be used when async information is needed,0,1,1
+5660,Clearing cache sometimes fails,0,3,0
+34453,Double free in nsHTTPCompressConv loading URL,2,2,1
+17925,URL spoofing bug involving Firefoxs error pages; document.location,1,1,1
+7123,Unfrozen interfaces listed in security/manager/ssl/public/Makefile.ins SDK_XPIDLSRCS,0,2,1
+50883,Cannot change tab width using userChrome.css,3,3,1
+45905,Make nsHTMLEditor build optimized without running out of RAM,2,2,1
+20279,{colspan-width} IMG or WIDTH with COLSPAN distorts column or table widths,2,2,2
+13340,http should reclaim connections immediately (on the socket transport thread),1,2,1
+1510,Cant do window.setTimeout() or window.close() when attempted by way of xpconnect,0,2,2
+28185,Keyboard shortcuts for Go menu items dont work,2,2,2
+591,Gecko developer release doesnt seem to comprehend the pre HTML element; which as an web designer; I find Very important that gets fixed.,0,2,1
+28132,[MLK] Leaking a C string,2,2,1
+12904,Three different .xul files for the download progress window,1,2,1
+29066,Mouse wheel not working,2,2,2
+18177,TM: optimize JS_Enumerate(),1,1,1
+37427,Allow HTML textfields ta have a text-align : center; style,2,2,2
+20741,cursor keys scroll document and option list at same time,2,2,2
+36610,Error resolving parameter REFARTICLE error,2,2,1
+35390,blocked image sites do not save on first restart,2,2,2
+48750,textarea in td does not resize when height of adjacent td is altered,2,2,2
+31131,Bug in mozilla/netwerk/base/src/nsAsyncStreamListener.h,2,2,0
+26148,Build on Windows,2,0,0
+45213,xpconnect must bracket calls to natives with JS_{Suspend;Resume}Request,2,0,0
+53972,Client Certificate Selection pref is not remembered,4,2,1
+24386,Javascript code does not run correctly,2,2,2
+35470,[Feature] Autocomplete Widget: selected text must be removed in case of a non direct match,2,2,2
+9936,CSS auto margins dont justify blocks,1,2,1
+23393,Table reflowed differently after mousedown on link,2,2,2
+53735,node.appendchild()did not throw exception when expected NOT_FOUND_ERR,4,3,2
+46226,anchors in tables arent aligning properly,2,2,1
+8913,PluginHangUIParent.cpp(119) : error C2440: return : cannot convert from nsresult to bool,0,0,0
+46788,Composer UI needs to adapt to editing plain text files,2,2,2
+41828,Cant tab between form controls over a combobox,2,2,2
+8901,crash when quitting firefox after completing the peer connection test page [@ nsTimerEvent::scalar deleting destructor],0,0,2
+49645,Rewrite uriloader mime type handling on OS X,2,2,1
+867,MLK: nsWebShell leaking a nsJSContext?,0,2,0
+15849,SCRIPT tags can access chrome,1,0,0
+45098,Segfaults when printing,2,2,2
+25733,[FEATURE] menu check mark,2,2,1
+18921,DCR - Turn Help browser into editor (1GD0IRR),2,2,2
+10220,Conn: Freeze during page loading,1,2,2
+7121,[FIX]Unsigned documents can inject script into signed JARs,0,2,2
+50411,[HTML5] Translation from Java to C++ loses assertions,2,2,1
+21042,Comment nodes in the content model contain markup delimeters,2,2,3
+30641,The ALIGN=center attribute doesnt work in TR,2,2,2
+49402,mfc embed drag&drop doesnt work within same editor,2,2,2
+42232,Vertical scrollbar disappears when viewing this page,2,2,1
+11055,inherited virtual function hidden,1,0,0
+21018,[PP] linux only: words broken across two lines ...,2,2,1
+24509,[PP] align=center doesnt work when valign=middle,2,2,1
+27783,Missing </A> end tag not supplied inside <LI> *not* in <UL>,2,2,2
+24588,Crash opening a bogus xul file.,2,2,0
+12862,ALIGN=left is ignored when DIR=rtl,1,2,2
+34598,Form Not displayed properly,2,2,1
+36027,nsPluginHostImpl::GetURL does not work for relative URLs if target is null,2,2,1
+46358,Opening menu gives ASSERTION: Filtered insertion point wasnt properly constructed,2,2,0
+35001,Three consecutive float: left not always placed on same line,2,2,2
+29096,inserting object into cell followed by clickin in text crashes,2,2,0
+52087,Nothing happens after Print and OK in OS print dialog,3,2,2
+5258,[FIX]back button not using cached pages (when page headers say not to cache),0,1,1
+50828,Status bar icons should respond to right-click,3,1,1
+19522,CCK for NGApps,2,2,2
+52870,ASSERTION: Wrong parent style context with -moz-column; rel&abs pos,3,1,0
+3216,M091; Trunk; & M92 crash [@ ChildIterator::ChildIterator],0,0,0
+37690,Button titles are reversed on Page Title & Properties dialog,2,2,1
+19286,Radio buttons should be vertically aligned (1GEADN8),2,2,1
+53863,[mozTXTToHTMLConv] diffs of code declaring pointers with values that are *cast* to pointers* appear *bold*,4,1,1
+28695,document.getElementById() seems broken,2,2,2
+50024,Old page gets resized when browsing to a new one,2,1,1
+28776,Invalid Page fault in XPCOM.DLL when file://C:\,2,2,2
+44131,Printing without default printer crashes browser,2,2,1
+25235,[BLOCKER] Need hack to ignore absolute window X;Y on screen,2,2,2
+48728,[Mac] plugin.name and plugin.description not handled as in Netscape 4 (Adobe plugins missing a #STR resource),2,2,2
+46709,Active Accessibility: selection within textfields and textareas,2,2,1
+50152,Crash [@ nsFrameConstructorState::ProcessFrameInsertions] with mathml; float and a lot of junk,2,1,1
+49244,table background shows even when fully clipped,2,2,2
+25421,after running installer; we need to re-import cookies.txt,2,2,1
+22943,[BLOCK] :first-node does not ignore empty P elements,2,2,2
+46111,File dialogs do not allow viewing of . files on Linux,2,2,2
+24672,Performance improvements to IME text range handling,2,2,1
+38459,Right arrow key in submenu item jumps one top level menus; not to submenu,2,2,2
+40977,CSS is not handled correctly.,2,2,2
+3269,PSM manager does not work on https sites,0,2,2
+14006,JS doesnt restart when SetScriptsEnabled is called with true,1,0,0
+7295,Always select gvar ops for declared global vars; instead of only if loopy/enough-used.,0,0,1
+39164,<select> element does not include all specified <option>s,2,2,2
+28699,[DOGFOOD][REGRESSION] Cannot file new bug; crashes.  Scrolling bug?,2,0,0
+19888,Windows XP theme inconsistencies,2,1,1
+16986,ASSERTION: Unexpected child of document element containing block involving removing root; mutation listener; and fresh script node,1,1,0
+5767,[FIXr]Warning appears twice when submitting unencrypted form data,0,0,1
+7183,Misaligned navigation panel on computerworld.com due to tall combobox,0,2,1
+32619,Copy and paste in preferences pastes copy info twice,2,2,2
+44713,Remove all the special work done for Mac to store persistent strings,2,2,1
+24954,Invalid File Type in several places.,2,2,2
+53129,Help contexts need to be added for wizards (1GENICJ),4,2,4
+1223,[BLOCKER] Problems submitting hidden field,0,2,2
+18798,Should we delete properties from the VCM API? (1GCFN34),2,0,1
+40236,links to file: URLs within http: page dont work.,2,2,2
+17391,Seeking video takes too long in playback and paused mode for HTTP media resources,1,1,1
+38676,My.netscape lays out poorly,2,2,2
+39214,My Yahoo URL doesnt reload when you log in for the first time.,2,2,2
+12562,Blockquote not rendered; Break not honoured,1,2,2
+835,setting BR display type to block causes crash,0,2,0
+46366,Align attribute not working with HR element,2,2,2
+29145,Vertical scrolling repeats without further clicking,2,2,2
+11119,floating element lacks background-color; border,1,2,1
+51040,Annoyance: always returns to the top of the bookmarks menu,3,1,1
+31953,duplicate entries under the Go menu,2,2,2
+52115,[CBX]can not style select border,3,2,1
+24296,Second display of menu using keyboard reveals submenu,2,2,2
+15478,caret mode: spacebar doesnt scroll page,1,2,2
+50793,[Perspectives] How to export (Save) perspectives for new install? (1GE5SQO),3,2,1
+19544,Drag & Drop from Location Bar to Bookmarks Sidebar impossible,2,2,2
+20278,String.split() not supported,2,2,1
+30325,Editor debug menu horked,2,2,2
+38615,Exception referring to protocol property of HTMLAreaElement,2,2,1
+38140,C bindings for XPCOM,2,0,1
+14765,[mac] keydown Event Listeners arent functioning at all,1,2,2
+2571,Assert in HTTP on startup,0,0,0
+22310,IFRAMES and JavaScript,2,2,2
+40735,cant start NS 6 with a JA-JP profile,2,2,2
+9926,news.com columns are getting mushed to the left,1,2,1
+35046,meta charset does not work on this link,2,2,1
+42020,[FIX]possible rounding error in gfx text control,2,1,1
+28629,[DOGFOOD] [REGRESSION] SetTextProperty deletes the selection,2,2,2
+29846,Interlaced PNG image doesnt renders properly,2,2,1
+49890,At <www.pro-at.com>; abnormal processor usage; related to Flash + JavaScript,2,1,0
+14838,Uninitialized memory read in nsTextFrame::GetPosition,1,2,0
+30947,info needed for new Euro character?,2,2,2
+13862,PSM allows 2 CA certificates with same subject; same serial no; but different key material,1,2,2
+17910,[10.6] Firefox Help menu greyed out after waking from sleep if key pressed and Require password enabled,1,2,2
+43808,Filepicker doesnt see most files and directories,2,2,1
+7506,TM: valueOf ignored on third iteration of loop,0,0,0
+12571,Crashed when spinning the cursor,1,2,1
+21590,if (document.layers) stops js execution,2,2,1
+44946,Numerous places where uninitialized variables might be being used before being set.,2,1,0
+5022,[FIX]{inc}List item marker images draw incompletely on initial load or forced reload,0,2,2
+34577,Not all cookies from groups.aol.com are displayed in viewer,2,2,2
+17786,URL invisible in awesomebar result on WinCE,1,2,2
+34493,The plug-in Chime does not function correctly with Mozilla.,2,2,2
+47428,Installation failed when creating directory with chars. outside the repertoire of the default system locale,2,2,2
+36068,Insert | Characters and Symbols should be enabled,2,2,1
+17600,TM: Crash on webpage with jit.chrome=true [@ XPCWrappedNative::HasProto() ] [@ JS_CallTracer ] [@ WrapperIsNotMainThreadOnly(XPCWrappedNative*) ],1,1,1
+6568,Some let expressions in for initial-expression still become let statements above the for,0,2,1
+23700,[crash]invalid fieldset html causes crash,2,2,2
+10614,[FONT MAC]Mac - Fonts rendered with jagged edges,1,2,2
+34806,Input type names start with uppercase,2,2,2
+42880,css interpreted incorrectly,2,2,1
+32237,Ignores keyboard events in JavaScript,2,2,2
+53095,[CVS Core] server .cvsignore file should be considered by client (1GCC6MB),4,4,1
+2598,middle-click pasting into unoccupied area of textarea often misplaces pasted text,0,2,2
+10538,deleting text leaves garbage on screen,1,2,2
+52660,Chrome registry should not be used for core component i18n and l10n,3,1,1
+9738,NGLayout crashes when loading this URL,1,1,0
+23960,<INPUT TYPE=IMAGE> element is not transparent,2,2,1
+29583,Add building of ucvibm in uconv to Mac build,2,2,2
+50022,scrolling broken within rotated SVG foreignObject elements,2,2,1
+11717,[IME/rule][IME-InsertIMETextTxn] Deleting unconverted hiragana characters does not work correctly,1,2,2
+29947,[REGRESSION] extra whitespace after beginning of body,2,2,1
+9787,too much whitespace between some elements on aol.com,1,2,2
+5613,IME system is broken,0,1,1
+53993,make it easy to run helper app for plugin,4,2,2
+49923,Links become undraggable when document contains contenteditable element,2,1,1
+18927,Printing in wrong order (1GF9XPI),2,2,1
+38055,Table between <div align=center></div> not centered,2,2,2
+41609,opening SA again after a restore crashes psm.,2,0,0
+46057,ADPCM files do not play in Nestcape 6,2,2,2
+25358,GFX-Edit field doesnt support tab,2,2,2
+21689,Bugs deal mainly with DOM Level 1 and HTML 4.0 specification,2,1,1
+46049,Going to Edit->preference cause focus lost,2,2,2
+20581,ABR: in region subtraction,2,2,0
+39786,% widths are not working on replaced elements (IMG width=%),2,1,2
+36486,Form embedded in table doesnt pass parameters correctly on post,2,2,1
+31861,nsLoadCookie::Init leaking an nsDocLoaderImpl,2,2,0
+43175,Cache-related misinterpretation of GIF files.,2,2,1
+21324,NECKO: Crashes mozilla-apprunner when encountering location.href=....,2,2,0
+35194,AutoTranslate-Source Language detects this page as German,2,2,2
+14523,Floats taken into account calculating the height of a float,1,1,1
+34071,Bring back the default color!,2,2,2
+13931,xpcom has dependency upon libjar,1,2,1
+26941,right click doesnt work within context menus,2,2,2
+31102,menus broken if first page could not load,2,2,2
+22075,mozregistry gets confused on upgrade without proper uninstall,2,2,2
+23908,apprunner crashes on Safe Form Fill dialog,2,2,0
+18797,Cant replace with team stream after switching repository (1GCOM0C),2,2,1
+39861,hideousjabberinghead.com displays its sidebar inconsistently with IE/Communicator,2,3,2
+50766,[Dialogs] ProgressDialog should only appear after some timeout (1G7PQHO),3,2,1
+12179,MLK: nsSplitterFrameInner leaks some data.,1,1,0
+20628,Euc-kr page does not display the correct characters,2,2,2
+44839,insufficient room in TABLE move IMG onto next line,2,2,2
+38110,[ssl] Trying to add CA/server cert from web page crashes mozilla if PSM is not installed,2,2,2
+12887,[RFE] Sort history by Day -> Site -> Page using an expanding list ala IE,1,2,2
+16126,Allow XPConnect global objects to be marked as JS global objects,1,0,0
+27690,textarea [TAB] should move to next field; not 6 spaces.,2,2,1
+50616,mach support for auto-loading command modules,2,2,1
+10816,[PP]:Background image loads last and takes eons to display,1,2,2
+35025,shift key event is not recognized,2,2,2
+16454,ASSERTION: scrollbars should not have been created with block-in-inline; overflow:inherit; and :first-line,1,1,0
+19516,After closing history sidebar; search results remain (but search text does not),2,0,2
+24342,Need icon art for named anchor,2,2,1
+6645,[FIX]Middle clicking bookmark with javascript URL fails,0,2,2
+21450,content of table cell with uneven borders positioned badly,2,2,1
+4007,HTML only save does the same as complete save in Linux,0,2,2
+22790,[FEATURE]write out the prefs file with #,2,2,1
+10587,[PP]http://members.aol.com: Frame problem in layout. Also; minimize; then maximize and page does not reload (hangs),1,2,2
+53131,We no longer suggest a version name (1GEK4Z8),4,0,2
+50098,images invalidate incorrect area when replacing loading-image icon,2,1,1
+9924,class=foo needs to be case insensitive; I think,1,2,2
+30848,Maximize state not retained on Win32,2,2,1
+9229,Use staging area for branded resources,1,2,1
+52311,Running Netscape 6/7 concurrently with Mozilla breaks cache,3,2,2
+11235,text frame painting errors when moving text content,1,1,1
+32669,Need to change JA translation in Find on Page dialog,2,2,2
+40238,M17 - Script tag src attributes seem to have a problem with http links,2,2,2
+31307,Cant select in editor window after focus moves away,2,2,2
+46490,Cutting of list items leaves trailing bullets/numbers.,2,2,2
+9748,script src= doesnt work,1,2,1
+39093,<LINK> to style sheet fails to style <A> properly,2,2,2
+22849,[STARTUP PERF] [PP]libreg too slow on mac,2,2,2
+5889,[FIX]XUL overlays violate BindToTree/UnbindFromTree invariants,0,0,1
+36729,Textbox text not automatically scrolled when hilited,2,2,2
+10095,ss:onkeypress event doesnt work,1,2,1
+47451,security/manager/Makefile.in doesnt effectively pass optimizer flags to NSS,2,1,1
+37695,XP file picker should start out in home directory,2,2,1
+29646,Port nsFileChannel to use nsIFile,2,2,1
+29212,extra vertical black hair line with window resize to smaller,2,2,1
+25099,display: table not rendered correctly,2,1,1
+6788,Missing parens around expclo body with delete ++x,0,0,0
+41430,Cant compile nsPrefMigration.cpp optimized,2,1,1
+5666,mouseover of <a href> </a> link with other tags inside does not show url in status bar,0,1,1
+4764,Need Level 3 IME Support on winxp for MS PinYin v3 ime,0,2,0
+53099,Need connect to team stream (1GCQPKW),4,2,2
+18897,Performance Problems (1GDW1R9),2,2,1
+13865,[FLOAT] tinderbox tables scrunched - LI tag after floating iframe,1,2,2
+8126,[HTML5][Focus] editor/libeditor/html/tests/test_bug455992.html fails,0,1,0
+20281,Bottom window border gets to tall when window is maximized,2,3,2
+2243,XMLHttpRequest object security vulnerability,0,2,2
+11080,Linking to a non-existent file:// stylesheet prevents application of styles!,1,2,2
+1573,CRASH on page with missing glyphs; form; floats...,0,0,0
+39045,Anchors with comma in name dont work,2,2,2
+42273,CTRL-R not functioning on Linux or Windows,2,2,2
+37590,localhost is not mapped to 127.0.0.1,2,2,2
+13921,WRMB: Plugin causes crash,1,2,0
+23170,[key] Win32 - AltGR key activates menu,2,2,2
+19621,Command-w (Ctrl+W) does not close Element Properties window,2,1,1
+37983,Table background is not displayed at all,2,2,2
+22070,Page stops parsing,2,2,2
+202,Intermittent browser_cmd_calllog.js | Test timed out,0,2,0
+3856,Make sure certificate downloading works immediately,0,2,2
+2730,Need API for posing Extrafenestral UI,0,0,0
+1779,crash clicking on text control at www.netaddress.com,0,2,2
+12615,Crash every single time printing any web document,1,0,0
+17061,Allow Firefox themes to change based on the OS theme,1,0,1
+4301,Incremental rendering is busted on fast connections,0,2,2
+26998,window.open dimensions should be inner size not outer size,2,2,2
+16221,[1.8 branch]Short IDN components cause truncation of domain name,1,2,1
+24811,onchange events in dropdown boxes not occurring properly,2,2,2
+14122,nsZipArchive allocations,1,2,1
+4229,infinite loop processing reflow events; doing View->Page Info/Media tab,0,2,2
+50001,Clicking menu doesnt work after dismissing it by clicking on title bar,2,1,2
+40705,Cookie support disabled on mac,2,2,2
+36218,Move images for Show All Tags edit mode to image folder under composer/content,2,1,1
+11499,Memory allocation and deallocation for char* data is flawed.,1,2,1
+48488,page rendered incorrectly,2,2,1
+33848,Background image on paragraph tiles from the paragraph to the bottom of the page,2,2,1
+38901,[STATE]When mouse is down on a scroll bar; and focus is lost; upon return to mozilla; the scroll bar is still active,2,2,2
+52123,clean up GetFrameForPoint,3,2,1
+23620,page comes up all black,2,2,2
+24334,css file fails to load,2,2,0
+28250,When loading any page; content window momentarily displays static,2,2,2
+48987,Implement Quirk - IE and Netscape render null value of TABLE cellspacing attribute differently,2,2,2
+28845,Large (pixels; not file size) GIFs do not display,2,2,1
+21151,NECKO: Need handler for mime type text/css,2,2,1
+36499,hundreds of TCP connexions in CLOSE_WAIT state,2,2,2
+51710,tabbox orientation works different in different skins,3,2,1
+24317,Proxy: Status messages only show proxy host (not real host),2,2,1
+36636,MLK: CSS stylesheet appears to leak.,2,2,2
+40835,Buttons do not visibly depress on mousedown,2,2,2
+21344,A:hover on Together link leaves base of g red,2,2,1
+23155,Problems writing unencountered namespace to RDF file,2,2,2
+16319,[FIX]When inserting table caption part of old table remains (doesnt repaint),1,1,1
+50776,[Viewers] StructuredViewer#setSelection(ISelection; boolean) (1GD2ACL),3,2,1
+34373,Remove execute permission from cache files,2,0,0
+38370,Final cleanup for charset override,2,0,1
+36352,Invalid alignment in nsDBAccessor::GetID,2,2,0
+5422,No overflow check for regexp back reference and quantifier bounds,0,2,0
+35102,mouse detect links through scrollbar,2,2,2
+18514,Click to Play doesnt play music on jango.com or other sites using the SoundManager2 library,1,2,2
+4274,Form Submission on Hotwire Results in Wrong Hotel Room!,0,2,2
+43241,content_length = 0 for http channel,2,2,1
+14562,FixupNode does not handle XML stylesheet processing instructions,1,2,1
+35637,XPInstall Results PSM: Error encountered -- -229,2,2,2
+36953,onClick event handler not working properly,2,2,2
+2384,United Nations homepage messed up,0,2,1
+28759,[DOGFOOD]Scrolling with arrow keys is broken,2,2,1
+14950,unable to select hrule; caret jumps to middle and blinks after inserting H.Line (HR; horizontal line),1,2,1
+17472,nsChannelToPipeListener passes incorrect values to UpdateBytesDownloaded,1,0,1
+23322,[feature] Toolbox D&D:Grippies need to initiate drags,2,0,0
+11326,{float} Image within table is truncated,1,2,2
+30634,Ctrl-Shift-Left/Right keys do not work,2,2,1
+13260,Need more meaningful error msg. when ssl is disabled,1,2,1
+20704,{inc}[FLOAT] right floating elements bigger than parent touch wrong edge,2,2,1
+53629,setStartBefore setEndAfter do not include element,4,2,2
+37327,PSM threads consume 100% CPU forever after visiting above URL,2,2,2
+52456,clipped div causing extra scroll in the page,3,2,2
+45050,Specific web page loads 20x slower then netscape 4.75,2,2,2
+47631,PlatformPrePopulateRegistry does 6282 allocations,2,0,0
+34648,Readme on PR-1 CD issues...,2,2,1
+16885,Cycle collection related crashes after out of memory error?,1,0,0
+24447,[pp]instantiated tooltip disables popupmenu,2,2,2
